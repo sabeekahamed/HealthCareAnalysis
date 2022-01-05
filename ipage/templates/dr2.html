@@ -1,0 +1,14 @@
+{% extends "extdlogin.html" %}
+{% block c %}
+<div class="modal">
+    <div class="c-content">
+      <div class="modal-body">
+        <form method="post">{% csrf_token %}
+          <center><h1>Give the test results</h1></center>
+            <h4 style="margin-left:5%;"> Sputum Test : {{form.sp}} x-ray test : {{form.xr}}  Genexpert test : {{form.gt}} Cavitaion Test : {{form.ct}}  HIV : {{form.hiv}} cd4+ test : {{form.cd4}} </h4>
+            <button type="submit"> Submit </button>
+        </form>
+      </div>
+    </div>
+  </div>
+{% endblock %}

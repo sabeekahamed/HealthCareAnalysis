@@ -1,0 +1,85 @@
+S/N,Manufacturer,Name,Type,Unit(Dose),Constituents/Unit,Package unit,Price(In Rs.),Price/Unit (In Rs.)
+1,Jan Aushadhi,Carbamazepine 200 mg (Jan Aushadhi),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,9.2,0.92
+2,Micro Labs Ltd,Versizur (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,10,1
+3,Osho Pharma Pvt.Ltd.,Arbetol (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,11,1.1
+4,Concord Biotech Ltd.,Mezapine (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,100 Tablet,110,1.1
+5,Mind (Torrent Pharmaceuticals Ltd.),Carbatol (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,11.17,1.12
+6,Magnet Labs Pvt Ltd (Mankind Pharmaceuticals Pvt. Ltd),Normapine (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,11.62,1.16
+7,Synapse (Micro Labs Ltd),Versitol (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,11.82,1.18
+8,Polaris (Symbiosis Pharmaceuticals Pvt Ltd),Riscarb (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,100 Tablet,120,1.2
+9,Konark Life Sciences,Antep (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,12.3,1.23
+10,Crescent Formulations Pvt Ltd (Crescent Therapeutics Ltd. ),Zigma (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,12.75,1.28
+11,Piramal Healthcare,Mazetol (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,13.02,1.3
+12,Intas Laboratories Pvt Ltd,Zen (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,13.02,1.3
+13,Sun Pharmaceutical Industries Ltd.,Zeptol (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,13.02,1.3
+14,Intas Laboratories Pvt Ltd,Zen Retard (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,13.58,1.36
+15,Mind (Torrent Pharmaceuticals Ltd.),Carbatol CR (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,13.58,1.36
+16,Abbott Healthcare Pvt Ltd (AHPL),Mazetol SR (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,13.72,1.37
+17,Synapse (Micro Labs Ltd),Versitol RTD (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,14.02,1.4
+18,Sun Pharmaceutical Industries Ltd.,Zeptol CR (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,14.17,1.42
+19,Gentech Healthcare Pvt Ltd,Carbasure SR (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,14.3,1.43
+20,Modi Mundi Pharma Ltd.,Carbacontin (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,14.38,1.44
+21,Crescent Formulations Pvt Ltd (Crescent Therapeutics Ltd. ),Zigma CR (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,14.45,1.45
+22,Grandix Pharmaceuticals,Ictozep (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,14.5,1.45
+23,Allied Chemicals & Pharmaceuticals Pvt.Ltd.,Ametol (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,14.62,1.46
+24,Cinerea Biotech,Cincar (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,15,1.5
+25,Marc Laboratories Pvt. Ltd.,Fobigone (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,15.1,1.51
+26,La Pharmaceuticals,Mezapin (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,15.9,1.59
+27,Zorex Pharma Pvt. Ltd.,Zepizor (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,16,1.6
+28,Reliance Formulation Pvt Ltd,Mezaril (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,16,1.6
+29,Psyco Remedies.,Antilep CR (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,16,1.6
+30,Pifer Pharmaceuticals Pvt Ltd,C Lep (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,16,1.6
+31,Psyco Remedies.,Antilep (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,16,1.6
+32,Baroda Pharma Pvt Ltd,Epix (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,16.32,1.63
+33,Elite Pharma Pvt Ltd,Megrelite (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,16.35,1.64
+34,Mano (Orchid Chemicals & Pharmaceuticals Ltd.),Monocarb (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,16.36,1.64
+35,Cipla Limited,Cizetol (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,16.4,1.64
+36,Dagon Pharmaceuticals Pvt. Ltd.,Zintol (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,25 Tablet,41,1.64
+37,Taurus Laboratories Pvt. Ltd.,Carzep (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,16.5,1.65
+38,East African (I) Remedies Pvt Ltd,Cariv (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,100 Tablet,167,1.67
+39,Pentacare (Alkem Laboratories Ltd),Zepcar DT (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,16.85,1.69
+40,Pharmacia India Ltd,Acetol (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,16.9,1.69
+41,Lifecare Innovations Pvt. Ltd.,Zep (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,16.99,1.7
+42,Tas Med (I) Pvt. Ltd.,Epilep (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,17,1.7
+43,K.C. Laboratories Pvt. Ltd.,Seizurone (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,17,1.7
+44,La Pharmaceuticals,Mezapin Ext (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,17.2,1.72
+45,Megacare (Alembic Chemical Works Co Ltd),Carmeg (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,17.23,1.72
+46,East West Pharma,Carizine (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,17.5,1.75
+47,East West Pharma,Carzine (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,17.5,1.75
+48,Densa Pharmaceuticals Pvt.Ltd.,Karpin (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,17.51,1.75
+49,Sun Pharmaceutical Industries Ltd.,Carmaz (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,17.64,1.76
+50,Novartis Pharmaceuticals Ltd.,Tegrital (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,17.86,1.79
+51,Novartis India Limited,Tegretol (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,17.96,1.8
+52,Themis Chemicals Ltd.,Epinil (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,17.96,1.8
+53,Elikem Pharmaceuticals Pvt. Ltd.,Evic (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,18,1.8
+54,Tosc International Pvt Ltd.,Setol (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,100 Tablet,180,1.8
+55,Aarpik Pharmaceuticals Pvt. Ltd.,Maze (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,18,1.8
+56,Paradigm Healthcare,Biocarb (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,100 Tablet,180,1.8
+57,Konark Life Sciences,Antep XR (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,18.5,1.85
+58,Tas Med (I) Pvt. Ltd.,Epilep SR (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,19,1.9
+59,Pifer Pharmaceuticals Pvt Ltd,C Lep SR (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,19,1.9
+60,Pharmacia India Ltd,Acetol CR (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,19,1.9
+61,Elite Pharma Pvt Ltd,Megrelite CR (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,19.2,1.92
+62,Reliance Formulation Pvt Ltd,Mezaril SR (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,19.21,1.92
+63,Orchid Chemicals & Pharmaceuticals Ltd.,Salicarb SR (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,19.22,1.92
+64,Elikem Pharmaceuticals Pvt. Ltd.,Evic SR (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,19.4,1.94
+65,Pentacare (Alkem Laboratories Ltd),Zepcar CR (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,19.73,1.97
+66,Jpee Drugs,Petol (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,64 Tablet,128,2
+67,Cyril Pharmaceuticals,Tegtol CR (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,20,2
+68,Zeus Pharmaceuticals,Tegril CR (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,20,2
+69,Sykocure Lifesciences,Corgone (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,20,2
+70,Jeen Healthcare,Carba-J (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,200 Tablet,400,2
+71,Talent Healthcare,Epilent SR (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,100 Tablet,202,2.02
+72,Nexus Biotech,Carz (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,20.26,2.03
+73,Medisys Biotech Pvt. Ltd.,Carz-CR (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,20.3,2.03
+74,Lifecare Innovations Pvt. Ltd.,Zep CR (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,20.51,2.05
+75,Unicure (India) Pvt.Ltd.,Carbamazepine (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,20.62,2.06
+76,Pharma Synth Formulations Ltd.,Epinova (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,21,2.1
+77,Novartis Pharmaceuticals Ltd.,Tegrital CR (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,21.4,2.14
+78,Cadila Healthcare (Zydus Cadila Healthcare Ltd),Carbadac (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,6 Tablet,13,2.17
+79,Alidac Genetics & Pharmaceuticals,Carbdac (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,6 Tablet,13,2.17
+80,Aarpik Pharmaceuticals Pvt. Ltd.,Maze SR (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,22.4,2.24
+81,Axis Life Science Pvt Ltd,Carmez-CR (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,100 Tablet,225,2.25
+82,Ind-Swift Limited,Swiztol (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,22.5,2.25
+83,Sykocure Lifesciences,Corgone SR (200 mg),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,23,2.3
+84,Low Cost Standard Therapeutics (LOCOST),Carbamazepine (200 mg) (LOCOST),Tablet    ,1 Tablet,Carbamazepine-200 mg,10 Tablet,24,2.4

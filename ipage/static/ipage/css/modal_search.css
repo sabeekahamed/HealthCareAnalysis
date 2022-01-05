@@ -1,0 +1,118 @@
+/* The Modal (background) */
+
+.modal {
+  display: block;
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 0; /* Location of the box */
+  left: 0px;
+  top: 0px;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgba(0,0,0,0.3); /* Black w/ opacity */
+  color:white;
+}
+
+/* Modal Content */
+
+.modal-content {
+  position: relative;
+  left:38%;
+  top:30%;
+  background-color:rgba(0, 0, 0,0.5);
+  text-indent: 10px;
+  padding: 0px;
+  border: 1px solid #888;
+  width: 360px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+  -webkit-animation-name: animatetop;
+  -webkit-animation-duration: 0.4s;
+  animation-name: animatetop;
+  animation-duration: 0.9s
+}
+
+.questions-content {
+  border-radius: 5px;
+  display: block;
+  position: relative;
+  height:80%;
+  overflow: auto;
+  top:10%;
+  left:6%;
+  background-color:rgba(0, 0, 0,0.5);
+  text-indent: 10px;
+  padding: 0px;
+  border: 1px solid #888;
+  width: 90%;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+  -webkit-animation-name: searchtop;
+  -webkit-animation-duration: 0.4s;
+  animation-name: searchtop;
+  animation-duration: 0.9s
+}
+
+.c-content {
+  border-radius: 5px;
+  display: block;
+  position: relative;
+  height:60%;
+  overflow: auto;
+  top:20%;
+  left:10%;
+  background-color:rgba(0, 0, 0,0.5);
+  text-indent: 10px;
+  padding: 0px;
+  border: 1px solid #888;
+  width: 80%;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+  -webkit-animation-name: stop;
+  -webkit-animation-duration: 0.4s;
+  animation-name: stop;
+  animation-duration: 0.9s
+}
+
+#line {
+    margin-left: 20%;
+    margin-right: 20%;
+    height: 1px;
+    background: red; /* For browsers that do not support gradients */
+    background-color:white; /* Standard syntax (must be last) */
+}
+
+
+/* Add Animation */
+@-webkit-keyframes searchtop {
+  from {top:-30%; opacity:0}
+  to {top:10%; opacity:1}
+}
+
+@keyframes searchtop {
+  from {top:-30%; opacity:0}
+  to {top:10%; opacity:1}
+}
+
+@-webkit-keyframes stop {
+  from {top:-30%; opacity:0}
+  to {top:20%; opacity:1}
+}
+
+@keyframes stop {
+  from {top:-30%; opacity:0}
+  to {top:20%; opacity:1}
+}
+
+@-webkit-keyframes animatetop {
+  from {top:-30%; opacity:0}
+  to {top:30%; opacity:1}
+}
+
+@keyframes animatetop {
+  from {top:-30%; opacity:0}
+  to {top:30%; opacity:1}
+}
+
+@media (max-width: 600px) {
+  .modal {
+    left:0; /* Hide the carousel text when the screen is less than 600 pixels wide */
+  }
+}

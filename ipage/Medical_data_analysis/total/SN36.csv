@@ -1,0 +1,189 @@
+S/N,Manufacturer,Name,Type,Unit(Dose),Constituents/Unit,Package unit,Price(In Rs.),Price/Unit (In Rs.)
+1,Intas Laboratories Pvt Ltd,Betni Tab (4 mg),Tablet    ,1 Tablet,Betamethasone-4 mg,10 Tablet,3.48,0.35
+2,Unicure (India) Pvt.Ltd.,Triamcinolone (4 mg),Tablet    ,1 Tablet,Triamcinolone-4 mg,10 Tablet,3.75,0.38
+3,Zee Laboratories Ltd,Pree M (4 mg),Tablet    ,1 Tablet,Methyl Prednisolone-4 mg,10 Tablet,4.9,0.49
+4,Venus Remedies,Mega Pred (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,11.4,1.14
+5,J.B. Chemicals & Pharmaceuticals Ltd.,Dispred DT (4 mg),Tablet    ,1 Tablet,Prednisolone-4 mg,10 Tablet,11.86,1.19
+6,Arvincare,Avpred (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,120 Tablet,142.32,1.19
+7,Mankind Pharmaceuticals Pvt. Ltd.,Nucort M (4 mg),Tablet    ,1 Tablet,Methyl Prednisolone-4 mg,10 Tablet,12.19,1.22
+8,Gratia (Micro Labs Ltd),Predace (4 mg),Tablet    ,1 Tablet,Prednisolone-4 mg,10 Tablet,12.55,1.26
+9,Piramal Healthcare,Nicort (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,12.99,1.3
+10,Themis Medicare Ltd.,Pericort (4 mg),Tablet    ,1 Tablet,Triamcinolone-4 mg,10 Tablet,19.19,1.92
+11,Cadila Healthcare (Zydus Cadila Healthcare Ltd),Tricort (4 mg),Tablet    ,1 Tablet,Triamcinolone-4 mg,10 Tablet,21,2.1
+12,Merind Ltd (Wockhardt Ltd),Decdak (4 mg),Tablet    ,1 Tablet,Dexamethasone-4 mg,10 Tablet,21.8,2.18
+13,GMD Pharmaceuticals,Trilone (4 mg),Tablet    ,1 Tablet,Triamcinolone-4 mg,10 Tablet,23,2.3
+14,Sun Pharmaceutical Industries Ltd.,Zempred (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,27.5,2.75
+15,Sun Pharmaceutical Industries Ltd.,Predmet (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,27.5,2.75
+16,Sun Pharmaceutical Industries Ltd.,Ivepred (4 mg),Tablet    ,1 Tablet,Methyl Prednisolone-4 mg,10 Tablet,29.5,2.95
+17,Trumac Healthcare,Medicort (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,30,3
+18,Globela Pharma Pvt. Ltd.,Dexacee,Tablet    ,1 Tablet,Dexamethasone-4 mg ,10 Tablet,30,3
+19,N.B. Healthcare,Prelonb (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,30.7,3.07
+20,Rasco Life Sciences,Mypred (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,31,3.1
+21,Orion Biotech Pvt. Ltd.,Predon M (4 mg),Tablet    ,1 Tablet,Methyl Prednisolone-4 mg,10 Tablet,31,3.1
+22,Aronex Life Sciences Pvt. Ltd.,Lumi M (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,31.1,3.11
+23,Saviour Speciality,Hysone (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,32,3.2
+24,Meridian Medicare Ltd.,Mericort (4 mg),Tablet    ,1 Tablet,Triamcinolone-4 mg,10 Tablet,32,3.2
+25,Human Life Sciences,Solulife (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,33,3.3
+26,Venus Remedies,Solu Cort (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,33.65,3.37
+27,BMW Pharmaco India Pvt Ltd,Nayapred (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,100 Tablet,337,3.37
+28,Lupin Laboratories Ltd.,Sterio (4 mg),Tablet    ,1 Tablet,Methyl Prednisolone-4 mg,10 Tablet,34.4,3.44
+29,Zenon Healthcare,Zencort M (4 mg),Tablet    ,1 Tablet,Methyl Prednisolone-4 mg,10 Tablet,34.5,3.45
+30,Thurs Pharmaceuticals,Betmet (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,35,3.5
+31,Neiss Labs Pvt.Ltd.,Nispred (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,36,3.6
+32,Grampus Laboratories,GMP (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,37,3.7
+33,Multicure (Laborate Pharmaceuticals India Ltd.),Labsolon (4 mg),Tablet    ,1 Tablet,Methyl Prednisolone-4 mg,10 Tablet,37.5,3.75
+34,Psychotropics India Limited,Melsone (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,37.5,3.75
+35,Ultra Chiron Pharma Pvt Ltd,Ultrapred (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,37.8,3.78
+36,Quadriga Biotech Pvt Ltd,Rigapred (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,37.8,3.78
+37,Quixotic Pharma (P) Ltd.,Qupred (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,37.8,3.78
+38,Magnet Labs Pvt Ltd (Mankind Pharmaceuticals Pvt. Ltd),Cambisol (4 mg),Tablet    ,1 Tablet,Methyl Prednisolone-4 mg,10 Tablet,38,3.8
+39,Meridian Medicare Ltd.,Meripred (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,38,3.8
+40,Magnet Labs Pvt Ltd (Mankind Pharmaceuticals Pvt. Ltd),Cortinet M (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,38,3.8
+41,Gnosis Pharmaceuticals (P) Ltd,Prednosis (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,39,3.9
+42,CE-Biotec (P) Ltd.,SScort (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg ,10 Tablet,39,3.9
+43,Shalman Pharmaceuticals Pvt. Ltd.,Meplon (4 mg),Tablet    ,1 Tablet,Methyl Prednisolone-4 mg,10 Tablet,39,3.9
+44,Lancer Pharmaceuticals (P) Ltd.,Elpred M (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,39.5,3.95
+45,Critical Care (Cipla Ltd),Melpred (4 mg),Tablet    ,1 Tablet,Prednisolone-4 mg,10 Tablet,39.52,3.95
+46,Abbott Healthcare Pvt Ltd (AHPL),Kenacort (4 mg),Tablet    ,1 Tablet,Triamcinolone-4 mg,10 Tablet,39.8,3.98
+47,Oyster Labs Limited,Ocart MP (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,39.8,3.98
+48,Salvia Labs Pvt Ltd,Mepred (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,39.9,3.99
+49,Octavius Pharma,Metroz (4 mg),Tablet    ,1 Tablet,Methyl Prednisolone-4 mg ,10 Tablet,40,4
+50,Coastal (Symbiosis Pharmaceuticals Pvt Ltd),Methisa 4,Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,40,4
+51,Auztus Laboratories Pvt. Ltd.,Metcort (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,40,4
+52,Samarth Pharma Pvt. Ltd.,Dexane (4 mg),Tablet    ,1 Tablet,Dexamethasone-4 mg,10 Tablet,40,4
+53,Molekule (India) Pvt. Ltd.,Premisol (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,40,4
+54,Jasco Lab (P) Ltd.,Jascort (4 mg),Tablet    ,1 Tablet,Methyl Prednisolone-4 mg,10 Tablet,40,4
+55,Wyeth Ltd.,Ledercort (4 mg),Tablet    ,1 Tablet,Triamcinolone-4 mg,10 Tablet,40.97,4.1
+56,Pharmacia & Upjohn (India) Pvt Ltd,Medrol (4 mg),Tablet    ,1 Tablet,Methyl Prednisolone-4 mg,10 Tablet,41,4.1
+57,Apotex Lifesciences,Premeth (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,41,4.1
+58,Aeroforce (German Remedies),Depotex (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,41,4.1
+59,East West Pharma,Cartipred (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,41,4.1
+60,Uniroyal Biotech,Prelone (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,41,4.1
+61,Samarth Pharma Pvt. Ltd.,Mypred (4 mg) (Samarth Pharma),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,41.5,4.15
+62,Intas Pharmaceuticals Ltd.,Mepresso T (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,41.8,4.18
+63,Alna Biotech,Edicord (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,43,4.3
+64,Ferring Pharmaceuticals,Acto Pred (4 mg),Tablet    ,1 Tablet,Prednisolone-4 mg,10 Tablet,44,4.4
+65,Biosciences-Pharmakon,Lupus (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,44,4.4
+66,Biosciences-Pharmakon,Biolone (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,100 Tablet,440,4.4
+67,Safetech Formulation,Sterid (4 mg),Tablet    ,1 Tablet,Methyl Prednisolone-4 mg,10 Tablet,44,4.4
+68,Elcure Pharmaceuticals,Elopred (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,45,4.5
+69,Lactonova India,Novacart (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,100 Tablet,450,4.5
+70,Lactonova India,Novacort (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,45,4.5
+71,Arlak Biotech Pvt Ltd,Sym (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,45,4.5
+72,Total Healthcare,M Pred (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,45,4.5
+73,Amble Biotech Pvt Ltd,Ambsone,Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,45,4.5
+74,Nitro Organics,Mepred (4 mg) (Nitro Organics),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,45,4.5
+75,Arlak Biotech Pvt Ltd,STM (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,45,4.5
+76,Esma Formulations,Meprosol (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,45,4.5
+77,Talent Healthcare,M Proud (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,46,4.6
+78,Zenlabs India,Mep (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,46,4.6
+79,Kavya Healthcare,Metsol (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,46,4.6
+80,Altar Life Sciences (Altar Healthcare),Tropy (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,46,4.6
+81,Zodley Pharmaceuticals Pvt Ltd,Zopride (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,46,4.6
+82,Manserve Pharma,Solar (4 mg),Tablet    ,1 Tablet,Methyl Prednisolone-4 mg,10 Tablet,48,4.8
+83,Elfin Drugs Pvt. Ltd. (Elfin Pharma Pvt Ltd),Mslone (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,48,4.8
+84,Blubell Pharma,Solme (4 mg),Tablet    ,1 Tablet,Methyl Prednisolone-4 mg,10 Tablet,48,4.8
+85,Arika Healthcare,Aricort M (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,49,4.9
+86,Welbe Life Sciences,Welone (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,49,4.9
+87,Globus Remedies Ltd,Predus (4 mg),Tablet    ,1 Tablet,Methyl Prednisolone-4 mg,10 Tablet,49,4.9
+88,Genetic Pharma,Gemdrol (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,49,4.9
+89,Innovative Pharmaceuticals,Predzest (4 mg),Tablet    ,1 Tablet,Methyl Prednisolone-4 mg ,10 Tablet,49.5,4.95
+90,GLS Pharmaceuticals Pvt Ltd,Decmax (4 mg),Tablet    ,1 Tablet,Dexamethasone-4 mg ,10 Tablet,50,5
+91,Paragon Pharmaceuticals,Deesolone (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,50,5
+92,Sarian Healthcare,Aripride (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg ,10 Tablet,50,5
+93,Canbro Healthcare,Meday (4 mg),Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,56,5.6
+94,Exmed Healthcare,Expred 4,Tablet    ,1 Tablet,Methylprednisolone-4 mg,10 Tablet,57.6,5.76
+95,Aegis Pharmaceuticals,Metpro (4 mg),Tablet    ,1 Tablet,Methyl Prednisolone-4 mg,10 Tablet,80,8
+96,SPM Drugs Pvt. Ltd.,Bupicaine (120 mg),Injection    ,1 ml,Dexamethasone-4 mg,30 ml,25,0.83
+97,Intas Laboratories Pvt Ltd,Deksa (80 mg),Injection    ,1 ml,Dexamethasone-4 mg,20 ml,17.99,0.9
+98,Intas Laboratories Pvt Ltd,Baksa (80 mg),Injection    ,1 ml,Dexamethasone-4 mg,20 ml,17.99,0.9
+99,SPM Drugs Pvt. Ltd.,Bupicaine (80 mg),Injection    ,1 ml,Dexamethasone-4 mg,20 ml,19,0.95
+100,Sanjivani Parenteral Ltd,Dedron (80 mg),Injection    ,1 ml,Dexamethasone-4 mg,20 ml,22,1.1
+101,Intas Laboratories Pvt Ltd,Deksa (40 mg),Injection    ,1 ml,Dexamethasone-4 mg,10 ml,11.8,1.18
+102,Intas Laboratories Pvt Ltd,Beksa (40 mg),Injection    ,1 ml,Dexamethasone-4 mg,10 ml,11.8,1.18
+103,Laborate Pharmaceuticals India Ltd.,Dexalab (120 mg),Injection    ,1 ml,Dexamethasone-4 mg,30 ml,36.9,1.23
+104,SPM Drugs Pvt. Ltd.,Bupicaine (40 mg),Injection    ,1 ml,Dexamethasone-4 mg,10 ml,12.5,1.25
+105,Laborate Pharmaceuticals India Ltd.,Dexalab (40 mg),Injection    ,1 ml,Dexamethasone-4 mg,10 ml,13.62,1.36
+106,Core Pharmaceuticals Ltd.,Dexacore (80 mg),Injection    ,1 ml,Dexamethasone-4 mg,20 ml,32,1.6
+107,Sanjivani Parenteral Ltd,Dedron (40 mg),Injection    ,1 ml,Dexamethasone-4 mg,10 ml,16,1.6
+108,SPM Drugs Pvt. Ltd.,Dexasone (8 mg),Injection    ,1 ml,Dexamethasone-4 mg,2 ml,3.3,1.65
+109,Genvista (Cadila Pharmaceuticals Ltd.),Demisone (40 mg),Injection    ,1 ml,Dexamethasone-4 mg,10 ml,18,1.8
+110,SPM Drugs Pvt. Ltd.,Bupicaine (20 mg),Injection    ,1 ml,Dexamethasone-4 mg,5 ml,9,1.8
+111,Generic (Cadila Pharmaceuticals Ltd.),Dexamethasone (40 mg) (Cadila),Injection    ,1 ml,Dexamethasone-4 mg,10 ml,18,1.8
+112,Generic (Cadila Pharmaceuticals Ltd.),Dexamethasone (80 mg) (Cadila),Injection    ,1 ml,Dexamethasone-4 mg,20 ml,40,2
+113,Biomedica International,Dexapar (120 mg),Injection    ,1 ml,Dexamethasone Sodium-4 mg,30 ml,60,2
+114,Genvista (Cadila Pharmaceuticals Ltd.),Demisone (80 mg),Injection    ,1 ml,Dexamethasone-4 mg,20 ml,40,2
+115,Obzone Pharmaceuticals Pvt. Ltd.,Zyzone (40 mg),Injection    ,1 ml,Dexamethasone-4 mg,10 ml,23,2.3
+116,Cosmopack Pvt Ltd,Cosmodex (8 mg),Injection    ,1 ml,Dexamethasone-4 mg,2 ml,5,2.5
+117,Core Pharmaceuticals Ltd.,Dexacore (40 mg),Injection    ,1 ml,Dexamethasone-4 mg,10 ml,25,2.5
+118,Pharma Corp Inc.,Deosone (120 mg),Injection    ,1 ml,Dexamethasone-4 mg,30 ml,85,2.83
+119,Biomedica International,Betapar (20 mg),Injection    ,1 ml,Betamethasone Sodium-4 mg,5 ml,14.5,2.9
+120,Innovative Pharmaceuticals,Dexobet (4 mg),Injection    ,1 ml,Dexamethasone-4 mg ,2 ml,5.81,2.91
+121,Innovative Pharmaceuticals,Dexobet (30 ml),Injection    ,1 ml,Dexamethasone-4 mg ,30 ml,87.25,2.91
+122,Biomedica International,Dexapar (40 mg),Injection    ,1 ml,Dexamethasone Sodium-4 mg,10 ml,30,3
+123,Coles Pharma,Dexicol (8 mg),Injection    ,1 ml,Dexamethasone-4 mg,2 ml,6.48,3.24
+124,SPM Drugs Pvt. Ltd.,Betasone (8 mg),Injection    ,1 ml,Betamethasone-4 mg,2 ml,6.5,3.25
+125,Sanjivani Parenteral Ltd,Dexamethasone (80 mg),Injection    ,1 ml,Dexamethasone-4 mg,20 ml,69,3.45
+126,Intas Laboratories Pvt Ltd,Deksa (8 mg),Injection    ,1 ml,Dexamethasone-4 mg,2 ml,6.98,3.49
+127,SPM Drugs Pvt. Ltd.,Bupicaine (8 mg),Injection    ,1 ml,Dexamethasone-4 mg,2 ml,7,3.5
+128,Intra Labs India Pvt Ltd,Intradex (8 mg),Injection    ,1 ml,Dexamethasone-4 mg,2 ml,7.12,3.56
+129,Intas Laboratories Pvt Ltd,Beksa (8 mg),Injection    ,1 ml,Dexamethasone-4 mg,2 ml,7.13,3.57
+130,Cadila Pharmaceuticals Ltd.,Dexasone (40 mg),Injection    ,1 ml,Dexamethasone-4 mg,10 ml,36,3.6
+131,Sunways India Pvt. Ltd.,Dekortyn (8 mg),Injection    ,1 ml,Dexamethasone-4 mg,2 ml,7.35,3.68
+132,Pharma Corp Inc.,Deosone (40 mg),Injection    ,1 ml,Dexamethasone-4 mg,10 ml,38,3.8
+133,SPM Drugs Pvt. Ltd.,Betasone (4 mg),Injection    ,1 ml,Betamethasone-4 mg,1 ml,3.9,3.9
+134,Generic (Cadila Pharmaceuticals Ltd.),Dexasone (8 mg) (Generic),Injection    ,1 ml,Dexamethasone-4 mg,2 ml,7.86,3.93
+135,Coles Pharma,Betnecol (4 mg),Injection    ,1 ml,Betamethasone Sodium Phosphate-4 mg,1 ml,4,4
+136,Mak Pharmaceuticals,D Sone (8 mg),Injection    ,1 ml,Dexamethasone-4 mg ,2 ml,8,4
+137,Intas Laboratories Pvt Ltd,Betni (4 mg),Injection    ,1 ml,Betamethasone-4 mg,1 ml,4.16,4.16
+138,Laborate Pharmaceuticals India Ltd.,Dexalab (8 mg),Injection    ,1 ml,Dexamethasone-4 mg,2 ml,8.75,4.38
+139,Innovative Pharmaceuticals,Betnedac (4mg),Injection    ,1 ml,Betamethasone Sodium Phosphate-4 mg ,1 ml,4.41,4.41
+140,Cipla Limited,Dexacip (8 mg),Injection    ,1 ml,Dexamethasone-4 mg,2 ml,8.84,4.42
+141,Odin Healthcare Pvt Ltd,OD Dex (8 mg),Injection    ,1 ml,Dexamethasone-4 mg,2 ml,8.86,4.43
+142,Rass Healthcare,Dexar (8 mg),Injection    ,1 ml,Dexamethasone-4 mg,2 ml,8.9,4.45
+143,Vensat Bio,Dex V (8 mg),Injection    ,1 ml,Dexamethasone-4 mg,2 ml,8.9,4.45
+144,Acron Laboratories Pvt. Ltd.,Dexacron (8 mg),Injection    ,1 ml,Dexamethasone-4 mg,2 ml,9,4.5
+145,Pharma Corp Inc.,Dexasoporin (8 mg),Injection    ,1 ml,Dexamethasone-4 mg,2 ml,9,4.5
+146,Sterkem Pharma Pvt Ltd,Dexaject (8 mg),Injection    ,1 ml,Dexamethasone-4 mg,2 ml,9.14,4.57
+147,Jpee Drugs,Exzy (8 mg),Injection    ,1 ml,Dexamethasone-4 mg,2 ml,9.22,4.61
+148,Jpee Drugs,Dexzy (8 mg),Injection    ,1 ml,Dexamethasone-4 mg,2 ml,9.22,4.61
+149,Generic (Cadila Pharmaceuticals Ltd.),Dexasone (8 mg),Injection    ,1 ml,Dexamethasone-4 mg,2 ml,9.36,4.68
+150,Wyeth Ltd.,Wymesone (8 mg),Injection    ,1 ml,Dexamethasone-4 mg,2 ml,9.48,4.74
+151,Neon Laboratories Ltd,Dex (8 mg),Injection    ,1 ml,Dexamethasone-4 mg,2 ml,9.48,4.74
+152,Core Pharmaceuticals Ltd.,Dexacore (8 mg),Injection    ,1 ml,Dexamethasone-4 mg,2 ml,9.5,4.75
+153,Intra Labs India Pvt Ltd,Decrina (8 mg),Injection    ,1 ml,Dexamethasone-4 mg,2 ml,9.52,4.76
+154,Indian Drugs & Pharmaceuticals Ltd.,Idizone (8 mg),Injection    ,1 ml,Dexamethasone-4 mg,2 ml,9.58,4.79
+155,Sanjivani Parenteral Ltd,Dexamethasone (8 mg),Injection    ,1 ml,Dexamethasone-4 mg,2 ml,9.58,4.79
+156,Ind-Swift Limited,Stemin (4 mg),Injection    ,1 ml,Betamethasone-4 mg,1 ml,4.8,4.8
+157,Zydus Cadila Healthcare Ltd,Dexona (8 mg),Injection    ,1 ml,Dexamethasone-4 mg,2 ml,9.6,4.8
+158,Hauz Pharma Pvt Ltd,Mexa (8 mg),Injection    ,1 ml,Dexamethasone-4 mg,2 ml,9.6,4.8
+159,Zentis Drugs Pvt Ltd,Dexnor (8 mg),Injection    ,1 ml,Dexamethasone-4 mg,2 ml,9.6,4.8
+160,Ancalima Life Sciences Ltd.,Limadex (8 mg),Injection    ,1 ml,Dexamethasone-4 mg,2 ml,9.7,4.85
+161,Medopharm,Betsone (4 mg),Injection    ,1 ml,Betamethasone-4 mg,1 ml,4.85,4.85
+162,Pfiscar India Limited,Pfidex (8 mg),Injection    ,1 ml,Dexamethasone-4 mg,2 ml,9.7,4.85
+163,Sanjivani Parenteral Ltd,Dedron (8 mg),Injection    ,1 ml,Dexamethasone-4 mg,2 ml,9.75,4.88
+164,Ind-Swift Limited,Stedex (8 mg),Injection    ,1 ml,Dexamethasone-4 mg,2 ml,9.77,4.89
+165,Merind Ltd (Wockhardt Ltd),Decdan (8 mg),Injection    ,1 ml,Dexamethasone-4 mg,2 ml,9.97,4.99
+166,Kokad Pharmaceutical Laboratories Ltd,Betamethasone Sodium Phosphate (4 mg),Injection    ,1 ml,Betamethasone Sodium Phosphate-4 mg,1 ml,5,5
+167,Glaxo Smithkline Pharmaceuticals Ltd.,Betnelan (4 mg),Injection    ,1 ml,Betamethasone-4 mg,1 ml,5,5
+168,Parex Phamaceuticals Pvt. Ltd.,Beta SP (4 mg),Injection    ,1 ml,Betamethasone Sodium-4 mg,1 ml,5,5
+169,Biocin Genetics & Pharma,Zodex (8 mg),Injection    ,1 ml,Dexamethasone-4 mg,2 ml,10,5
+170,Paksons Pharmaceuticals (P) Ltd.,Betacort (4 mg) (Paksons Pharma),Injection    ,1 ml,Betamethasone Sodium Phosphate-4 mg,1 ml,5,5
+171,Oscar Remedies Pvt. Ltd.,Osidex (8 mg),Injection    ,1 ml,Dexamethasone-4 mg,2 ml,10,5
+172,Jpee Drugs,Beta (4 mg),Injection    ,1 ml,Betamethasone-4 mg,1 ml,5,5
+173,Inovative Oversease Inc.,Betacort (4 mg),Injection    ,1 ml,Betamethasone Sodium Phosphate-4 mg,1 ml,5.05,5.05
+174,Kim Laboratories Pvt Ltd.,Alerkim (4 mg),Injection    ,1 ml,Betamethasone-4 mg,1 ml,5.12,5.12
+175,Alice Healthcare (P) Ltd,Adexa (8 mg),Injection    ,1 ml,Dexamethasone-4 mg,2 ml,10.3,5.15
+176,Redson Labs Pvt Ltd,Dexonil (8 mg),Injection    ,1 ml,Dexamethasone-4 mg,2 ml,10.34,5.17
+177,Adison Laboratories,Dex (8 mg) (Adison Labs),Injection    ,1 ml,Dexamethasone-4 mg,2 ml,10.34,5.17
+178,Daksh Pharma,Daksone (8 mg),Injection    ,1 ml,Dexamethasone-4 mg,2 ml,10.4,5.2
+179,Biomedica International,Dexapar (8 mg),Injection    ,1 ml,Dexamethasone Sodium-4 mg,2 ml,10.8,5.4
+180,Pharma Corp Inc.,Deosone (8 mg),Injection    ,1 ml,Dexamethasone-4 mg,2 ml,13,6.5
+181,B B Remedies (P) Ltd,Dexamax (4 mg),Injection    ,2 ml,Dexamethasone Phosphate-4 mg,2 ml,7.9,7.9
+182,Fulford (India) Ltd.,Celestone (8 mg),Injection    ,1 ml,Betamethasone-4 mg,2 ml,17.55,8.78
+183,Zydus Cadila Healthcare Ltd,Dexona (20 mg),Injection    ,1 ml,Dexamethasone-4 mg,5 ml,44.7,8.94
+184,Jarson Pharmaceuticals,Dexaril (4 mg),Injection    ,1 Vial,Dexamethasone Phosphate-4 mg,1 Vial,9.24,9.24
+185,Galpha Laboratories Ltd.,Decicort (4 mg),Injection    ,1 Vial,Dexamethasone Phosphate-4 mg,1 Vial,10,10
+186,Alpa Laboratories Ltd,Alpdex 10 (4 mg),Injection    ,1 Vial,Dexamethasone Phosphate-4 mg,1 Vial,14,14
+187,Glaxo Smithkline Pharmaceuticals Ltd.,Betnesol (4 mg),Injection    ,1 ml,Betamethasone-4 mg,1 ml,33.12,33.12
+188,Alpa Laboratories Ltd,Alpadex 30 (4 mg),Injection    ,1 Vial,Dexamethasone Phosphate-4 mg,1 Vial,40,40

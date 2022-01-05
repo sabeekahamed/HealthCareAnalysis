@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>{% load static %}
+
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title> Patient page </title><link rel = "icon" type="image/png" href = "{% static "ipage/files/m.png" %}" />
+<link href="{% static "ipage/css/header.css" %}" rel="stylesheet">
+<link href="{% static "ipage/css/footer.css" %}" rel="stylesheet">
+<link href="{% static "ipage/css/timeline.css" %}" rel="stylesheet">
+<link href="{% static "ipage/css/modal_patient.css" %}" rel="stylesheet">
+
+</head>
+
+<body background="{% static "ipage/files/trip.gif" %}" style="background-size:cover;background-attachment: fixed;">
+
+  <nav class="header">
+    <p style="text-indent:200px; margin-top:13px; font-family:Segoe UI; font-size:20px; ">Health Care</p>
+    <p style="text-indent:1200px; margin-top:-48px; font-family:Segoe UI; font-size:18px;"><a onclick="location.href = '/';" style="color:white;text-decoration:none; cursor:pointer;">Logout</a></p>
+  </nav>
+
+  <div id="Modal" class="modal">
+      <div class="modal-content">
+        <div class="modal-body">
+          <form method = "get">
+            <h1 style="text-indent:50px; margin-top:50px;">Welcome..!!</h1>
+            <h4 style="text-indent:50px; margin-top:50px;">Name:</h4>
+            <h4 style="text-indent:50px; margin-top:50px;">Age:</h4>
+          </form>
+        </div>
+      </div>
+  </div>
+
+<div class="timeline">
+  <div class="container right">
+    <div class="content">
+      <h2>2017</h2>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>2016</h2>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>2015</h2>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>2012</h2>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>2011</h2>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>2007</h2>
+    </div>
+  </div>
+</div>
+
+</body>
+
+<footer class="footer">
+  <div>
+    <p style="margin-top:1px; font-family:Segoe UI; margin-left:17px; ">Copyright &copy; My Website 2018</p>
+  </div>
+</footer>
+
+</html>

@@ -1,0 +1,2050 @@
+S/N,Generic / Quantity,Type,Package Unit,Price(In Rs.)
+1,Aminophylline : 225 mg,Tablet,10 Tablet,5.09
+2,Vit E : 100 mg,Capsule,10 Capsule,5.34
+3,Vit E : 200 mg,Capsule,10 Capsule,8.88
+4,Vit E : 268 mg,Capsule,10 Capsule,12.82
+5,Vit E : 134 mg,Capsule,10 Capsule,7.7
+6,Vit E : 400 mg,Capsule,10 Capsule,15.25
+7,Vit E : 600 mg,Capsule,10 Capsule,21.8
+8,Vit C : 100 mg,Drop,30 ml,11.65
+9,Analgin : 500 mg,Injection,2 ml,4.54
+10,Aminophylline : 100 mg,Tablet,10 Tablet,0.93
+11,Vit C : 500 mg,Injection,5 ml,2.71
+12,Vit C : 100 mg,Injection,2 ml,1.73
+13,Amodiaquine : 200 mg,Tablet,10 Tablet,4.62
+14,Analgin : 500 mg,Tablet,10 Tablet,8.27
+15,Analgin : 500 mg,Injection,30 ml,29.44
+16,Aspirin : 50 mg,Tablet,10 Tablet,1.1
+17,Aspirin : 75 mg,Tablet,10 Tablet,1.22
+18,Aspirin : 80 mg,Tablet,10 Tablet,1.36
+19,Aspirin : 100 mg,Tablet,10 Tablet,1.28
+20,Aspirin : 150 mg,Tablet,10 Tablet,1.72
+21,Aspirin : 162.5 mg,Tablet,14 Tablet,2.2
+22,Aspirin : 500 mg,Tablet,30 Tablet,8.53
+23,Aspirin : 60 mg,Tablet,14 Tablet,2.44
+24,Aspirin : 325 mg,Tablet,14 Tablet,8.66
+25,Bacampicillin : 200 mg,Tablet,2 Tablet,5.82
+26,Bacampicillin : 400 mg,Tablet,2 Tablet,10.62
+27,Vit C : 500 mg,Tablet,10 Tablet,6.36
+28,Betamethasone Sodium Phosphate : 0.5 mg,Tablet,10 Tablet,3.44
+29,Vit C : 200 mg,Tablet,100 Tablet,26.98
+30,Vit C : 100 mg,Tablet,100 Tablet,17.62
+31,Vit C : 50 mg,Tablet,100 Tablet,11.74
+32,Betamethasone : 1 mg,Tablet,10 Tablet,6.3
+33,Riboflavin : 10 mg,Tablet,10 Tablet,1.5
+34,Betamethasone Sodium Phosphate : 4 mg,Injection,1 ml,4.4
+35,Vit B1 : 75 mg,Tablet,10 Tablet,2.98
+36,Betamethasone : 4 mg,Injection,2 ml,7.27
+0,Vit A : 5000 iu,Injection,2.5 ml,3.88
+38,Betamethasone : 0.1%,Drop,0.3 ml,2.53
+39,Vit A : 100000 iu,Injection,2 ml,3.02
+40,Betamethasone : 0.5 mg,Drop,10 ml,9.28
+41,Vit A : 50000 iu,Tablet,10 Tablet,6.2
+42,Vit A : 50000 iu,Capsule,10 Capsule,5.96
+43,Verapamil : 40 mg,Tablet,10 Tablet,6.24
+44,Verapamil : 80 mg,Tablet,10 Tablet,11.9
+45,Verapamil : 120 mg,Tablet,10 Tablet,19.64
+46,Verapamil : 240 mg,Tablet,10 Tablet,37.5
+47,Verapamil : 2.5 mg,Injection,2.5 ml,2.26
+48,Tolnaftate : 10 mg,Ointment,5 gm,3.86
+49,Tolnaftate : 10 mg,Ointment,10 gm,5.2
+50,Tolnaftate : 10 mg,Ointment,30 gm,10.34
+51,Tolnaftate : 10 mg,Lotion,10 ml,6.62
+52,Tolnaftate : 10 mg,Lotion,15 ml,7.76
+53,Tolnaftate : 10 mg,Solution,12 ml,8.3
+54,Tolnaftate : 10 mg,Solution,20 ml,11.42
+55,Betamethasone : 0.5 mg,Drop,15 ml,9.32
+56,Betamethasone : 0.10%,Drop,5 ml,8.7
+57,Betamethasone : 0.10%,Lotion,20 ml,12.35
+58,Theophylline : 400 mg,Capsule,10 Capsule,9.62
+59,Betamethasone : 0.05%,Cream,20 gm,10.26
+60,Theophylline : 300 mg,Tablet,10 Tablet,4.51
+61,Theophylline : 200 mg,Tablet,10 Tablet,2.8
+62,Betamethasone : 0.05% w/w,Lotion,30 ml,13.06
+63,Betamethasone Valerate : 0.12% w/w,Lotion,20 ml,13.31
+64,Theophylline : 100 mg,Syrup,100 ml,9.66
+65,Theophylline : 80 mg,Syrup,100 ml,9.7
+66,Theophylline : 125 mg,Capsule,10 Capsule,5.8
+67,Theophylline : 200 mg,Capsule,10 Capsule,6.68
+68,Theophylline : 400 mg,Tablet,10 Tablet,4.78
+69,Theophylline : 600 mg,Tablet,10 Tablet,8.96
+70,Theophylline : 100 mg,Tablet,10 Tablet,2.94
+71,Tetracycline : 250 mg,Capsule,10 Capsule,8.53
+72,Tetracycline : 500 mg,Capsule,10 Capsule,14.02
+73,Tetracycline : 333 mg,Capsule,6 Capsule,4.64
+74,Tetracycline : 50 mg,Tablet,10 Tablet,1.56
+75,Tetracycline : 250 mg,Tablet,10 Tablet,4.44
+76,Tetracycline : 333 mg,Tablet,10 Tablet,5.98
+77,Tetracycline : 500 mg,Tablet,10 Tablet,8.94
+78,Betamethasone : 0.05% w/w,Cream,10 gm,6.74
+79,Betamethasone : 0.05%,Cream,15 gm,8.4
+80,Betamethasone : 0.1% w/w,Cream,30 gm,18.5
+81,Betamethasone : 0.05% w/w,Cream,16 gm,11.42
+82,Betamethasone : 0.1% w/w,Cream,50 gm,14.5
+83,Betamethasone : 0.05% w/v,Lotion,28 ml,12.48
+84,Captopril : 25 mg,Tablet,10 Tablet,2.58
+85,Captopril : 50 mg,Tablet,10 Tablet,2.8
+86,Captopril : 12.5 mg,Tablet,10 Tablet,1.42
+87,Carbamazepine : 100 mg,Tablet,10 Tablet,6.68
+88,Carbamazepine : 200 mg,Tablet,10 Tablet,14.83
+89,Carbamazepine : 400 mg,Tablet,10 Tablet,26.93
+90,Carbamazepine : 300 mg,Tablet,10 Tablet,17.86
+91,Carbamazepine : 100 mg,Syrup,50 ml,11.8
+92,Carbamazepine : 100 mg,Syrup,100 ml,19.2
+93,Cefadroxil : 125 mg,Tablet,10 Tablet,10.97
+94,Cefadroxil : 250 mg,Tablet,10 Tablet,19.56
+95,Cefadroxil : 500 mg,Tablet,10 Tablet,36.3
+96,Cefadroxil : 1000 mg,Tablet,5 Tablet,40.93
+97,Cefadroxil : 125 mg,Syrup,30 ml,13.9
+98,Cefadroxil : 250 mg,Syrup,30 ml,19.07
+99,Cefadroxil : 125 mg,Syrup,60 ml,15.86
+100,Cefadroxil : 100 mg,Drop,10 ml,14.66
+101,Cefotaxime Sodium : 125 mg,Injection,1 Vial,6.76
+102,Cefotaxime Sodium : 250 mg,Injection,1 Vial,9.75
+103,Cefotaxime Sodium : 500 mg,Injection,1 Vial,14.36
+104,Cefotaxime Sodium : 1000 mg,Injection,1 Vial,22.68
+105,Cefotaxime Sodium : 1500 mg,Injection,1 Vial,33.73
+106,Cefotaxime Sodium : 2000 mg,Injection,1 Vial,42.91
+107,Cefazolin : 125 mg,Injection,1 Vial,6.58
+108,Cefazolin : 250 mg,Injection,1 Vial,8.44
+109,Cefazolin : 500 mg,Injection,1 Vial,12.16
+110,Cefazolin : 1000 mg,Injection,1 Vial,20.32
+111,Chloroquine Phosphate : 250 mg,Tablet,10 Tablet,6.66
+112,Chloroquine Phosphate : 500 mg,Tablet,5 Tablet,6.42
+113,Chloroquine Phosphate : 64.5 mg,Injection,30 ml,19.2
+114,Chloroquine Phosphate : 64.5 mg,Injection,5 ml,5.64
+115,Chloroquine Phosphate : 100 mg,Syrup,60 ml,11.38
+116,Chloroquine Phosphate : 50 mg,Syrup,60 ml,14.75
+117,Chloroquine Phosphate : 40 mg,Injection,2 ml,1.83
+118,Chloroquine : 40 mg,Injection,30 ml,19.75
+119,Chloroquine : 50 mg,Suspension,450 ml,42
+120,Chloroquine Phosphate : 50 mg,Drop,10 ml,7.46
+121,Chlorpromazine : 10 mg,Tablet,10 Tablet,1.34
+122,Chlorpromazine : 25 mg,Tablet,10 Tablet,2.85
+123,Chlorpromazine : 50 mg,Tablet,10 Tablet,4.11
+124,Chlorpromazine : 100 mg,Tablet,10 Tablet,12.84
+125,Cefadroxil : 250 mg,Capsule,10 Capsule,17.76
+126,Cefadroxil : 500 mg,Capsule,4 Capsule,13.1
+127,Chlorpromazine : 200 mg,Tablet,10 Tablet,12.24
+128,Chlorpromazine : 25 mg,Injection,2 ml,2.5
+129,Ciprofloxacin : 250 mg,Tablet,4 Tablet,12.5
+130,Ciprofloxacin : 500 mg,Tablet,4 Tablet,24.02
+131,Ciprofloxacin : 750 mg,Tablet,2 Tablet,18.08
+132,Ciprofloxacin : 3 mg,Ointment,5 gm,3.84
+133,Ciprofloxacin : 3 mg,Drop,5 ml,5.34
+134,Ciprofloxacin : 3 mg,Drop,10 ml,5.94
+135,Ciprofloxacin : 100 mg,Tablet,10 Tablet,12.42
+136,Ciprofloxacin : 0.3% w/w,Ointment,3 gm,3.84
+137,Ciprofloxacin : 0.3% w/v,Drop,5 ml,7.55
+138,Ciprofloxacin : 1000 mg,Tablet,5 Tablet,46.4
+139,Ciprofloxacin : 125 mg,Suspension,60 ml,15.65
+140,Ciprofloxacin : 250 mg,Suspension,60 ml,17.07
+141,Ciprofloxacin : 250 mg,Suspension,50 ml,14.35
+142,Ciprofloxacin : 250 mg,Suspension,100 ml,23.44
+143,Cloxacillin : 250 mg,Injection,1 Vial,4.9
+144,Cloxacillin : 500 mg,Injection,1 Vial,6.12
+145,Cloxacillin : 250 mg,Capsule,10 Capsule,11.52
+146,Cloxacillin : 500 mg,Capsule,10 Capsule,19.86
+147,Cloxacillin : 125 mg,Syrup,40 ml,9.7
+148,Dexamethasone : 0.5 mg,Tablet,10 Tablet,2.15
+149,Dexamethasone : 1 mg,Tablet,10 Tablet,1.92
+150,Dexamethasone : 4 mg,Injection,20 ml,17.14
+151,Dexamethasone : 4 mg,Injection,2 ml,3.32
+152,Dexamethasone : 20 mg,Injection,5 ml,17.94
+153,Diosmin : 150 mg,Tablet,10 Tablet,12.04
+154,Diosmin : 300 mg,Tablet,10 Tablet,23.52
+155,Diosmin : 450 mg,Tablet,10 Tablet,34.94
+156,Diosmin : 500 mg,Tablet,10 Tablet,38.62
+157,Doxycycline : 100 mg,Capsule,4 Capsule,3.98
+158,Doxycycline : 200 mg,Capsule,10 Capsule,13.48
+159,Doxycycline Monohydrate : 100 mg,Tablet,10 Tablet,9.61
+160,Doxycycline Monohydrate : 200 mg,Tablet,10 Tablet,13.12
+161,Doxycycline : 50 mg,Tablet,10 Tablet,3.36
+162,Doxycycline : 25 mg,Syrup,30 ml,6.46
+163,Doxycycline Hyclate : 100 mg,Tablet,10 Tablet,5.77
+164,Doxycycline : 200 mg,Tablet,10 Tablet,11.46
+165,Doxycycline Hyclate : 200 mg,Tablet,10 Tablet,11.7
+166,Calcium Pantothenate : 50 mg,Tablet,10 Tablet,1.48
+167,Calcium Pantothenate : 100 mg,Tablet,10 Tablet,1.98
+168,Erythromycin : 2% w/w,Lotion,30 ml,13.42
+169,Erythromycin : 2% w/w,Lotion,20 ml,8.48
+170,Erythromycin : 3% w/v,Lotion,25 ml,11.46
+171,Erythromycin : 3% w/w,Cream,20 gm,10.64
+172,Silver Sulphadiazine : 1.0% w/w,Cream,25 gm,10.72
+173,Silver Sulphadiazine : 1.0% w/w,Cream,500 gm,163.76
+174,Silver Sulphadiazine : 1.0% w/w,Cream,15 gm,7.36
+175,Silver Sulphadiazine : 1.0% w/w,Cream,20 gm,8.23
+176,Silver Sulphadiazine : 1.0% w/w,Cream,30 gm,11.74
+177,Silver Sulphadiazine : 1.0% w/w,Cream,250 gm,63.4
+178,Streptomycin Sulphate : 1000 mg,Injection,1 Vial,9.46
+179,Streptomycin Sulphate : 750 mg,Injection,1 Vial,7.86
+180,Spironolactone : 100 mg,Tablet,10 Tablet,65.99
+181,Spironolactone : 50 mg,Tablet,10 Tablet,33.48
+182,Spironolactone : 25 mg,Tablet,10 Tablet,17.13
+183,Salbutamol : 2 mg,Syrup,100 ml,15.12
+184,Levosalbutamol (Levalbuterol) : 1 mg,Tablet,10 Tablet,1.38
+185,Levosalbutamol (Levalbuterol) : 2 mg,Tablet,10 Tablet,1.5
+186,Levosalbutamol (Levalbuterol) : 1 mg,Syrup,100 ml,12.75
+187,Salbutamol : 2.5 mg,Solution,3 ml,3.19
+188,Levosalbutamol (Levalbuterol) : 0.31 mg,Solution,2.5 ml,2.71
+189,Levosalbutamol (Levalbuterol) : 0.63 mg,Solution,2.5 ml,3.12
+190,Levosalbutamol (Levalbuterol) : 1.25 mg,Solution,2.5 ml,3.14
+191,Salbutamol : 50 mcg,Inhaler,1 Inhaler,8.64
+192,Salbutamol : 200 mcg,Rotacap,30 Rotacap,13.28
+193,Erythromycin : 3% w/w,Cream,15 gm,8.72
+194,Levosalbutamol (Levalbuterol) : 100 mcg,Rotacap,30 Rotacap,13.22
+195,Erythromycin : 2% w/w,Ointment,10 gm,6.2
+196,Levosalbutamol (Levalbuterol) : 50 mcg,Inhaler,200 MTD,79.29
+197,Erythromycin : 2% w/w,Cream,5 gm,4.62
+198,Salbutamol : 4 mg,Tablet,10 Tablet,3.02
+199,Salbutamol : 8 mg,Tablet,10 Tablet,3.26
+200,Erythromycin : 4% w/w,Ointment,30 gm,16.74
+201,Erythromycin : 4% w/w,Ointment,20 gm,12.15
+202,Erythromycin Stearate : 100 mg,Tablet,10 Tablet,6.72
+203,Erythromycin Stearate : 250 mg,Tablet,10 Tablet,19.4
+204,Erythromycin Stearate : 500 mg,Tablet,10 Tablet,37.35
+205,Erythromycin Stearate : 100 mg,Suspension,60 ml,14.88
+206,Erythromycin Stearate : 125 mg,Suspension,30 ml,11.45
+207,Erythromycin Stearate : 125 mg,Suspension,60 ml,18.19
+208,Salbutamol : 4 mg,Capsule,10 Capsule,5.92
+209,Salbutamol : 8 mg,Capsule,10 Capsule,6.5
+210,Erythromycin : 100 mg,Drop,10 ml,10.5
+211,Salbutamol : 2 mg,Tablet,10 Tablet,0.75
+212,Erythromycin : 125 mg,Syrup,45 ml,17.37
+213,Salbutamol : 100 mcg,Inhaler,400 MTD,84.94
+214,Salbutamol : 100 mcg,Inhaler,200 MTD,68.5
+215,Erythromycin : 500 mg,Tablet,10 Tablet,46.26
+216,Erythromycin : 125 mg,Tablet,10 Tablet,12.87
+217,Erythromycin Estolate : 100 mg,Tablet,10 Tablet,8.49
+218,Erythromycin Estolate : 125 mg,Tablet,10 Tablet,10.27
+219,Erythromycin : 100 mg,Tablet,10 Tablet,8.49
+220,Rifampicin : 100 mg,Syrup,60 ml,17.38
+221,Erythromycin : 333 mg,Tablet,10 Tablet,19.08
+222,Rifampicin : 100 mg,Syrup,150 ml,42.16
+223,Rifampicin : 100 mg,Syrup,200 ml,66.59
+224,Rifampicin : 600 mg,Tablet,10 Tablet,52.98
+225,Rifampicin : 450 mg,Tablet,10 Tablet,40.34
+226,Erythromycin Stearate : 125 mg,Suspension,50 ml,15.43
+227,Rifampicin : 300 mg,Tablet,10 Tablet,25
+228,Rifampicin : 150 mg,Tablet,10 Tablet,13.33
+229,Rifampicin : 100 mg,Tablet,10 Tablet,9.93
+230,Rifampicin : 50 mg,Tablet,10 Tablet,5.72
+231,Rifampicin : 600 mg,Capsule,10 Capsule,60.26
+232,Rifampicin : 450 mg,Capsule,10 Capsule,45.69
+233,Rifampicin : 300 mg,Capsule,10 Capsule,31.61
+234,Rifampicin : 150 mg,Capsule,10 Capsule,17.62
+235,Famotidine : 10 mg,Tablet,14 Tablet,2.38
+236,Famotidine : 20 mg,Tablet,14 Tablet,1.98
+237,Ranitidine : 50 mg,Injection,2 ml,5.9
+238,Ranitidine : 25 mg,Injection,2 ml,3.18
+239,Ranitidine : 300 mg,Tablet,10 Tablet,10.11
+240,Ranitidine : 150 mg,Tablet,10 Tablet,5.42
+241,Ranitidine : 75 mg,Tablet,10 Tablet,3.49
+242,Pyritinol : 100 mg,Tablet,10 Tablet,49.72
+243,Pyritinol : 200 mg,Tablet,10 Tablet,97.96
+244,Famotidine : 40 mg,Tablet,14 Tablet,4.09
+245,Famotidine : 20 mg,Injection,2 ml,2.14
+246,Methyldopa : 250 mg,Tablet,10 Tablet,11.72
+247,Pyrantal Pamoate : 250 mg,Suspension,100 ml,55.79
+248,Metronidazole : 200 mg,Tablet,10 Tablet,4.2
+249,Pyrantal Pamoate : 250 mg,Tablet,3 Tablet,7.02
+250,Frusemide (Furosemide) : 10 mg,Injection,2 ml,2.81
+251,Frusemide (Furosemide) : 40 mg,Tablet,10 Tablet,4.12
+252,Frusemide (Furosemide) : 100 mg,Tablet,10 Tablet,4.46
+253,Furazolidone : 100 mg,Tablet,10 Tablet,1.8
+254,Furazolidone : 25 mg,Suspension,1000 ml,62
+255,Furazolidone : 25 mg,Suspension,60 ml,5.66
+256,Prednisolone : 5 mg,Suspension,60 ml,23.07
+257,Prednisolone : 5 mg,Syrup,30 ml,10.08
+258,Lincomycin : 300 mg,Injection,2 ml,9.01
+259,Gentamicin Sulphate : 20 mg,Injection,2 ml,5.82
+260,Gentamicin Sulphate : 40 mg,Injection,2 ml,6.22
+261,Gentamicin : 10 mg,Injection,2 ml,5.44
+262,Gentamicin : 3 mg,Drop,3 ml,4.94
+263,Gentamicin : 3 mg,Drop,5 ml,6.56
+264,Lincomycin : 500 mg,Capsule,10 Capsule,46.32
+265,Glipizide : 2.5 mg,Tablet,10 Tablet,3.32
+266,Glipizide : 5 mg,Tablet,10 Tablet,5.86
+267,Glipizide : 7.5 mg,Tablet,10 Tablet,5.69
+268,Glipizide : 10 mg,Tablet,10 Tablet,7.1
+269,Griseofulvin : 125 mg,Tablet,10 Tablet,6.62
+270,Griseofulvin : 250 mg,Tablet,10 Tablet,15.76
+271,Griseofulvin : 375 mg,Tablet,10 Tablet,18.12
+272,Griseofulvin : 500 mg,Tablet,10 Tablet,24.22
+273,Hydroxychloroquine Sulphate : 200 mg,Tablet,10 Tablet,10.24
+274,Prednisolone : 40 mg,Tablet,10 Tablet,30.79
+275,Ibuprofen : 200 mg,Tablet,10 Tablet,4.04
+276,Prednisolone : 30 mg,Tablet,10 Tablet,23.72
+277,Prednisolone : 20 mg,Tablet,10 Tablet,15.58
+278,Nevirapine : 50 mg,Suspension,1 ml,0.98
+279,Ibuprofen : 400 mg,Tablet,10 Tablet,6.34
+280,Prednisolone : 10 mg,Tablet,10 Tablet,8.47
+281,Lincomycin : 250 mg,Capsule,10 Capsule,14.28
+282,Ibuprofen : 600 mg,Tablet,10 Tablet,9.85
+283,Ibuprofen : 400 mg,Capsule,10 Capsule,7.64
+284,Ibuprofen : 300 mg,Capsule,10 Capsule,6.9
+285,Ibuprofen : 600 mg,Capsule,10 Capsule,9.42
+286,Phenylbutazone : 100 mg,Tablet,10 Tablet,1.98
+287,Ibuprofen : 100 mg,Suspension,500 ml,60.59
+288,Ibuprofen : 100 mg,Suspension,60 ml,11.72
+289,Pheniramine Maleate : 22.75 mg,Injection,30 ml,13.35
+290,Pheniramine Maleate : 22.75 mg,Injection,10 ml,10.08
+291,Pheniramine Maleate : 22.75 mg,Injection,2 ml,3.58
+292,Pheniramine Maleate : 25 mg,Tablet,10 Tablet,2.76
+293,Dexibuprofen : 200 mg,Tablet,10 Tablet,9.82
+294,Pheniramine Maleate : 50 mg,Tablet,10 Tablet,3.45
+295,Dexibuprofen : 300 mg,Tablet,10 Tablet,13.84
+296,Dexibuprofen : 400 mg,Tablet,10 Tablet,17.88
+297,Iodochlorohydroxyquinoline : 250 mg,Tablet,10 Tablet,4.79
+298,Iodochlorohydroxyquinoline : 4% w/w,Cream,25 gm,8.02
+299,Levodopa : 500 mg,Tablet,10 Tablet,10.56
+300,Pentoxifylline (Pentoxyphylline) : 400 mg,Tablet,10 Tablet,21.14
+301,Pentoxifylline (Pentoxyphylline) : 300 mg,Injection,15 ml,6.22
+302,Pentoxifylline (Pentoxyphylline) : 20 mg,Injection,15 ml,6.4
+303,Promethazine : 25 mg,Tablet,1 tablet,2.49
+304,Di-Iodohydroxyquinoline : 650 mg,Tablet,10 Tablet,6.02
+305,Pentazocine : 25 mg,Tablet,10 Tablet,13.64
+306,Pentazocine : 30 mg,Injection,1 ml,3.8
+307,Lincomycin : 250 mg,Tablet,10 Tablet,24.88
+308,Lincomycin : 500 mg,Tablet,10 Tablet,22.34
+309,Lincomycin : 125 mg,Suspension,60 ml,29.21
+310,Lincomycin : 300 mg,Injection,1 ml,6.5
+311,Lincomycin : 2%,Gel,10 gm,5.64
+312,Midazolam : 1 mg,Injection,1 ml,5.79
+313,Misoprostol : 100 mcg,Tablet,1 tablet,9.43
+314,Metronidazole : 400 mg,Tablet,10 Tablet,7.35
+315,Metronidazole : 600 mg,Tablet,10 Tablet,7.46
+316,Metronidazole : 10 mg,Gel,30 gm,9.2
+317,Metronidazole : 500 mg,Injection,100 ml,40.72
+318,Metronidazole : 5 mg,Injection,100 ml,15.7
+319,Benzathine Penicillin : 4800000 iu,Injection,1 Vial,22.88
+320,Metronidazole : 100 mg,Syrup,30 ml,5.82
+321,Metronidazole : 100 mg,Suspension,60 ml,9.08
+322,Benzathine Penicillin : 2400000 iu,Injection,1 Vial,14.02
+323,Benzathine Penicillin : 1200000 iu,Injection,1 Vial,10.06
+324,Benzathine Penicillin : 600000 iu,Injection,1 Vial,6.84
+325,Metronidazole : 200 mg,Suspension,30 ml,10.55
+326,Metronidazole : 200 mg,Suspension,60 ml,12.74
+327,Penicillin G Sodium : 500000 iu,Injection,1 Vial,5.18
+328,Pencillin G Sodium : 1000000 iu,Injection,1 Vial,6.7
+329,Metronidazole : 200 mg,Syrup,100 ml,18.54
+330,Metronidazole : 200 mg,Syrup,500 ml,70.44
+331,Penicillin G Potassium : 200000 iu,Tablet,6 Tablet,3.28
+332,Nalidixic Acid : 125 mg,Tablet,10 Tablet,5.46
+333,Penicillin G Potassium : 400000 iu,Tablet,6 Tablet,5.26
+334,Nalidixic Acid : 150 mg,Tablet,10 Tablet,6.42
+335,Nalidixic Acid : 250 mg,Tablet,10 Tablet,9.96
+336,Nalidixic Acid : 300 mg,Tablet,6 Tablet,6.96
+337,Nalidixic Acid : 500 mg,Tablet,8 Tablet,17.09
+338,Penicillin G Potassium : 800000 iu,Tablet,4 Tablet,6.23
+339,Nalidixic Acid : 1000 mg,Tablet,4 Tablet,14.78
+340,Nalidixic Acid : 300 mg,Suspension,30 ml,14.84
+341,Penicillin V (Phenoxymethyl Penicillin) : 250 mg,Tablet,10 Tablet,10.06
+342,Penicillin V (Phenoxymethyl Penicillin) : 125 mg,Tablet,10 Tablet,5.86
+343,Oxytetracycline : 50 mg,Injection,20 ml,13.63
+344,Oxytetracycline : 50 mg,Injection,30 ml,17.71
+345,Oxytetracycline : 50 mg,Injection,10 ml,6.6
+346,Oxytetracycline : 500 mg,Capsule,10 Capsule,10.35
+347,Oxytetracycline : 250 mg,Capsule,4 Capsule,2.7
+348,Oxcarbazepine : 150 mg,Tablet,10 Tablet,12.18
+349,Oxcarbazepine : 300 mg,Tablet,10 Tablet,23.16
+350,Oxcarbazepine : 450 mg,Tablet,10 Tablet,34.04
+351,Oxcarbazepine : 600 mg,Tablet,10 Tablet,45.12
+352,Nalidixic Acid : 300 mg,Suspension,60 ml,26.86
+353,Norfloxacin : 100 mg,Tablet,10 Tablet,3.09
+354,Norfloxacin : 200 mg,Tablet,10 Tablet,4.92
+355,Norfloxacin : 400 mg,Tablet,10 Tablet,9.7
+356,Norfloxacin : 800 mg,Tablet,10 Tablet,16.66
+357,Norfloxacin : 0.3%,Drop,5 ml,6.54
+358,Norfloxacin : 0.3%,Drop,10 ml,7.3
+359,Norfloxacin : 0.50%,Drop,5 ml,8.12
+360,Norfloxacin : 0.30%,Ointment,5 gm,4.28
+361,Norfloxacin : 100 mg,Suspension,30 ml,9.64
+362,Norfloxacin : 100 mg,Suspension,60 ml,14.66
+363,Naproxen : 250 mg,Tablet,10 Tablet,10.27
+364,Naproxen : 500 mg,Tablet,10 Tablet,19.6
+365,Naproxen : 750 mg,Tablet,10 Tablet,29.54
+366,Naproxen : 275 mg,Tablet,10 Tablet,12.49
+367,Naproxen : 10% w/w,Gel,20 gm,14.28
+368,Naproxen : 125 mg,Suspension,60 ml,15.48
+369,Prednisolone : 15 mg,Syrup,60 ml,32.59
+370,Prednisolone : 0.1%,Drop,5 ml,62.2
+371,Insulin (Human Recombinant)) : 40 iu,Injection,10 ml,145.68
+372,Insulin (Human Recombinant)) : 100 iu,Injection,10 ml,343.11
+373,Insulin (Human-Isophane) : 40 iu,Injection,10 ml,166.77
+374,Insulin (Human) : 40 iu,Injection,10 ml,166.67
+375,Insulin (Human Recombinant)) : 40 iu,Injection,3 ml,210
+376,Insulin (Analogue) Lispro : 100 iu,Injection,3 ml,501.62
+377,Insulin (Analogue) Glargine : 100 iu,Injection,3 ml,889.82
+378,Insulin (Human) : 100 iu,Injection,10 ml,384.11
+379,Insulin (Human) Zinc : 40 iu,Injection,10 ml,32.16
+380,Insulin (Human-Isophane) : 100 iu,Injection,3 ml,211.09
+381,Insulin (Human-Isophane Recombinant) : 100 iu,Injection,3 ml,205.12
+382,Insulin (Human Recombinant)) : 300 iu,Injection,3 ml,208.01
+383,Insulin (Human Recombinant)) : 100 iu,Injection,3 ml,155.98
+384,Insulin (Human-Isophane) : 100 iu,Injection,10 ml,384.11
+385,Insulin (Human) : 100 iu,Injection,3 ml,153.19
+386,Vit A : 25000 iu,Capsule,30 Capsule,17.8
+387,Vit A : 50000 iu,Capsule,30 Capsule,19.32
+388,Vit A : 50000 iu,Tablet,10 Tablet,6.2
+389,Thiamine : 75 mg,Tablet,10 Tablet,2.98
+390,Riboflavin : 10 mg,Tablet,10 Tablet,1.5
+391,Vit C : 50 mg,Tablet,100 Tablet,11.74
+392,Vit C : 100 mg,Tablet,100 Tablet,17.62
+393,Vit C : 500 mg,Tablet,10 Tablet,12.66
+394,Vit C : 500 mg,Injection,5 ml,2.71
+395,Vit C : 100 mg,Drop,15 ml,7.62
+396,Ascorbic Acid : 100 mg,Drop,30 ml,11.65
+397,Metronidazole : 500 mg,Injection,100 ml,13.4
+398,Prednisolone : 5 mg,Tablet,10 Tablet,4.59
+399,Metronidazole : 400 mg,Tablet,15 Tablet,18.23
+400,Vit A : 600000 iu,Injection,2 ml,7.12
+401,Gentamicin : 40 mg,Injection,100 ml,76.76
+402,Dextrose : 5% w/v,Infusion,500 ml,26.74
+403,Sodium Chloride : 0.9% w/v,Infusion,500 ml,24.88
+404,Dexamethasone (Eye) : 0.7 mg,Injection,1 Injection,54221
+405,Vit A : 5000 iu,Injection,2.5 ml,3.88
+406,Vit E : 100 iu,Capsule,10 Capsule,5.7
+407,Vit C : 500 mg,Tablet,10 Tablet,12.66
+408,Vit C : 250 mg,Tablet,100 Tablet,31.24
+409,Vit C : 200 mg,Tablet,100 Tablet,26.98
+410,Vit C : 100 mg,Tablet,100 Tablet,17.62
+411,Vit C : 50 mg,Tablet,100 Tablet,11.74
+412,Riboflavin : 10 mg,Tablet,10 Tablet,1.5
+413,Vit B1 : 75 mg,Tablet,10 Tablet,2.98
+414,Vit A : 4000 iu,Injection,2.5 ml,4.24
+415,Vit A : 300000 iu,Injection,1 ml,3.32
+416,Vit A : 100000 iu,Injection,1 ml,2.8
+417,Vit A : 25000 iu,Capsule,30 Capsule,17.8
+418,Vit A : 50000 iu,Tablet,10 Tablet,6.2
+419,Vit A : 50000 iu,Capsule,10 Capsule,5.96
+420,Vit A : 24000 iu,Capsule,100 Capsule,28.48
+421,Trimethoprim : 100 mg,Tablet,10 Tablet,2.07
+422,Thiamine : 75 mg,Tablet,10 Tablet,3.98
+423,Theophylline : 800 mg,Tablet,10 Tablet,11.42
+424,Theophylline : 400 mg,Capsule,10 Capsule,9.62
+425,Theophylline : 300 mg,Tablet,10 Tablet,4.51
+426,Theophylline : 200 mg,Tablet,10 Tablet,2.8
+427,Hydroxy ethyl theophylline : 113 mg,Injection,2 ml,2.55
+428,Theophylline : 800 mg,Tablet,10 Tablet,13.17
+429,Tetracycline : 125 mg,Capsule,10 Capsule,5.36
+430,Salbutamol : 100 mcg,Inhaler,200 MTD,129.16
+431,Salbutamol : 2 mg,Expectorant,56 ml,4.83
+432,Salbutamol : 2.5 mg,Solution,2.5 ml,3.06
+433,Salbutamol : 5 mg,Solution,15 ml,6.76
+434,Salbutamol : 2.5 mg,Solution,10 ml,6.05
+435,Salbutamol : 4 mg,Tablet,10 Tablet,2.96
+436,Salbutamol : 2 mg,Syrup,112 ml,7.76
+437,Salbutamol : 400 mcg,Capsule,30 Capsule,14.99
+438,Salbutamol : 200 mcg,Tablet,8 Tablet,1.14
+439,Salbutamol : 4 mg,Tablet,10 Tablet,1.62
+440,Pyrantel Pamoate : 200 mg,Suspension,50 ml,26.47
+441,Pyrantal Pamoate : 200 mg,Tablet,2 Tablet,2.7
+442,Prednisolone : 15 mg,Suspension,60 ml,41.69
+443,Prednisolone : 20 mg,Injection,2 ml,9.29
+444,Methyl Prednisolone : 40 mg,Injection,1 ml,60.09
+445,Prednisolone : 25 mg,Tablet,10 Tablet,6.77
+446,Prednisolone : 2.5 mg,Tablet,10 Tablet,3.71
+447,Prednisolone : 2 mg,Tablet,10 Tablet,1.47
+448,Phenylbutazone : 200 mg,Tablet,10 Tablet,3.1
+449,Penicillin V (Phenoxymethyl Penicillin) : 65 mg,Tablet,48 Tablet,17.8
+450,Penicillin G Potassium : 200 mg,Tablet,6 Tablet,3.1
+451,Penicillamine : 300 mg,Tablet,4 Tablet,4.14
+452,Penicillin V (Phenoxymethyl Penicillin) : 500 mg,Tablet,10 Tablet,23.04
+453,Penicillin V (Phenoxymethyl Penicillin) : 130 mg,Tablet,50 Tablet,34.2
+454,Penicillin V (Phenoxymethyl Penicillin) : 65 mg,Tablet,50 Tablet,19.92
+455,Penicillin G Potassium : 500000 iu,Tablet,6 Tablet,6.23
+456,Oxytetracycline : 250 mg,Injection,3 ml,2.26
+457,Oxytetracycline : 125 mg,Injection,20 ml,17.36
+458,Oxytetracycline : 2 mg,Tablet,1 Tablet,4.26
+459,Oxytetracycline : 100 mg,Tablet,10 Tablet,3.76
+460,Oxytetracycline : 50 mg,Tablet,25 Tablet,4.7
+461,Oxcarbazepine : 500 mg,Tablet,10 Tablet,37.86
+462,Naproxen : 125 mg,Suspension,60 ml,15.48
+463,Naproxen : 10% w/w,Gel,20 gm,14.28
+464,Naproxen : 750 mg,Capsule,10 Capsule,32.22
+465,Naproxen : 500 mg,Capsule,10 Capsule,22.58
+466,Naproxen : 250 mg,Capsule,10 Capsule,13.66
+467,Naproxen : 750 mg,Tablet,10 Tablet,29.74
+468,Naproxen : 500 mg,Tablet,10 Tablet,20.64
+469,Naproxen : 250 mg,Tablet,10 Tablet,11.21
+470,Norfloxacin : 100 mg,Suspension,60 ml,14.66
+471,Norfloxacin : 0.3% w/v,Drop,15 ml,8.27
+472,Norfloxacin : 0.30%,Ointment,5 gm,4.28
+473,Norfloxacin : 0.50%,Drop,5 ml,8.12
+474,Norfloxacin : 0.30%,Drop,10 ml,7.3
+475,Norfloxacin : 100 mg,Tablet,10 Tablet,3.1
+476,Norfloxacin : 800 mg,Tablet,10 Tablet,17.28
+477,Norfloxacin : 400 mg,Tablet,10 Tablet,9.7
+478,Norfloxacin : 200 mg,Tablet,10 Tablet,4.92
+479,Norfloxacin : 100 mg,Tablet,10 Tablet,3.09
+480,Nalidixic Acid : 300 mg,Suspension,60 ml,26.86
+481,Metronidazole : 100 mg,Suspension,60 ml,9.08
+482,Metronidazole : 5 mg,Infusion,100 ml,16.1
+483,Metronidazole : 500 mg,Infusion,100 ml,40.72
+484,Metronidazole : 10 mg,Cream,30 gm,9.2
+485,Metronidazole : 400 mg,Tablet,15 Tablet,19.19
+486,Metronidazole : 50 mg,Suspension,50 ml,7.92
+487,Metronidazole : 600 mg,Tablet,10 Tablet,7.46
+488,Methyldopa : 250 mg,Tablet,10 Tablet,18.96
+489,Lincomycin : 250 mg,Tablet,10 Tablet,24.88
+490,Insulin (Analogue) Glargine : 100 iu,Injection,3 ml,734.34
+491,Insulin (Human) : 100 iu,Injection,3 ml,256.03
+492,Di-Iodohydroxyquinoline : 650 mg,Tablet,10 Tablet,6.02
+493,Aspirin : 20 mg,Tablet,10 Tablet,8.42
+494,Aspirin : 125 mg,Tablet,15 Tablet,2.39
+495,Aspirin : 50 mg,Tablet,14 Tablet,2.4
+496,Aspirin : 75 mg,Tablet,14 Tablet,3.48
+497,Aspirin : 150 mg,Tablet,14 Tablet,5.48
+498,Iodochlorohydroxyquinoline : 8% w/w,Cream,25 gm,9.4
+499,Ibuprofen : 150 mg,Suspension,150 ml,22.96
+500,Ibuprofen : 10%,Gel,30 gm,10.28
+501,Mebhydrolin Napadisylate : 50 mg,Tablet,10 Tablet,3.1
+502,Betamethasone : 0.25 mg,Tablet,10 Tablet,2.3
+503,Betamethasone Sodium Phosphate : 0.5 mg,Tablet,10 Tablet,5.86
+504,Betamethasone Sodium Phosphate : 4 mg,Injection,1 ml,4.4
+505,Betamethasone : 0.05%,Ointment,5 gm,4.9
+506,Betamethasone : 0.06%,Ointment,20 gm,10.22
+507,Betamethasone : 0.64 mg,Ointment,18 gm,8.15
+508,Framycetin Sulphate : 1% w/w,Cream,30 gm,23.46
+509,Framycetin Sulphate : 0.50%,Drop,5 ml,7.15
+510,Framycetin Sulphate : 0.5% w/w,Ointment,5 gm,5.64
+511,Famotidine : 30 mg,Tablet,14 Tablet,3.28
+512,Betamethasone : 0.01%,Cream,15 gm,6.64
+513,Betamethasone : 0.05%,Lotion,10 ml,6.94
+514,Betamethasone Valerate : 0.12% w/w,Lotion,20 ml,13.31
+515,Betamethasone : 0.05% w/v,Syrup,50 ml,14.32
+516,Cefadroxil : 500 mg,Capsule,4 Capsule,12.84
+517,Cefadroxil : 1000 mg,Capsule,4 Capsule,24.59
+518,Cefadroxil : 250 mg,Syrup,60 ml,29.06
+519,Cefotaxime Sodium : 750 mg,Injection,1 Vial,18.98
+520,Chloroquine Phosphate : 64.5 mg,Injection,2 ml,3.71
+521,Chloroquine Phosphate : 40 mg,Injection,5 ml,5.37
+522,Chloroquine : 250 mg,Tablet,10 Tablet,7.23
+523,Chloroquine Phosphate : 50 mg,Suspension,60 ml,15.77
+524,Chloroquine Phosphate : 50 mg,Suspension,450 ml,42
+525,Chlorpromazine : 5 mg,Syrup,50 ml,4.94
+526,Ciprofloxacin : 0.3% w/v,Cream,15 gm,6.3
+527,Ciprofloxacin : 0.5%,Cream,15 gm,7.11
+528,Ciprofloxacin : 5% w/w,Cream,15 gm,9.36
+529,Ciprofloxacin : 125 mg,Suspension,60 ml,15.65
+530,Pseudoephedrine : 120 mg,Tablet,10 Tablet,7.85
+531,Dexamethasone Sodium Phosphate : 0.01% w/v,Drop,10 ml,6.4
+532,Dexamethasone : 10 mg,Injection,1 Vial,6.94
+533,Erythromycin : 5 mg,Ointment,5 gm,4.26
+534,Erythromycin : 500 mg,Tablet,10 Tablet,37.35
+535,Erythromycin : 250 mg,Tablet,10 Tablet,19.4
+536,Erythromycin : 600 mg,Tablet,10 Tablet,47.93
+537,Erythromycin : 200 mg,Sachet,1.9 gm,2.3
+538,Erythromycin : 100 mg,Suspension,60 ml,14.88
+539,Doxycycline : 100 mg,Tablet,10 Tablet,7.95
+540,Doxycycline : 100 mg,Tablet,6 Tablet,4.18
+541,Doxycycline : 50 mg,Drop,10 ml,5.6
+542,Calcium Pantothenate : 50 mg,Injection,10 ml,7.14
+543,Quiniodochlor : 250 mg,Tablet,20 Blister Tablet,16.4
+544,Insulin (Analogue) Lispro : 100 iu,Injection,3 ml Cartridge,372.99
+545,Dextrose : 5%,Infusion,100 ml,13.64
+546,Dextrose : 5%,Infusion,250 ml,18.84
+547,Dextrose : 5%,Infusion,1000 ml,48.59
+548,Sodium Chloride : 0.9%,Infusion,100 ml,13.28
+549,Sodium Chloride : 0.9%,Infusion,250 ml,17.9
+550,Sodium Chloride : 0.9%,Infusion,1000 ml,44.89
+551,Erythromycin Estolate IP : 250 mg,Tablet,10 1,23.87
+552,Acyclovir : 200 mg,Tablet,1 tablet,7.3
+553,Adenosine : 3 mg,Injection,1 ml,114.55
+554,Adrenaline Bitartrate : 1 mg,Tablet,1 1,37.24
+555,Amiodarone : 100 mg,Drop,1 tablet,6.52
+556,Atorvastatin : 5 mg,Injection,1 tablet,3.82
+557,Atropine Sulphate : .6 mg,Tablet,1 ml,4.01
+558,Azathioprine : 50 mg,Tablet,1 tablet,9.89
+559,Betaxolol : .50 w/v,Tablet,1 ml,6.59
+560,Bleomycin : 15 mg,Capsule,1 ml,616.06
+561,Carbimazole : 10 mg,Capsule,1 tablet,3.43
+562,Chloroquine Phosphate : 500 mg,Capsule,5 tablet,7
+563,Clomiphene Citrate : 100 mg,Capsule,1 tablet,12.18
+564,Colchicine : 0.5 mg,Tablet,1 tablet,2.88
+565,Cyclophosphamide : 50 mg,Tablet,1 tablet,3.75
+566,Cyclosporine : 50 mg,Tablet,1 capsule,48.26
+567,Cyclosporine : 25 mg,Injection,1 capsule,24.75
+568,Danazol : 100 mg,Syrup,1 capsule,20.33
+569,Danazol : 50 mg,Injection,1 capsule,9.37
+570,Diethyl Carbamazine Citrate : 50 mg,Tablet,1 tablet,0.47
+571,Digoxin : 0.25 mg,Tablet,1 tablet,1.26
+572,Diltiazem : 30 mg,Tablet,1 tablet,2.27
+573,Dobutamine : 50 mg,Injection,1 ml,65.42
+574,Domperidone (SR) : 1 mg,Tablet,1 ml,1.03
+575,Esmolol : 10 mg,Tablet,1 ml,20.51
+576,Ethambutol : 400 mg,Tablet,1 tablet,2.17
+577,Ethambutol : 600 mg,Capsule,1 tablet,3.15
+578,Ethambutol : 800 mg,Tablet,1 tablet,3.74
+579,Fentanyl : 50 mcg,Tablet,1 ml,20.26
+580,Folic Acid lP : 5 mg,Injection,1 tablet,1.15
+581,Glibenclamide : 2.5 mg,Tablet,1 tablet,0.48
+582,Glibenclamide IP : 5 mg,Tablet,1 t,0.96
+583,Glucagon : 1 mg,Injection,1 ml,788.33
+584,Glyceryl Trinitrate : 5 mg,Tablet,1 m,7.53
+585,Glyceryl Trinitrate : 0.5 mg,Tablet,1 tablet,1.85
+586,Imatinib : 400 mg,Tablet,1 mg,268.33
+587,Imipramine : 25 mg,Tablet,1 tablet,0.75
+588,Imipramine : 75 mg,Tablet,1 tablet,2
+589,Indinavir : 400 mg,Tablet,1 caosule,19.41
+590,Isosorbide 5 Mononitrate : 10 mg,Tablet,1 tablet,1.92
+591,Isosorbide 5 Mononitrate : 20 mg,Injection,1 tablet,3.29
+592,Ketamine Hcl : 50 mg,Tablet,1 ml,10.46
+593,Leflunomide : 20 mg,Tablet,1 tablet,28.63
+594,Lithium Carbonate : 300 mg,Tablet,1 tablet,1.41
+595,Lorazepam : 2 mg,Tablet,1 ml,7.39
+596,Losartan Potassium : 50 mg,Capsule,1 table,4.3
+597,Losartan Potassium : 25 mg,Tablet,1 tablet,2.5
+598,Mefloquine : 250 mg,Syrup,1 tablet,50.06
+599,Methotrexate : 5 mg,Tablet,1 tablet,7.6
+600,Methotrexate : 2.5 mg,Tablet,1 tablet,4.72
+601,Methotrexate : 7.5 mg,Injection,1 tablet,11.27
+602,Methylergometrine : .125 mg,Injection,1 tablet,7.14
+603,Metoclopramide : 5 mg,Capsule,1 ml,2.09
+604,Metoclopramide : 10 mg,Tablet,1 tablet,1.04
+605,Hydrochlorothiazide : 112.5 mg,Solution,1 tablet,0.97
+606,Hydrochlorothiazide : 25 mg,Tablet,1 tablet,1.66
+607,Folic Acid IP : 5 mg,Tablet,1 tablet,1.15
+608,Nifedipine : 10 mg,Tablet,1 capsule,1.18
+609,Nifedipine : 10 mg,Elixir,1 tablet,1.13
+610,Norethisterone : 5 mg,Capsule,1 tablet,5.07
+611,Ofloxacin : 10 mg,Tablet,1 ml,0.67
+612,Olanzapine : 5 mg,Tablet,1 tablet,2.9
+613,Ondansetron : 8 mg,Suspension,1 tablet,11.07
+614,Oxytocin : 10 iu,Tablet,1 ml,37.7
+615,Paracetamol : 150 mg,Injection,1 ml,3.29
+616,Penicillamine : 250 mg,Tablet,1 capsule,13.12
+617,Phenobarbitone : 60 mg,Injection,1 tablet,1.69
+618,Phenytoin Sodium : 50 mg,Capsule,1 tablet,0.77
+619,Povidone Iodine : 0.05 mg,Tablet,1 ml,0.39
+620,Pyrazinamide : 500 mg,Injection,1 tablet,3.77
+621,Quinine Sulphate : 300 mg,Suspension,1 tablet,5.1
+622,Quiniodochlor : 250 mg,Tablet,20 tablet,17.79
+623,Raloxifene : 60 mg,,1 tablet,9.89
+624,Rifampicin : 150 mg,,10 capsule,33.1
+625,Tamoxifen : 20 mg,,1 tablet,2.77
+626,Testosterone : 40 mg,,1 capsule,10.96
+627,Warfarin : 5 mg,,1 tablet,2.24
+628,Medroxy Progesterone Acetate : 10 mg,,1 tablet,5.24
+629,Amitriptyline : 25 mg,,1 Tablet,2.12
+630,Ampicillin : 25 mg,,10 ml,0.63
+631,Azithromycin : 500 mg,,1 tablet,19.86
+632,Atracurium Besilate : 10 mg,,1 ml,45.28
+633,Atenolol : 100 mg,,10 tablet,3.72
+634,Ceftazidime : 250 mg,,1 ml,63.4
+635,Clofazimine : 100 mg,,1 capsule,1.28
+636,Aspirin : 75 mg+Ticlopidine : 250 mg,,10 Tablet,19.28
+637,Aspirin : 75 mg+Clopidogrel : 75 mg,,10 Tablet,24.74
+638,Aspirin : 150 mg+Clopidogrel : 75 mg,,10 Tablet,24.96
+639,Aspirin : 162.5 mg+Clopidogrel : 75 mg,,10 Tablet,25
+640,Aspirin : 75 mg+Clopidogrel : 75 mg,,10 Capsule,26.8
+641,Aspirin : 150 mg+Clopidogrel : 75 mg,,10 Capsule,27.22
+642,Aspirin : 25 mg+Dipyridamole : 200 mg,,10 Capsule,19.33
+643,Aspirin : 40 mg+Dipyridamole : 75 mg,,10 Tablet,5.04
+644,Aspirin : 60 mg+Dipyridamole : 75 mg,,10 Tablet,5.1
+645,Aspirin : 150 mg+Isosorbide Mononitrate : 60 mg,,10 Tablet,13.54
+646,Aspirin : 75 mg+Isosorbide Mononitrate : 30 mg,,10 Tablet,9.12
+647,Aspirin : 75 mg+Isosorbide Mononitrate : 30 mg,,10 Capsule,9.44
+648,Aspirin : 75 mg+Isosorbide Mononitrate : 60 mg,,10 Capsule,13.22
+649,Aspirin : 150 mg+Isosorbide Mononitrate : 60 mg,,10 Capsule,6.48
+650,Aspirin : 150 mg+Atorvastatin : 10 mg,,10 Capsule,19.51
+651,Aspirin : 75 mg+Atorvastatin : 10 mg,,10 Capsule,36.82
+652,Aspirin : 350 mg+Caffeine : 20 mg,,10 Tablet,3.32
+653,Betamethasone : 0.1% w/v+Neomycin : 0.5% w/v,,5 ml,8
+654,Vit E : 268 mg+Vit C : 150 mg,,10 Capsule,11.88
+655,Vit E : 268 mg+Cod Liver Oil : 300 mg,,10 Capsule,11.7
+656,Vit A : 50000 iu+Vit E : 25 mg,,10 Capsule,6.52
+657,Trimethoprim : 20 mg+Sulphamethoxazole : 100 mg,,15 ml,9.4
+658,Trimethoprim : 180 mg+Sulphadiazine : 820 mg,,6 Tablet,6.98
+659,Trimethoprim : 90 mg+Sulphadiazine : 410 mg,,10 Tablet,6.01
+660,Trimethoprim : 160 mg+Sulphamethoxazole : 800 mg,,10 Tablet,13.75
+661,Trimethoprim : 40 mg+Sulphamethoxazole : 200 mg,,50 ml,12.9
+662,Trimethoprim : 40 mg+Sulphamethoxazole : 200 mg,,60 ml,9.84
+663,Trimethoprim : 40 mg+Sulphamethoxazole : 200 mg,,100 ml,13.46
+664,Trimethoprim : 80 mg+Sulphamethoxazole : 400 mg,,10 Tablet,53.38
+665,Trimethoprim : 20 mg+Sulphamethoxazole : 100 mg,,10 Tablet,16.16
+666,Theophylline : 26.67 mg+Alcohol : 0.53 ml,,200 ml,20.34
+667,Theophylline : 138 mg+Etophylline : 462 mg,,10 Tablet,8.14
+668,Betamethasone Sodium Phosphate : 0.1% w/v+Gentamicin Sulphate : 0.3% w/v,,5 ml,10.23
+669,Betamethasone Sodium Phosphate : 0.1% w/v+Gentamicin Sulphate : 0.3% w/v,,0.3 ml,2.55
+670,Theophylline : 100 mg+Salbutamol : 2 mg,,100 ml,14.59
+671,Betamethasone : 0.05% +Salicylic Acid : 3% ,,10 gm,7.23
+672,Betamethasone : 0.05% w/w+Gentamicin : 0.1% w/w,,10 gm,6.84
+673,Betamethasone : 0.05% w/w+Gentamicin : 0.1% w/w,,20 gm,10.78
+674,Betamethasone : 0.05% w/w+Gentamicin : 0.1% w/w,,15 gm,8.92
+675,Betamethasone : 0.64 mg+Gentamicin : 1 mg,,20 gm,10.74
+676,Theophylline : 30 mg+Ephedrine : 6 mg,,60 ml,11.32
+677,Theophylline : 200 mg+Salbutamol : 4 mg,,10 Capsule,6.58
+678,Theophylline : 200 mg+Ketotifen Fumarate : 1 mg,,10 Tablet,7.26
+679,Theophylline : 300 mg+Terbutaline : 5 mg,,10 Tablet,7.18
+680,Theophylline : 100 mg+Terbutaline : 2.5 mg,,10 Tablet,2.78
+681,Theophylline : 104 mg+Etophylline : 346 mg,,10 Tablet,7.82
+682,Theophylline : 69 mg+Etophylline : 231 mg,,10 Tablet,6.12
+683,Theophylline : 35 mg+Etophylline : 115 mg,,10 Tablet,4.06
+684,Theophylline : 23 mg+Etophylline : 77 mg,,10 Tablet,2.07
+685,Theophylline : 14 mg+Etophylline : 46.5 mg,,100 ml,14.39
+686,Theophylline : 84.7 mg+Etophylline : 25.3 mg,,2 ml,3.53
+687,Theophylline : 300 mg+Salbutamol : 4 mg,,10 Tablet,5.46
+688,Theophylline : 100 mg+Salbutamol : 2 mg,,100 ml,12.28
+689,Theophylline : 130 mg+Ephedrine : 24 mg,,10 Tablet,3.32
+690,Salbutamol : 4 mg+Theophylline : 200 mg,,10 Tablet,3.34
+691,Salbutamol : 2 mg+Theophylline : 100 mg,,10 Tablet,2.02
+692,Aspirin : 150 mg+Isosorbide 5 Mononitrate : 30 mg,,10 Tablet,12.4
+693,Tetracycline : 1% w/w+Hydrocortisone Acetate : 1% w/w,,3 gm,7.22
+694,Tetracycline : 333 mg+Metronidazole : 400 mg,,10 Tablet,10.06
+695,Betamethasone : 0.05% +Neomycin : 0.50% ,,10 gm,6.88
+696,Betamethasone : 0.05% +Clotrimazole : 1% ,,10 gm,6.84
+697,Betamethasone : 0.05% w/w+Neomycin : 0.5% w/w,,15 gm,8.96
+698,Betamethasone : 0.05% +Clotrimazole : 1% ,,15 ml,9.24
+699,Betamethasone : 0.1% w/w+Clioquinol : 3% ,,30 gm,20.16
+700,Betamethasone : 0.025% w/w+Neomycin : 0.5% w/w,,15 gm,7.98
+701,Betamethasone Valerate : 0.12% w/w+Neomycin : 0.5% w/w,,20 gm,17.13
+702,Betamethasone : 0.05% w/w+Mupirocin : 2% w/w,,5 gm,25.58
+703,Betamethasone : 0.05% w/w+Salicylic Acid : 6% w/w,,20 gm,10.85
+704,Betamethasone : 0.12% w/w+Salicylic Acid : 2% w/w,,30 gm,26.07
+705,Betamethasone : 0.64 mg+Gentamicin Sulphate : 1 mg,,20 gm,10.4
+706,Betamethasone : 0.05% +Salicylic Acid : 3% ,,20 gm,10.38
+707,Betamethasone Valerate : 1 mg+Fusidic Acid : 20 mg,,10 gm,27.56
+708,Betamethasone : 0.05% w/w+Neomycin : 0.5% w/w,,16 gm,9.34
+709,Betamethasone : 0.05% w/w+Clotrimazole : 1% w/w,,7 gm,6.26
+710,Sulphadoxine : 250 mg+Pyrimethamine : 12.5 mg,,10 ml,9.09
+711,Sulphadoxine : 100 mg+Pyrimethamine : 50 mg,,1 Tablet,3.2
+712,Sulphadoxine : 750 mg+Pyrimethamine : 37.5 mg,,2 Tablet,4.88
+713,Sulphadoxine : 500 mg+Pyrimethamine : 25 mg,,2 Tablet,3.48
+714,Betamethasone Valerate : 0.1% w/w+Chlorocresol : 0.1% w/w,,30 gm,22.98
+715,Betamethasone : 0.05% w/v+Clotrimazole : 1% w/v,,16 ml,8.98
+716,Silver Sulphadiazine : 1% w/w+Chlorhexadine Gluconate : 0.5% w/w,,10 gm,36.1
+717,Silver Sulphadiazine : 1% w/w+Chlorhexadine Gluconate : 0.5% w/w,,15 gm,7.4
+718,Silver Sulphadiazine : 1% w/w+Chlorhexadine Gluconate : 0.5% w/w,,10 gm,6.86
+719,Silver Sulphadiazine : 1% w/w+Chlorhexidine : 0.2% w/w,,15 gm,8.16
+720,Silver Sulphadiazine : 1% w/w+Chlorhexadine Gluconate : 0.2% w/w,,250 gm,87.04
+721,Silver Sulphadiazine : 1% w/w+Chlorhexidine : 0.2% w/w,,100 gm,35.92
+722,Silver Sulphadiazine : 1% w/w+Chlorhexadine Gluconate : 0.2% w/w,,20 gm,8.82
+723,Silver Sulphadiazine : 1% w/w+Chlorhexidine : 0.2% w/w,,10 gm,6.06
+724,Silver Sulphadiazine : 1% w/w+Chlorhexadine Gluconate : 0.2% w/w,,5 gm,4.56
+725,Betamethasone : 0.05% w/w+Zinc Sulphate : 2.5% w/w,,15 gm,9.71
+726,Betamethasone : 0.05% w/w+Gentamicin Sulphate : 0.1% w/w,,30 gm,14.12
+727,Spironolactone : 100 mg+Torasemide : 10 mg,,10 Tablet,48.04
+728,Spironolactone : 50 mg+Furosemide : 20 mg,,10 Tablet,24.66
+729,Spironolactone : 50 mg+Furosemide : 40 mg,,10 Tablet,23.29
+730,Spironolactone : 25 mg+Hydroflumethiazide : 25 mg,,10 Tablet,11.44
+731,Spironolactone : 25 mg+Furosemide : 20 mg,,10 Tablet,18.85
+732,Betamethasone : 0.5 mg+Calcipotriol : 50 mcg,,15 gm,1166.88
+733,Captopril : 25 mg+Hydrochlorothiazide : 25 mg,,10 Tablet,2.97
+734,Captopril : 25 mg+Hydrochlorothiazide : 15 mg,,10 Tablet,3.1
+735,Cefadroxil : 125 mg+Ambroxol : 15 mg,,10 Tablet,8.26
+736,Cefadroxil : 250 mg+Ambroxol : 30 mg,,10 Tablet,15.64
+737,Cefadroxil : 500 mg+Ambroxol : 30 mg,,10 Tablet,28.6
+738,Cefadroxil : 500 mg+Ambroxol : 30 mg,,10 Capsule,36.84
+739,Cefadroxil : 500 mg+Ambroxol : 45 mg,,4 Tablet,11.9
+740,Cefadroxil : 125 mg+Probenecid : 125 mg,,6 Tablet,6.85
+741,Cefadroxil : 250 mg+Probenecid : 250 mg,,6 Tablet,11.76
+742,Cefadroxil : 500 mg+Probenecid : 500 mg,,6 Tablet,22.66
+743,Cefadroxil : 125 mg+Lactic Acid Bacillus : 30 million spores,,10 Tablet,8.36
+744,Cefadroxil : 125 mg+Lactic Acid Bacillus : 60 million spores,,10 Tablet,8.46
+745,Cefadroxil : 250 mg+Lactic Acid Bacillus : 60 million spores,,10 Tablet,15.74
+746,Cefadroxil : 500 mg+Lactic Acid Bacillus : 60 million spores,,10 Tablet,30.04
+747,Cefadroxil : 500 mg+Lactic Acid Bacillus : 60 million spores,,6 Capsule,19.96
+748,Cefotaxime Sodium : 1000 mg+Sulbactam Sodium : 500 mg,,1 Vial,32.46
+749,Cefotaxime Sodium : 500 mg+Sulbactam Sodium : 250 mg,,1 Vial,18.12
+750,Cefotaxime Sodium : 250 mg+Sulbactam : 125 mg,,1 Vial,13.42
+751,Chloroquine : 250 mg+Paracetamol : 250 mg,,10 Tablet,7.23
+752,Chlorpromazine : 100 mg+Trihexiphenidyl : 2 mg,,10 Tablet,7.49
+753,Salbutamol : 2 mg+Bromhexine : 4 mg,,100 ml,13.72
+754,Chlorpromazine : 200 mg+Trihexiphenidyl : 2 mg,,10 Tablet,12.84
+755,Salbutamol : 2 mg+Bromhexine : 4 mg,,50 ml,9.38
+756,Salbutamol : 2 mg+Bromhexine : 4 mg,,60 ml,10.16
+757,Salbutamol : 1 mg+Bromhexine : 4 mg,,30 ml,7.24
+758,Salbutamol : 1 mg+Bromhexine : 4 mg,,100 ml,12.9
+759,Salbutamol : 2 mg+Guaiphenesin : 100 mg,,120 ml,11.16
+760,Salbutamol : 1 mg+Guaiphenesin : 50 mg,,100 ml,8.99
+761,Salbutamol : 2 mg+Ambroxol : 30 mg,,100 ml,14.48
+762,Salbutamol : 2 mg+Ambroxol : 30 mg,,50 ml,9.78
+763,Salbutamol : 2 mg+Ambroxol : 30 mg,,60 ml,11.55
+764,Salbutamol : 1 mg+Ambroxol : 15 mg,,100 ml,12.86
+765,Salbutamol : 2.5 mg+Budesonide : 0.5 mg,,2.5 ml,4.1
+766,Salbutamol : 2.5 mg+Budesonide : 1 mg,,2.5 ml,4.38
+767,Salbutamol : 100 mcg+Beclomethasone : 50 mcg,,200 MTD,132.69
+768,Salbutamol : 1 mg+Theophylline : 50 mg,,100 ml,26.39
+769,Salbutamol : 1 mg+Theophylline : 50 mg,,30 ml,7.55
+770,Ciprofloxacin : 0.3% +Dexamethasone : 0.1% ,,5 ml,7.82
+771,Ciprofloxacin : 250 mg+Tinidazole : 300 mg,,10 Tablet,34.64
+772,Ciprofloxacin : 500 mg+Tinidazole : 600 mg,,10 Tablet,67.94
+773,Ciprofloxacin : 2 mg+Sodium Chloride : 0.9% w/v,,100 ml,17.76
+774,Ciprofloxacin : 2 mg+Sodium Chloride : 0.9% w/v,,200 ml,31.08
+775,Ciprofloxacin : 2 mg+Dextrose : 5% w/v,,200 ml,31.08
+776,Ciprofloxacin : 125 mg+Tinidazole : 150 mg,,30 ml,14.56
+777,Ciprofloxacin : 125 mg+Tinidazole : 150 mg,,60 ml,26.14
+778,Ciprofloxacin : 500 mg+Ornidazole : 500 mg,,10 Tablet,52.56
+779,Ciprofloxacin : 250 mg+Tinidazole : 300 mg,,60 ml,25.74
+780,Cloxacillin : 250 mg+Amoxycillin : 250 mg,,6 Capsule,22.3
+781,Cloxacillin : 125 mg+Amoxycillin : 125 mg,,10 Tablet,12.51
+782,Amoxycillin Sodium : 1000 mg+Cloxacillin Sodium : 1000 mg,,1 Vial,22.63
+783,Cloxacillin : 1500 mg+Amoxycillin : 1500 mg,,1 Vial,30.78
+784,Cloxacillin Sodium : 250 mg+Amoxycillin Sodium : 250 mg,,1 Vial,9.26
+785,Cloxacillin Sodium : 125 mg+Amoxycillin Sodium : 125 mg,,1 Vial,6.48
+786,Cloxacillin Sodium : 500 mg+Amoxycillin Sodium : 500 mg,,1 Vial,15.16
+787,Ampicillin : 250 mg+Cloxacillin : 250 mg,,10 Capsule,24.38
+788,Cloxacillin : 125 mg+Ampicillin : 125 mg,,10 Capsule,14.08
+789,Cloxacillin : 125 mg+Ampicillin : 125 mg,,10 Tablet,10.3
+790,Ampicillin : 50 mg+Cloxacillin : 25 mg,,1 Vial,9.87
+791,Cloxacillin : 125 mg+Ampicillin : 125 mg,,1 Vial,10.97
+792,Cloxacillin : 250 mg+Ampicillin : 250 mg,,1 Vial,12.65
+793,Cloxacillin : 500 mg+Ampicillin : 500 mg,,1 Vial,16.89
+794,Cloxacillin Sodium : 75 mg+Ampicillin Sodium : 25 mg,,1 Vial,5.8
+795,Cloxacillin : 125 mg+Ampicillin : 125 mg,,30 ml,13.5
+796,Cloxacillin : 125 mg+Ampicillin : 125 mg,,60 ml,20.42
+797,Cloxacillin : 250 mg+Amoxycillin : 250 mg,,10 Tablet,19.1
+798,Ampicillin : 500 mg+Cloxacillin : 500 mg,,4 Capsule,14.44
+799,Cloxacillin : 50 mg+Ampicillin : 100 mg,,10 ml,10.02
+800,Cloxacillin : 125 mg+Amoxycillin : 125 mg,,30 ml,10.66
+801,Cloxacillin : 125 mg+Amoxycillin : 125 mg,,60 ml,16.6
+802,Cloxacillin : 62.5 mg+Ampicillin : 62.5 mg,,30 ml,7.98
+803,Dexamethasone : 0.1% w/v+Gentamicin : 0.3% w/v,,5 ml,8.06
+804,Dexamethasone : 0.1% +Chloramphenicol : 1% ,,5 ml,8
+805,Dexamethasone : 0.1% +Ciprofloxacin : 0.3% ,,5 ml,7.82
+806,Salbutamol : 1 mg+Choline Theophylline : 50 mg,,50 ml,9.97
+807,Salbutamol : 1 mg+Choline Theophyllinate : 50 mg,,60 ml,9.32
+808,Salbutamol : 2 mg+Etophylline : 50 mg,,100 ml,12.66
+809,Salbutamol : 1 mg+Etophylline : 50 mg,,100 ml,12.4
+810,Levosalbutamol (Levalbuterol) : 1.25 mg+Ipratropium : 500 mcg,,2.5 ml,4.12
+811,Salbutamol : 2.5 mg+Ipratropium : 500 mcg,,2.5 ml,3.88
+812,Theophylline : 100 mg+Salbutamol : 2 mg,,100 ml,14.59
+813,Salbutamol : 1 mg+Choline Theophyllinate : 50 mg,,100 ml,12.48
+814,Salbutamol : 2 mg+Choline Theophyllinate : 100 mg,,100 ml,12.46
+815,Salbutamol : 2 mg+Guaiphenesin : 100 mg,,100 ml,8.64
+816,Salbutamol : 100 mcg+Ipratropium Bromide : 20 mcg,,200 MTD,74.07
+817,Salbutamol : 400 mcg+Beclomethasone : 200 mcg,,30 Rotacap,16.39
+818,Salbutamol : 200 mcg+Ipratropium : 40 mcg,,30 Rotacap,16.16
+819,Salbutamol : 200 mcg+Beclomethasone : 100 mcg,,30 Rotacap,15.06
+820,Salbutamol : 100 mcg+Beclomethasone : 50 mcg,,200 MTD,108.31
+821,Levosalbutamol (Levalbuterol) : 100 mcg+Beclomethasone : 100 mcg,,30 Rotacap,17.2
+822,Levosalbutamol (Levalbuterol) : 100 mcg+Ipratropium Bromide : 40 mcg,,30 Rotacap,14.88
+823,Levosalbutamol (Levalbuterol) : 50 mg+Ipratropium : 20 mg,,200 MTD,88.16
+824,Salbutamol : 4 mg+Theophylline : 200 mg,,10 Capsule,6.58
+825,Salbutamol : 4 mg+Theophylline : 200 mg,,10 Tablet,4.46
+826,Dexamethasone : 1 mg+Tobramycin : 3 mg,,5 ml,11.14
+827,Dexamethasone Sodium Phosphate : 0.1% w/v+Tobramycin : 0.3% w/v,,5 ml,9.62
+828,Dexamethasone Sodium Phosphate : 0.1% +Chloramphenicol : 0.5% ,,5 ml,7.8
+829,Dexamethasone : 0.1% w/v+Gentamicin : 0.3% w/v,,10 ml,10.16
+830,Salbutamol : 4 mg+Etophylline : 200 mg,,10 Tablet,3.68
+831,Salbutamol : 2 mg+Etophylline : 100 mg,,10 Tablet,2.48
+832,Dexamethasone Sodium Phosphate : 0.1% w/v+Neomycin : 0.5% w/v,,10 ml,9.72
+833,Salbutamol : 400 mcg+Beclomethasone : 200 mcg,,8 Tablet,2.48
+834,Salbutamol : 4 mg+Theophylline : 200 mg,,10 Tablet,3.34
+835,Salbutamol : 2 mg+Theophylline : 100 mg,,10 Tablet,2.02
+836,Salbutamol : 2 mg+Bromhexine : 8 mg,,10 Tablet,1.7
+837,Salbutamol : 4 mg+Bromhexine : 4 mg,,10 Tablet,1.62
+838,Dexamethasone : 0.1% +Atropine Sulphate : 1% ,,5 ml,8.2
+839,Dexamethasone : 0.1% w/v+Ciprofloxacin : 0.3% w/v,,10 ml,9.9
+840,Tobramycin : 0.1% w/w+Dexamethasone : 0.3% w/w,,3 gm,4.84
+841,Dexamethasone : 1 mg+Moxifloxacin : 5 mg,,5 ml,12.21
+842,Dexamethasone : 1 mg+Moxifloxacin : 5 mg,,10 ml,17.84
+843,Dexamethasone : 1 mg+Gatifloxacin : 3 mg,,5 ml,10.63
+844,Dexamethasone : 0.1% w/v+Gatifloxacin : 0.3% w/v,,5 ml,7.48
+845,Dexamethasone Sodium Phosphate : 0.1% w/v+Phenyl Mercuric Nitrate : 0.001% w/v,,10 ml,11.06
+846,Dexibuprofen : 300 mg+Paracetamol : 500 mg,,10 Tablet,14.7
+847,Dextropropoxyphene : 65 mg+Paracetamol : 325 mg,,10 Tablet,6.26
+848,Dextropropoxyphene : 65 mg+Paracetamol : 400 mg,,10 Tablet,8.76
+849,Dextropropoxyphene : 32 mg+Paracetamol : 350 mg,,100 Capsule,62.72
+850,Dextropropoxyphene : 32.5 mg+Ibuprofen : 200 mg,,8 Capsule,6.62
+851,Dextropropoxyphene : 65 mg+Paracetamol : 650 mg,,10 Tablet,9.94
+852,Dextropropoxyphene : 65 mg+Acetaminophen : 400 mg,,8 Capsule,9.58
+853,Dextropropoxyphene : 65 mg+Ibuprofen : 400 mg,,6 Capsule,7.78
+854,Diosmin : 450 mg+Methyl Hesperdin : 50 mg,,10 Tablet,35.58
+855,Doxycycline : 100 mg+Tinidazole : 600 mg,,10 Tablet,11.52
+856,Doxycycline Monohydrate : 100 mg+Lactic Acid Bacillus : 60 million,,10 Tablet,7.08
+857,Doxycycline : 100 mg+Ornidazole : 500 mg,,10 Tablet,18.34
+858,Doxycycline : 100 mg+Serratiopeptidase : 10 mg,,10 Tablet,8.8
+859,Doxycycline : 100 mg+Ambroxol : 30 mg,,10 Tablet,7.6
+860,Doxycycline : 100 mg+Serratiopeptidase : 15 mg,,10 Tablet,9.98
+861,Doxycycline Hyclate : 100 mg+Lactic Acid Bacillus : 60 million spores,,8 Capsule,7.18
+862,Erythromycin : 4% +Zinc Acetate : 2% ,,15 gm,10.36
+863,Pseudoephedrine : 60 mg+Triprolidine : 2.5 mg,,10 Tablet,5.98
+864,Pseudoephedrine : 120 mg+Cetirizine : 5 mg,,10 Tablet,6.42
+865,Pseudoephedrine : 120 mg+Fexofenadine : 60 mg,,10 Tablet,23
+866,Pseudoephedrine : 120 mg+Desloratadine : 2.5 mg,,10 Tablet,6.01
+867,Pseudoephedrine : 120 mg+Terfenadine : 60 mg,,10 Tablet,11.82
+868,Pseudoephedrine : 120 mg+Cetirizine : 5 mg,,10 Tablet,7.08
+869,Ephedrine : 24 mg+Theophylline : 130 mg,,10 Tablet,3.18
+870,Rifampicin : 150 mg+Isoniazid : 100 mg,,6 Tablet,10.35
+871,Rifampicin : 300 mg+Isoniazid : 150 mg,,10 Tablet,24.56
+872,Bromhexine : 8 mg+Pseudoephedrine : 60 mg,,15 Tablet,5
+873,Cetirizine : 10 mg+Pseudoephedrine : 60 mg,,10 Tablet,4.4
+874,Pseudoephedrine : 30 mg+Cetirizine : 10 mg,,10 Tablet,2.94
+875,Pseudoephedrine : 60 mg+Cetirizine : 5 mg,,10 Tablet,3.8
+876,Pseudoephedrine : 180 mg+Fexofenadine : 120 mg,,10 Tablet,41.38
+877,Theophylline : 30 mg+Ephedrine : 6 mg,,60 ml,11.32
+878,Rifampicin : 600 mg+Isoniazid : 300 mg,,10 Tablet,64.07
+879,Rifampicin : 450 mg+Isoniazid : 300 mg,,10 Tablet,51.58
+880,Rifampicin : 150 mg+Isoniazid IP : 75 mg,,6 Tablet,10.79
+881,Rifampicin : 100 mg+Isoniazid : 100 mg,,10 Tablet,13.59
+882,Rifampicin : 100 mg+Isoniazid : 50 mg,,10 Tablet,11.73
+883,Rifampicin : 60 mg+Isoniazid IP : 30 mg,,6 Tablet,5.13
+884,Rifampicin : 450 mg+Isoniazid : 300 mg,,10 Capsule,49.36
+885,Ranitidine : 150 mg+Cisapride : 10 mg,,10 Tablet,6.95
+886,Ranitidine : 25 mg+Ondansetron : 2 mg,,2 ml,2.72
+887,Ranitidine : 150 mg+Ondansetron : 4 mg,,10 Tablet,5.41
+888,Etophylline : 77 mg+Theophylline : 23 mg,,100 ml,11.92
+889,Etophylline : 50 mg+Terbutaline Sulphate : 1.25 mg,,100 ml,15.02
+890,Etophylline : 462 mg+Theophylline : 138 mg,,10 Tablet,9.39
+891,Etophylline : 100 mg+Terbutaline Sulphate : 2.5 mg,,10 Tablet,3.65
+892,Famotidine : 20 mg+Domperidone : 10 mg,,10 Tablet,2.66
+893,Famotidine : 20 mg+Diclofenac Sodium : 50 mg,,10 Tablet,2.29
+894,Famotidine : 20 mg+Magaldrate : 400 mg,,10 Tablet,3.26
+895,Framycetin Sulphate : 1% w/w+Dexamethasone : 0.1% w/w,,20 gm,20.54
+896,Dexamethasone Sodium Phosphate : 0.12% +Framycetin Sulphate : 1% ,,5 ml,14.18
+897,Frusemide (Furosemide) : 40 mg+Amiloride : 5 mg,,10 Tablet,5.18
+898,Frusemide (Furosemide) : 40 mg+Potassium Chloride : 600 mg,,10 Tablet,3.83
+899,Frusemide (Furosemide) : 20 mg+Triamterene : 50 mg,,10 Tablet,3.12
+900,Frusemide (Furosemide) : 40 mg+Triamterene : 50 mg,,10 Tablet,3.34
+901,Furazolidone : 100 mg+Metronidazole : 300 mg,,10 Capsule,8
+902,Furazolidone : 100 mg+Metronidazole : 300 mg,,10 Tablet,4.72
+903,Furazolidone : 100 mg+Metronidazole : 400 mg,,10 Tablet,6.82
+904,Furazolidone : 100 mg+Loperamide : 2 mg,,4 Capsule,2.36
+905,Furazolidone : 100 mg+Loperamide : 2 mg,,10 Tablet,2.4
+906,Furazolidone : 25 mg+Metronidazole : 75 mg,,60 ml,8.3
+907,Furazolidone : 30 mg+Metronidazole : 100 mg,,50 ml,7.66
+908,Furazolidone : 30 mg+Metronidazole : 100 mg,,60 ml,8.78
+909,Furazolidone : 30 mg+Metronidazole : 160 mg,,60 ml,9.88
+910,Furazolidone : 40 mg+Metronidazole : 100 mg,,50 ml,7.72
+911,Furazolidone : 40 mg+Metronidazole : 200 mg,,60 ml,11.28
+912,Ranitidine : 150 mg+Drotaverine : 40 mg,,10 Tablet,8.28
+913,Ranitidine : 150 mg+Magaldrate : 200 mg,,10 Tablet,4.34
+914,Ranitidine : 150 mg+Domperidone : 15 mg,,10 Tablet,5.16
+915,Ranitidine : 150 mg+Domperidone : 10 mg,,10 Tablet,5.41
+916,Ranitidine : 150 mg+Dicyclomine (Dicycloverine) : 10 mg,,10 Tablet,4.6
+917,Pyrantal Pamoate : 100 mg+Mebendazole : 150 mg,,2 Tablet,4.46
+918,Phenylbutazone : 200 mg+Lignocaine : 10 mg,,3 ml,15.12
+919,Pentazocine : 15 mg+Paracetamol : 500 mg,,10 Tablet,10.42
+920,Procaine Pencillin : 3000000 units+Benzyl Penicillin Sodium : 1000000 units,,1 Vial,16.9
+921,Procaine Pencillin : 1500000 units+Pencillin G Sodium : 500000 units,,1 Vial,9.92
+922,Oxytetracycline : 50 mg+Lidocaine : 2% ,,20 ml,13.2
+923,Naproxen : 300 mg+Paracetamol : 500 mg,,10 Tablet,17.65
+924,Norfloxacin : 0.3% w/w+Benzalkonium Chloride : 0.01% ,,10 gm,6.2
+925,Norfloxacin : 400 mg+Metronidazole : 500 mg,,10 Tablet,15.14
+926,Norfloxacin : 100 mg+Ornidazole : 125 mg,,30 ml,9.42
+927,Norfloxacin : 100 mg+Metronidazole : 100 mg,,60 ml,13.9
+928,Norfloxacin : 100 mg+Metronidazole : 100 mg,,30 ml,12.45
+929,Norfloxacin : 100 mg+Tinidazole : 75 mg,,30 ml,8.6
+930,Norfloxacin : 100 mg+Tinidazole : 100 mg,,50 ml,11.46
+931,Norfloxacin : 100 mg+Tinidazole : 100 mg,,30 ml,8.72
+932,Norfloxacin : 100 mg+Metronidazole : 100 mg,,10 Tablet,4.14
+933,Norfloxacin : 400 mg+Ornidazole : 500 mg,,10 Tablet,17.22
+934,Norfloxacin : 400 mg+Metronidazole : 600 mg,,10 Tablet,15.46
+935,Metronidazole : 400 mg+Nalidixic Acid : 300 mg,,10 Tablet,16.48
+936,Furazolidone : 40 mg+Metronidazole : 200 mg,,30 ml,10.89
+937,Norfloxacin : 400 mg+Metronidazole : 400 mg,,10 Tablet,13.38
+938,Norfloxacin : 300 mg+Metronidazole : 300 mg,,10 Tablet,10.36
+939,Norfloxacin : 250 mg+Metronidazole : 250 mg,,10 Tablet,8.88
+940,Furazolidone : 30 mg+Metronidazole : 100 mg,,450 ml,53.68
+941,Norfloxacin : 200 mg+Metronidazole : 300 mg,,10 Tablet,8.44
+942,Norfloxacin : 200 mg+Metronidazole : 200 mg,,10 Tablet,7.22
+943,Norfloxacin : 100 mg+Metronidazole : 100 mg,,10 Tablet,4.04
+944,Furazolidone : 100 mg+Tinidazole : 300 mg,,10 Tablet,6.04
+945,Norfloxacin : 400 mg+Tinidazole : 600 mg,,10 Tablet,10.89
+946,Norfloxacin : 400 mg+Tinidazole : 300 mg,,10 Tablet,11.48
+947,Nalidixic Acid : 150 mg+Metronidazole : 100 mg,,60 ml,15.32
+948,Nalidixic Acid : 150 mg+Metronidazole : 100 mg,,30 ml,9.44
+949,Gentamicin : 0.1% w/w+Clobetasol Propionate : 0.05% w/w,,10 gm,6.82
+950,Nalidixic Acid : 300 mg+Metronidazole : 200 mg,,60 ml,23.24
+951,Gentamicin : 0.1% w/w+Clobetasol Propionate : 0.05% w/w,,15 gm,8.84
+952,Nalidixic Acid : 300 mg+Metronidazole : 400 mg,,10 Tablet,16.48
+953,Nalidixic Acid : 500 mg+Metronidazole : 200 mg,,10 Tablet,21.06
+954,Gentamicin : 0.3% w/v+Betamethasone : 0.1% w/v,,5 ml,3.84
+955,Nalidixic Acid : 300 mg+Metronidazole : 200 mg,,10 Tablet,15.34
+956,Metronidazole : 100 mg+Ofloxacin : 100 mg,,30 ml,12.26
+957,Metronidazole : 1% +Miconazole Nitrate : 2% ,,30 gm,12
+958,Metronidazole : 200 mg+Amoxicillin Trihydrate : 250 mg,,10 Capsule,16.96
+959,Metronidazole : 1% w/w+Chlorhexadine Gluconate : 0.25% w/w,,10 gm,6.08
+960,Metronidazole : 1% w/w+Chlorhexadine Gluconate : 0.25% w/w,,20 gm,8.13
+961,Metronidazole : 1% w/w+Povidone Iodine : 5% w/w,,30 ml,10.27
+962,Metronidazole : 1% w/w+Povidone Iodine : 5% w/w,,15 gm,8.66
+963,Metronidazole : 1% w/w+Mupirocin : 2% w/w,,5 gm,36.42
+964,Metronidazole : 1% w/w+Sucralfate : 7% w/w,,20 gm,7.9
+965,Metronidazole : 100 mg+Diloxanide Furoate : 125 mg,,50 ml,8.25
+966,Metronidazole : 100 mg+Furazolidone : 30 mg,,450 ml,53.68
+967,Metronidazole : 100 mg+Furazolidone : 30 mg,,50 ml,7.02
+968,Gentamicin : 0.1% w/w+Clobetasol : 0.05% w/w,,30 gm,9.64
+969,Metronidazole : 100 mg+Furazolidone : 30 mg,,60 ml,10.04
+970,Gentamicin : 0.1% w/w+Clobetasol : 0.05% w/w,,25 gm,13.22
+971,Metronidazole : 200 mg+Ofloxacin : 100 mg,,60 ml,21.7
+972,Metronidazole : 200 mg+Ofloxacin : 100 mg,,30 ml,16.37
+973,Metronidazole : 100 mg+Ofloxacin : 50 mg,,60 ml,16.14
+974,Metronidazole : 100 mg+Ofloxacin : 50 mg,,30 ml,12.62
+975,Metronidazole : 400 mg+Norfloxacin : 100 mg,,60 ml,18.68
+976,Metronidazole : 200 mg+Norfloxacin : 100 mg,,60 ml,15.5
+977,Metronidazole : 100 mg+Norfloxacin : 100 mg,,60 ml,13.9
+978,Metronidazole : 100 mg+Norfloxacin : 100 mg,,30 ml,11.6
+979,Glipizide : 2.5 mg+Metformin : 400 mg,,10 Tablet,4.34
+980,Glipizide : 5 mg+Metformin : 500 mg,,10 Tablet,10.6
+981,Glipizide : 2.5 mg+Metformin : 250 mg,,10 Tablet,3.61
+982,Ibuprofen : 400 mg+Paracetamol : 325 mg,,15 Tablet,8.11
+983,Ibuprofen : 100 mg+Paracetamol : 125 mg,,50 ml,8.81
+984,Ibuprofen : 100 mg+Paracetamol : 125 mg,,60 ml,10.37
+985,Ibuprofen : 100 mg+Paracetamol : 162.5 mg,,60 ml,13.22
+986,Ibuprofen : 400 mg+Tizanidine : 2 mg,,10 Tablet,16.49
+987,Ibuprofen : 400 mg+Dextropropoxyphene : 65 mg,,6 Capsule,7.78
+988,Ibuprofen : 100 mg+Acetaminophen : 162.5 mg,,50 ml,9.86
+989,Ibuprofen : 100 mg+Paracetamol : 162.5 mg,,100 ml,20.12
+990,Ibuprofen : 100 mg+Paracetamol : 162.5 mg,,50 ml,14.22
+991,Ibuprofen : 400 mg+Tizanidine : 2 mg,,10 Capsule,13.86
+992,Ibuprofen : 400 mg+Paracetamol : 500 mg,,250 Tablet,175.7
+993,Ibuprofen : 400 mg+Tramadol : 50 mg,,100 Tablet,80.5
+994,Metronidazole : 200 mg+Furazolidone : 40 mg,,60 ml,11.28
+995,Metronidazole : 160 mg+Furazolidone : 30 mg,,60 ml,9.88
+996,Metronidazole : 100 mg+Suspension+50 ml+Furazolidone : 40 mg,,60 ml,7.72
+997,Metronidazole : 100 mg+Furazolidone : 30 mg,,10 ml,8.78
+998,Insulin (Human) : 40 iu,,60 ml,135
+999,Metronidazole : 75 mg+Furazolidone : 25 mg,,45 gm,8.3
+1000,Metronidazole : 10% w/w+Clotrimazole : 2% w/w,,15 Tablet,18.02
+1001,Metronidazole : 200 mg+Diloxanide Furoate : 250 mg,,10 Capsule,12.9
+1002,Metronidazole : 400 mg+Metronidazole : 400 mg,,10 Capsule,10.37
+1003,Metronidazole : 300 mg+Metronidazole : 300 mg,,15 Tablet,8.4
+1004,Metronidazole : 200 mg+Metronidazole : 200 mg,,15 Tablet,5.97
+1005,Metronidazole : 400 mg+Metronidazole : 400 mg,,10 Tablet,19.99
+1006,Metronidazole : 300 mg+Metronidazole : 300 mg,,10 Tablet,4.72
+1007,Metronidazole : 400 mg+Metronidazole : 400 mg,,10 Tablet,6.82
+1008,Levodopa : 200 mg+Levodopa : 200 mg,,10 Tablet,41.7
+1009,Levodopa : 250 mg+Levodopa : 250 mg,,10 Tablet,38.61
+1010,Levodopa : 100 mg+Levodopa : 100 mg,,10 Tablet,20.68
+1011,Levodopa : 100 mg+Levodopa : 100 mg,,10 Tablet,16.07
+1012,Ascorbic Acid : 200 mg+Ascorbic Acid : 200 mg,,10 Tablet,11.7
+1013,Ascorbic Acid : 150 mg+Ascorbic Acid : 150 mg,,10 Tablet,9.71
+1014,Ascorbic Acid : 100 mg+Ascorbic Acid : 100 mg,,10 Capsule,6.98
+1015,Vit C : 100 mg+Vit C : 100 mg,,10 Capsule,16.84
+1016,Vit C : 300 mg+Vit C : 300 mg,,10 Capsule,42.7
+1017,Vit C : 150 mg+Vit C : 150 mg,,15 gm,12.73
+1018,Vit C : 2.5% w/w+Vit C : 2.5% w/w,,10 Tablet,7.84
+1019,Vit C : 150 mg+Vit C : 150 mg,,10 Capsule,4.98
+1020,Vit E : 200 mg+Vit E : 200 mg,,10 Tablet,9.05
+1021,Vit E : 400 mg+Vit E : 400 mg,,50 gm,12.31
+1022,Vit E : 0.5% w/w+Vit E : 0.5% w/w,,10 Capsule,17.71
+1023,Vit E : 400 mg+Vit E : 400 mg,,100 ml,12.31
+1024,Vit E : 0.5% +Vit E : 0.5% ,,10 Tablet,14.07
+1025,Erythromycin : 250 mg+Erythromycin : 250 mg,,500 ml,12.41
+1026,Metronidazole : 0.2% +Metronidazole : 0.2% ,,10 Tablet,21.33
+1027,Metronidazole : 400 mg+Metronidazole : 400 mg,,10 Tablet,24.44
+1028,Metronidazole : 200 mg+Amoxicillin Trihydrate : 250 mg,,15 Tablet,15.3
+1029,Metronidazole : 200 mg+Metronidazole : 200 mg,,10 Tablet,5.92
+1030,Aspirin : 75 mg+Aspirin : 75 mg,,10 Tablet,18.29
+1031,Aspirin : 150 mg+Aspirin : 150 mg,,10 Tablet,20.29
+1032,Aspirin : 75 mg+Aspirin : 75 mg,,10 Tablet,44.29
+1033,Aspirin : 75 mg+Aspirin : 75 mg,,10 Tablet,25.75
+1034,Metronidazole : 400 mg+Metronidazole : 400 mg,,4 Tablet,24.44
+1035,Metronidazole : 1000 mg+Metronidazole : 1000 mg,,50 gm,6.51
+1036,Cloxacillin : 5% w/w+Cloxacillin : 5% w/w,,250 gm,24.88
+1037,Cloxacillin : 5% w/w+Cloxacillin : 5% w/w,,20 Tablet,116.14
+1038,Trimethoprim : 200 mg+Trimethoprim : 200 mg,,500 gm,33.82
+1039,Trimethoprim : 160 mg+Trimethoprim : 160 mg,,60 ml,172.8
+1040,Salbutamol : 1 mg+Salbutamol : 1 mg,,500 ml,12.5
+1041,Metronidazole : 0.2% +Metronidazole : 0.2% ,,15 gm,21.33
+1042,Metronidazole : 1% w/w+Metronidazole : 1% w/w,,100 ml,8.49
+1043,Vit E : 0.5% +Vit E : 0.5% ,,10 Capsule,12.2
+1044,Vit E : 200 mg+Vit E : 200 mg,,10 Capsule,9.05
+1045,Vit E : 200 mg+Vit E : 200 mg,,10 Tablet,8.84
+1046,Vit E : 400 iu+Vit E : 400 iu,,10 Tablet,7.46
+1047,Vit E : 400 iu+Vit E : 400 iu,,15 gm,4.98
+1048,Vit C : 2.5% w/w+Vit C : 2.5% w/w,,15 gm,7.84
+1049,Vit C : 25% w/w+Vit C : 25% w/w,,10 Capsule,9.94
+1050,Vit C : 300 mg+Vit C : 300 mg,,10 Capsule,42.7
+1051,Vit C : 100 mg+Vit C : 100 mg,,10 Tablet,16.84
+1052,Vit A : 6000 iu+Vit A : 6000 iu,,1000 Capsule,3.81
+1053,Vit A : 1600 iu+Vit A : 1600 iu,,250 gm,76.68
+1054,Trimethoprim : 2 mg+Sulphamethoxazole : 10 mg,,10 Tablet,43.75
+1055,Trimethoprim : 40 mg+Trimethoprim : 40 mg,,3 ml,3.38
+1056,Trimethoprim : 160 mg+Trimethoprim : 160 mg,,1000 Tablet,3.51
+1057,Trimethoprim : 80 mg+Trimethoprim : 80 mg,,10 Tablet,511.79
+1058,Theophylline : 80 mg+Theophylline : 80 mg,,10 Tablet,3.04
+1059,Theophylline : 200 mg+Theophylline : 200 mg,,10 Capsule,3.6
+1060,Theophylline : 200 mg+Theophylline : 200 mg,,10 Capsule,6.36
+1061,Theophylline : 400 mg+Theophylline : 400 mg,,10 Tablet,8.14
+1062,Theophylline : 120 mg+Theophylline : 120 mg,,100 ml,2.82
+1063,Theophylline : 23 mg+Theophylline : 23 mg,,10 Capsule,11.92
+1064,Theophylline : 100 mg+Theophylline : 100 mg,,10 Tablet,7.02
+1065,Sulphamethoxazole : 200 mg+Sulphamethoxazole : 200 mg,,2 Tablet,3.38
+1066,Sulphamethoxazole : 500 mg+Sulphamethoxazole : 500 mg,,10 ml,1.44
+1067,Sulphadoxine : 125 mg+Sulphadoxine : 125 mg,,10 Tablet,5.36
+1068,Spironolactone : 25 mg+Spironolactone : 25 mg,,60 ml,20.08
+1069,Salbutamol : 2 mg+Salbutamol : 2 mg,,15 ml,10.7
+1070,Salbutamol : 200 mcg+Salbutamol : 200 mcg,,3 ml,9.49
+1071,Salbutamol : 2.5 mg+Salbutamol : 2.5 mg,,2.5 ml,3.19
+1072,Salbutamol : 2.5 mg+Ambroxol : 1.5 mg,,30 Rotacap,3.26
+1073,Levosalbutamol (Levalbuterol) : 200 mcg+Levosalbutamol (Levalbuterol) : 200 mcg,,8 Tablet,15.94
+1074,Salbutamol : 200 mcg+Salbutamol : 200 mcg,,10 Tablet,1.39
+1075,Salbutamol : 4 mg+Salbutamol : 4 mg,,10 Tablet,5.46
+1076,Salbutamol : 2 mg+Salbutamol : 2 mg,,10 Tablet,4.15
+1077,Rifampicin : 100 mg+Rifampicin : 100 mg,,10 Tablet,9.2
+1078,Rifampicin : 450 mg+Rifampicin : 450 mg,,5 ml,36.26
+1079,Ranitidine : 125 mg+Ranitidine : 125 mg,,10 Tablet,5.34
+1080,Ranitidine : 150 mg+Ranitidine : 150 mg,,5 ml,5.46
+1081,Prednisolone : 1% +Prednisolone : 1% ,,5 ml,13.46
+1082,Prednisolone : 10 mg+Prednisolone : 10 mg,,5 ml,63.97
+1083,Prednisolone : 10 mg+Prednisolone : 10 mg,,250 ml,10.43
+1084,Prednisolone : 5% +Prednisolone : 5% ,,60 ml,56.01
+1085,Prednisolone : 5 mg+Prednisolone : 5 mg,,1 Vial,17.79
+1086,Prednisolone : 5 mg+Prednisolone : 5 mg,,250 gm,5.02
+1087,Neomycin : 100 mg+Neomycin : 100 mg,,2 Tablet,289.87
+1088,Naproxen : 500 mg+Naproxen : 500 mg,,10 gm,59.02
+1089,Naproxen : 10% w/w+Naproxen : 10% w/w,,30 ml,14.25
+1090,Norfloxacin : 100 mg+Norfloxacin : 100 mg,,30 ml,10.79
+1091,Norfloxacin : 125 mg+Norfloxacin : 125 mg,,10 Tablet,10.91
+1092,Norfloxacin : 400 mg+Norfloxacin : 400 mg,,10 Tablet,9.3
+1093,Norfloxacin : 100 mg+Norfloxacin : 100 mg,,30 ml,6.04
+1094,Norfloxacin : 100 mg+Norfloxacin : 100 mg,,30 ml,9.6
+1095,Norfloxacin : 100 mg+Norfloxacin : 100 mg,,30 ml,11.31
+1096,Norfloxacin : 400 mg+Norfloxacin : 400 mg,,60 ml,14.86
+1097,Norfloxacin : 200 mg+Norfloxacin : 200 mg,,30 ml,17.78
+1098,Norfloxacin : 150 mg+Norfloxacin : 150 mg,,60 ml,9.6
+1099,Norfloxacin : 100 mg+Norfloxacin : 100 mg,,60 ml,18.68
+1100,Norfloxacin : 100 mg+Norfloxacin : 100 mg,,30 ml,21.74
+1101,Norfloxacin : 100 mg+Norfloxacin : 100 mg,,10 Tablet,9.42
+1102,Norfloxacin : 100 mg+Norfloxacin : 100 mg,,10 Tablet,13.32
+1103,Norfloxacin : 200 mg+Norfloxacin : 200 mg,,60 ml,6.78
+1104,Nalidixic Acid : 150 mg+Nalidixic Acid : 150 mg,,50 ml,16.92
+1105,Nalidixic Acid : 150 mg+Nalidixic Acid : 150 mg,,60 ml,13.12
+1106,Metronidazole : 100 mg+Metronidazole : 100 mg,,100 Tablet,8.82
+1107,Metronidazole : 400 mg+Metronidazole : 400 mg,,500 ml,274.48
+1108,Metronidazole : 0.20% +Metronidazole : 0.20% ,,10 Tablet,25.31
+1109,Metronidazole : 400 mg+Metronidazole : 400 mg,,60 ml,9
+1110,Metronidazole : 100 mg+Metronidazole : 100 mg,,30 ml,20.3
+1111,Metronidazole : 200 mg+Metronidazole : 200 mg,,30 ml,10.89
+1112,Metronidazole : 200 mg+Metronidazole : 200 mg,,30 ml,13.56
+1113,Metronidazole : 125 mg+Metronidazole : 125 mg,,30 ml,9.22
+1114,Metronidazole : 120 mg+Metronidazole : 120 mg,,60 ml,10.91
+1115,Metronidazole : 200 mg+Metronidazole : 200 mg,,60 ml,23.24
+1116,Metronidazole : 200 mg+Metronidazole : 200 mg,,60 ml,11
+1117,Metronidazole : 200 mg+Metronidazole : 200 mg,,60 ml,11.42
+1118,Metronidazole : 100 mg+Metronidazole : 100 mg,,60 ml,9.84
+1119,Metronidazole : 50 mg+Metronidazole : 50 mg,,4 Injection,7.94
+1120,Metronidazole : 1000 mg+Metronidazole : 1000 mg,,60 ml,6.89
+1121,Metronidazole : 200 mg,,10 Capsule,12.74
+1122,Lincomycin : 500 mg+Lincomycin : 500 mg,,5 ml,19.45
+1123,Analgin : 500 mg+Analgin : 500 mg,,10 Tablet,9.22
+1124,Aspirin : 150 mg+Aspirin : 150 mg,,10 Tablet,2.4
+1125,Iodochlorohydroxyquinoline : 250 mg+Iodochlorohydroxyquinoline : 250 mg,,10 Tablet,6.52
+1126,Aspirin : 75 mg+Aspirin : 75 mg,,5 gm,1.9
+1127,Iodochlorohydroxyquinoline : 3% w/w+Iodochlorohydroxyquinoline : 3% w/w,,10 Capsule,2.59
+1128,Ibuprofen : 400 mg+Ibuprofen : 400 mg,,60 ml,15.42
+1129,Ibuprofen : 50 mg+Ibuprofen : 50 mg,,50 ml,13.81
+1130,Ibuprofen : 100 mg+Ibuprofen : 100 mg,,60 ml,9.86
+1131,Ibuprofen : 100 mg+Ibuprofen : 100 mg,,8 Capsule,10.3
+1132,Ibuprofen : 200 mg+Ibuprofen : 200 mg,,100 ml,6.56
+1133,Furazolidone : 25 mg+Furazolidone : 25 mg,,10 ml,9.01
+1134,Betamethasone : 2 mg+Betamethasone : 2 mg,,5 ml,17.57
+1135,Betamethasone : 0.10% +Betamethasone : 0.10% ,,5 ml,8.74
+1136,Betamethasone : 0.1% w/v+Betamethasone : 0.1% w/v,,1000 ml,8
+1137,Furazolidone : 35 mg+Furazolidone : 35 mg,,0.3 ml,76.9
+1138,Betamethasone : 0.1% w/v+Betamethasone : 0.1% w/v,,5 ml,2.55
+1139,Betamethasone : 0.1% w/v+Betamethasone : 0.1% w/v,,10 Tablet,10.23
+1140,Frusemide (Furosemide) : 40 mg+Frusemide (Furosemide) : 40 mg,,10 gm,24.68
+1141,Betamethasone : 0.05% +Salicylic Acid : 3% ,,10 Tablet,7.23
+1142,Frusemide (Furosemide) : 20 mg+Spironolactone : 50 mg,,30 gm,24.52
+1143,Betamethasone : 0.064% w/w+Gentamicin : 0.1% w/w,,5 ml,14.46
+1144,Framycetin Sulphate : 1% +Hydrocortisone : 1% ,,5 ml,12.28
+1145,Framycetin Sulphate : 1% +Dexamethasone : 0.12% ,,10 gm,14.18
+1146,Betamethasone : 0.064% w/w+Miconazole Nitrate : 2% w/w,,10 gm,7.57
+1147,Betamethasone : 0.05% +Neomycin : 0.57% ,,15 gm,7.32
+1148,Betamethasone : 0.05% +Neomycin : 0.25% ,,10 ml,8.9
+1149,Betamethasone : 0.05% +Clotrimazole : 1% ,,5 gm,7.04
+1150,Betamethasone : 0.12% w/w+Neomycin : 0.5% w/w,,20 gm,6.8
+1151,Betamethasone : 0.061% w/w+Salicylic Acid : 3% w/w,,20 gm,12.43
+1152,Betamethasone : 0.12% +Salicylic Acid : 2% ,,25 gm,16.94
+1153,Betamethasone : 0.05% w/w+Salicylic Acid : 3% w/w,,7.5 gm,12.6
+1154,Betamethasone : 0.64 mg+Gentamicin : 1 mg,,10 gm,6.08
+1155,Betamethasone : 1 mg+Fusidic Acid : 20 mg,,16 gm,27.56
+1156,Betamethasone : 0.05% w/w+Gentamicin : 0.1% w/w,,10 gm,7.04
+1157,Betamethasone : 0.05% w/w+Iodochlorohydroxyquinoline : 30 mg,,10 ml,5.9
+1158,Betamethasone : 0.05% w/w+Salicylic Acid : 2% w/w,,20 ml,6.98
+1159,Betamethasone : 0.05% w/w+Salicylic Acid : 3% w/w,,20 ml,10.29
+1160,Betamethasone : 0.05% w/w+Gentamicin : 0.1% w/w,,17 gm,10.02
+1161,Betamethasone : 0.01% +Chlorcresol : 0.10% ,,17 gm,7.32
+1162,Betamethasone : 0.05% +Chlorcresol : 0.10% ,,30 gm,8.8
+1163,Betamethasone Valerate : 0.1% w/w+Chlorcresol : 0.1% w/w,,20 gm,22.98
+1164,Betamethasone : 0.05% w/w+Neomycin : 0.5% w/w,,20 gm,9.72
+1165,Betamethasone : 0.05% w/w+Miconazole Nitrate : 2% w/w,,30 gm,10.5
+1166,Betamethasone : 0.1% w/w+Absolute Alcohol : 76.05% ,,10 gm,24.55
+1167,Betamethasone : 0.05% w/w+Ketoconazole : 2% w/w,,10 Tablet,8.45
+1168,Cefadroxil : 300 mg+Ambroxol : 30 mg,,30 ml,21.78
+1169,Cefadroxil : 50 mg+Lactic Acid Bacillus : 60 million spores,,100 ml,9.6
+1170,Cefadroxil : 50 mg+Lactic Acid Bacillus : 60 million spores,,30 ml,19.53
+1171,Cefadroxil : 125 mg+Lactic Acid Bacillus : 60 million spores,,30 ml,10.44
+1172,Cefadroxil : 250 mg+Lactic Acid Bacillus : 60 million spores,,60 ml,14.78
+1173,Cefadroxil : 250 mg+Lactic Acid Bacillus : 60 million spores,,6 Tablet,24.86
+1174,Cefadroxil : 250 mg+Potassium Clavulanate : 62.5 mg,,6 Tablet,30.26
+1175,Cefadroxil : 500 mg+Potassium Clavulanate : 125 mg,,10 Capsule,58.98
+1176,Cefadroxil : 250 mg+Lactic Acid Bacillus : 30 million spores,,30 ml,18.14
+1177,Cefadroxil : 125 mg+Lactic Acid Bacillus : 20 million spores,,10 Tablet,10.36
+1178,Cefadroxil : 500 mg+Lactic Acid Bacillus : 90 million spores,,10 Tablet,30.42
+1179,Cefadroxil : 125 mg+Lactic Acid Bacillus : 120 million spores,,10 Tablet,8.8
+1180,Chloroquine Phosphate : 250 mg+Paracetamol : 250 mg,,100 ml,6.8
+1181,Ciprofloxacin : 200 mg+Sodium Chloride : 900 mg,,100 ml,40.85
+1182,Ciprofloxacin : 250 mg+Tinidazole : 300 mg,,10 Tablet,34.99
+1183,Ephedrine : 15 mg+Theophylline : 120 mg,,1 Vial,2.82
+1184,Cloxacillin Sodium : 2000 mg+Amoxycillin Sodium : 2000 mg,,1 Vial,39.15
+1185,Cloxacillin Sodium : 1000 mg+Amoxycillin Sodium : 1000 mg,,1 Vial,22.63
+1186,Cloxacillin Sodium : 500 mg+Amoxycillin Sodium : 500 mg,,10 Capsule,15.16
+1187,Cloxacillin : 250 mg+Ampicillin : 250 mg,,50 ml,24.38
+1188,Ephedrine : 6 mg+Theophylline : 30 mg,,1 Vial,9.58
+1189,Cloxacillin Sodium : 2000 mg+Ampicillin Sodium : 2000 mg,,1 Vial,28.73
+1190,Cloxacillin : 25 mg+Ampicillin : 50 mg,,10 Tablet,9.87
+1191,Cloxacillin : 125 mg+Ampicillin : 125 mg,,10 Capsule,14.42
+1192,Cloxacillin : 250 mg+Ampicillin : 250 mg,,4 Capsule,21.42
+1193,Cloxacillin : 500 mg+Ampicillin : 500 mg,,30 ml,14.44
+1194,Pseudoephedrine : 60 mg+Triprolidine : 250 mg,,10 Tablet,8.98
+1195,Cloxacillin : 500 mg+Ampicillin : 500 mg,,10 Tablet,28.66
+1196,Pseudoephedrine : 180 mg+Fexofenadine : 120 mg,,1 Vial,41.38
+1197,Cloxacillin : 25 mg+Amoxycillin : 50 mg,,10 Tablet,6.04
+1198,Pseudoephedrine : 60 mg+Cetirizine : 5 mg,,10 Tablet,3.8
+1199,Pseudoephedrine : 30 mg+Cetirizine : 10 mg,,10 Tablet,2.94
+1200,Pseudoephedrine : 60 mg+Cetirizine : 10 mg,,15 Tablet,4.4
+1201,Pseudoephedrine : 60 mg+Bromhexine : 8 mg,,10 Tablet,5
+1202,Pseudoephedrine : 120 mg+Cetirizine : 5 mg,,10 Tablet,7.08
+1203,Pseudoephedrine : 120 mg+Terfenadine : 60 mg,,10 Tablet,11.82
+1204,Pseudoephedrine : 60 mg+Nimesulide : 100 mg,,10 Tablet,5.64
+1205,Pseudoephedrine : 120 mg+Desloratadine : 2.5 mg,,10 Tablet,6.01
+1206,Pseudoephedrine : 60 mg+Triprolidine : 2.5 mg,,3 gm,5.98
+1207,Dexamethasone : 0.1% w/v+Gentamicin : 0.3% w/v,,10 Tablet,4.93
+1208,Pseudoephedrine : 30 mg+Paracetamol : 500 mg,,5 gm,4.1
+1209,Dexamethasone Sodium Phosphate : 1 mg+Chloramphenicol : 10 mg,,20 ml,5.16
+1210,Dexamethasone : 0.1% w/v+Neomycin : 0.35% w/v,,2.5 ml,6.46
+1211,Dexamethasone : 0.1% +Neomycin : 0.3% ,,10 ml,6.88
+1212,Dexamethasone : 0.1% w/v+Ofloxacin : 0.3% w/v,,115 ml,10.14
+1213,Ephedrine : 15 mg+Triprolidine : 2.5 mg,,3 gm,17.32
+1214,Dexamethasone : 0.1% w/w+Tobramycin : 0.3% w/w,,10 ml,4.84
+1215,Dexamethasone : 0.05% v/v+Norfloxacin : 0.3% v/v,,10 Tablet,11.29
+1216,Erythromycin : 500 mg+Bromhexine : 4 mg,,15 gm,25.95
+1217,Erythromycin : 3% w/w+Zinc Sulphate : 2.5% w/w,,15 gm,9.03
+1218,Erythromycin : 4% +Zinc Acetate : 2% ,,60 gm,10.36
+1219,Erythromycin : 4% w/w+Benzoyl peroxide : 5% w/w,,10 gm,30.08
+1220,Erythromycin : 2% w/w+Tretinoin : 0.025% w/w,,8 Capsule,6.2
+1221,Dextropropoxyphene : 100 mg+Acetaminophen : 400 mg,,10 Tablet,15.51
+1222,Doxofylline : 400 mg+Montelukast : 10 mg,,10 Tablet,47.96
+1223,Doxofylline : 800 mg+Montelukast : 10 mg,,10 Tablet,63.4
+1224,Doxycycline : 100 mg+Lactic Acid Bacillus : 60 ,,10 Tablet,7.08
+1225,Doxycycline : 100 mg+Lactic Acid Bacillus : 30 million spores,,10 Capsule,6.5
+1226,Doxycycline : 100 mg+Lactic Acid Bacillus : 10 million spores,,8 Capsule,8.88
+1227,Doxycycline : 100 mg+Lactic Acid Bacillus : 5000 million spores,,50 gm,46.78
+1228,Doxycycline : 100 mg+Neomycin : 100 mg,,1 Injection,48.35
+1229,Doxycycline : 160 mg+Neomycin : 400 mg,,15 ml,2.27
+1230,Calcium Pantothenate : 5% w/v+Cetrimide : 2% w/v,,10 Tablet,6.98
+1231,Glipizide : 5 mg+Metformin : 850 mg,,10 Tablet,13.87
+1232,Glipizide : 5 mg+Metformin : 1000 mg,,6 Blister Tablet,14.8
+1233,Rifampicin : 60 mg+Isoniazid : 30 mg,,10 Blister Tablet,4.98
+1234,Rifampicin : 100 mg+Isoniazid : 100 mg,,6 PVC Film Blister,13.21
+1235,Rifampicin : 150 mg+Isoniazid : 75 mg,,10 PVC Film Blister,11.05
+1236,Rifampicin : 450 mg+Isoniazid : 300 mg,,10 PVC Film Blister,52.11
+1237,Rifampicin : 600 mg+Isoniazid : 300 mg,,250 ml,64.76
+1238,Dextrose : 5% +Sodium Chloride : 0.9% ,,500 ml,18.92
+1239,Dextrose : 5% +Sodium Chloride : 0.9% ,,1000 ml,26.88
+1240,Dextrose : 5% +Sodium Chloride : 0.9% ,,100 ml,48.89
+1241,Dextrose : 5% +Sodium Chloride : 0.9% ,,10 1,13.68
+1242,Erythromycin Estolate : 125 mg,,1 tablet,13
+1243,Lamivudine : 150 mg+Zidovudine : 300 mg,,1 tablet,19.63
+1244,Stavudine : 30 mg+Lamivudine : 150 mg,,1 tablet,9.2
+1245,Stavudine : 30 mg+Lamivudine : 150 mg,,1 tablet,9.2
+1246,Stavudine : 30 mg+Lamivudine : 150 mg,,1 tablet,9.2
+1247,Stavudine : 30 mg+Lamivudine : 150 mg,,2 ml,9.2
+1248,Vit B1 : 1000 iu+Vit B6 : 50 mg+Vit B12 : 1000 mcg,,14 Tablet,5.9
+1249,Acetyl Salicylic Acid : 100 mg+Calcium Carbonate : 30 mg+Anhydrous Citric Acid : 10 mg,,10 Capsule,3.04
+1250,Aspirin : 75 mg+Atorvastatin : 10 mg+Clopidogrel : 75 mg,,10 Tablet,36.82
+1251,Acetyl Salicylic Acid : 350 mg+Tablet+Calcium Carbonate : 105 mg+Citric Acid : 35 mg,,10 Capsule,3.86
+1252,Aspirin : 150 mg+Clopidogrel : 75 mg+Atorvastatin : 10 mg,,10 Capsule,43.08
+1253,Aspirin : 75 mg+Capsule+Atorvastatin : 20 mg+Clopidogrel : 75 mg,,5 ml,49.69
+1254,Betamethasone Sodium Phosphate : 0.1% w/v+Drop+Gentamicin Sulphate : 0.3% w/v+Benzalkonium Chloride : 0.02% w/v,,15 gm,7.92
+1255,Betamethasone : 0.05% +Salicylic Acid : 3% ,,10 Tablet,8.5
+1256,Theophylline : 125 mg+Bromhexine : 8 mg+Ephedrine : 20 mg,,100 Tablet,3.3
+1257,Theophylline : 100 mg+Ephedrine : 10 mg+Phenobarbitone : 10 mg,,10 Tablet,26.12
+1258,Theophylline : 200 mg+Bromhexine : 8 mg+Albuterol Sulphate : 4 mg,,10 Tablet,3.68
+1259,Theophylline : 100 mg+Salbutamol : 2 mg+Ambroxol : 30 mg,,10 Tablet,1.87
+1260,Theophylline : 100 mg+Ephedrine Hcl : 20 mg+Phenobarbitone : 15 mg,,10 Tablet,3.2
+1261,Theophylline : 198 mg+Ephedrine Hcl : 48 mg+Phenobarbitone : 25 mg,,20 Tablet,6.48
+1262,Theophylline : 130 mg+Ephedrine : 25 mg+Hydroxyzine Hcl : 10 mg,,10 Capsule,16.26
+1263,Aspirin : 150 mg+Isosorbide 5 Mononitrate : 30 mg,,5 gm,12.34
+1264,Betamethasone : 0.05% +Clotrimazole : 1% +Gentamicin Sulphate : 0.1% ,,10 gm,4.98
+1265,Betamethasone : 0.05% +Gentamicin : 0.10% +Clotrimazole : 1% ,,15 gm,6.92
+1266,Betamethasone : 0.05% +Gentamicin : 0.1% +Clotrimazole : 1% ,,10 gm,8.92
+1267,Betamethasone Valerate : 0.12% w/w+Neomycin : 0.5% w/w+Miconazole Nitrate : 2% w/w,,10 gm,10.86
+1268,Betamethasone : 0.05% +Gentamicin : 0.10% +Miconazole Nitrate : 2% ,,7 gm,7.32
+1269,Betamethasone : 0.05% w/w+Gentamicin Sulphate : 0.10% w/w+Clotrimazole : 1% w/w,,7 gm,6.02
+1270,Betamethasone : 0.05% w/w+Neomycin : 0.5% w/w+Clotrimazole : 1% w/w,,5 gm,6.06
+1271,Betamethasone Valerate : 0.05% w/w+Gentamicin Sulphate : 0.1% w/w+Tolnaftate : 0.1% w/w,,15 gm,5.1
+1272,Betamethasone : 0.05% w/w+Gentamicin : 0.1% w/w+Miconazole : 2% w/w,,10 gm,9.26
+1273,Betamethasone Valerate : 0.1% w/w+Gentamicin : 0.1% w/w+Miconazole : 2% w/w,,7 gm,8.36
+1274,Betamethasone : 0.05% w/w+Gentamicin Sulphate : 0.1% w/w+Clotrimazole : 1% w/w,,25 gm,6.02
+1275,Silver Sulphadiazine : 1% w/w+Chlorhexidine : 0.2% w/w,,10 gm,10.3
+1276,Betamethasone Valerate : 0.12% w/w+Neomycin : 0.5% w/w+Miconazole : 2% w/w,,100 ml,10.63
+1277,Salbutamol : 1 mg+Bromhexine : 4 mg+Etophylline : 50 mg,,50 ml,16.15
+1278,Chloroxylenol : 4.8% w/v+Terpineol : 9% v/v+Absolute Alcohol : 13.1% v/v,,100 ml,11.48
+1279,Chloroxylenol : 4.8% w/v+Terpineol : 9% v/v+Absolute Alcohol : 13.1% v/v,,200 ml,18.26
+1280,Chloroxylenol : 4.8% w/v+Terpineol : 9% v/v+Absolute Alcohol : 13.1% v/v,,500 ml,31.75
+1281,Chloroxylenol : 4.8% w/v+Terpineol : 9% v/v+Absolute Alcohol : 13.1% v/v,,5 Litre,70.68
+1282,Chloroxylenol : 4.8% w/v+Alcohol : 13.1% v/v+Terpineol : 9% v/v,,10 Tablet,653.18
+1283,Chlorpromazine : 25 mg+Trihexiphenidyl : 2 mg+Trifluoperazine : 5 mg,,15 ml,2.86
+1284,Salbutamol : 0.5 mg+Ambroxol : 7.5 mg+Guaiphenesin : 12.5 mg,,10 Tablet,9.03
+1285,Chlorpromazine : 50 mg+Trihexiphenidyl : 2 mg+Trifluoperazine : 5 mg,,100 ml,6.27
+1286,Salbutamol : 1 mg+Ambroxol : 15 mg+Theophylline : 50 mg,,10 Tablet,13.75
+1287,Chlorpromazine : 100 mg+Trihexiphenidyl : 2 mg+Trifluoperazine : 5 mg,,15 gm,7.42
+1288,Ciprofloxacin : 0.50% +Fluocinolone Acetonide : 0.1% +Clotrimazole : 1% ,,10 ml,7.46
+1289,Ciprofloxacin : 0.3% w/v+Dexamethasone : 0.1% w/v,,20 gm,9.9
+1290,Ciprofloxacin : 0.5% w/w+Clotrimazole : 1% w/w+Fluocinolone : 0.025% w/w,,10 gm,11.19
+1291,Ciprofloxacin : 0.5% w/w+Fluocinolone Acetonide : 0.025% w/w+Clotrimazole : 1% w/w,,10 Tablet,7.34
+1292,Cloxacillin : 125 mg+Amoxycillin : 125 mg+Lactic Acid Bacillus : 60 million spores,,10 Capsule,10.92
+1293,Cloxacillin : 250 mg+Amoxycillin : 250 mg+Lactic Acid Bacillus : 60 million spores,,10 Tablet,20.06
+1294,Cloxacillin : 125 mg+Ampicillin : 125 mg+Lactic Acid Bacillus : 60 million spores,,10 Capsule,14.44
+1295,Cloxacillin : 250 mg+Ampicillin : 250 mg+Lactic Acid Bacillus : 60 million spores,,10 Tablet,24.86
+1296,Cloxacillin : 125 mg+Ampicillin : 125 mg+Lactic Acid Bacillus : 30 million,,10 Capsule,9.9
+1297,Cloxacillin : 250 mg+Amoxycillin : 250 mg+Lactic Acid Bacillus : 100 million spores,,10 Capsule,18.36
+1298,Cloxacillin : 250 mg+Amoxycillin : 250 mg+Lactic Acid Bacillus : 120 million spores,,6 Capsule,18.66
+1299,Cloxacillin : 250 mg+Amoxycillin : 250 mg+Lactic Acid Bacillus : 80 million spores,,10 Tablet,12.12
+1300,Cloxacillin Sodium : 500 mg+Cefixime : 200 mg+Lactic Acid Bacillus : 90 million spores,,10 Capsule,110.08
+1301,Amoxycillin : 250 mg+Cloxacillin Sodium : 250 mg+Serratiopeptidase : 10 mg,,15 Tablet,24.52
+1302,Cloxacillin : 250 mg+Amoxycillin : 250 mg+Lactic Acid Bacillus : 60 million spores,,2 ml,35.18
+1303,Dexamethasone Sodium Phosphate : 4 mg+Methyl Paraben : 0.15% w/v+Propyl Paraben : 0.02% w/v,,100 ml,8.32
+1304,Salbutamol : 1 mg+Ambroxol : 15 mg+Guaiphenesin : 50 mg,,100 ml,13.54
+1305,Salbutamol : 1 mg+Ambroxol : 30 mg+Guaiphenesin : 50 mg,,100 ml,15.7
+1306,Salbutamol : 2 mg+Ambroxol : 30 mg+Guaiphenesin : 50 mg,,100 ml,15.3
+1307,Salbutamol : 2 mg+Guaiphenesin : 100 mg,,10 Tablet,9.7
+1308,Salbutamol : 2 mg+Ambroxol : 15 mg+Guaiphenesin : 100 mg,,10 Tablet,3.04
+1309,Ambroxol : 30 mg+Theophylline : 100 mg,,10 Tablet,3.68
+1310,Salbutamol : 2 mg+Ambroxol : 15 mg+Guaiphenesin : 100 mg,,10 Tablet,3.04
+1311,Salbutamol : 2 mg+Ambroxol : 30 mg+Theophylline : 100 mg,,10 Tablet,3.68
+1312,Salbutamol : 2 mg+Bromhexine : 8 mg+Guaiphenesin : 100 mg,,5 ml,2.4
+1313,Dexamethasone Sodium Phosphate : 1 mg+Chloramphenicol : 5 mg+Polymyxin B Sulphate : 5000 iu,,10 Tablet,10.97
+1314,Salbutamol : 2 mg+Bromhexine : 8 mg+Etophylline : 200 mg,,10 Tablet,3.96
+1315,Salbutamol : 4 mg+Bromhexine : 16 mg+Etophylline : 200 mg,,15 gm,4.3
+1316,Dexamethasone : 0.1% w/w+Framycetin Sulphate : 1% w/w+Clotrimazole : 1% w/w,,5 gm,17.44
+1317,Dexamethasone Sodium Phosphate : 1 mg+Chloramphenicol : 10 mg+Polymyxin B Sulphate : 5000 iu,,5 gm,6.79
+1318,Dexamethasone Sodium Phosphate : 1 mg+Chloramphenicol : 10 mg+Polymyxin B Sulphate : 10000 iu,,5 ml,9.69
+1319,Dexamethasone Sodium Phosphate : 0.1% +Chloramphenicol : 0.5% +Atropine Sulphate : 1% ,,5 ml,8.5
+1320,Dexamethasone Sodium Phosphate : 1 mg+Chloramphenicol : 10 mg+Polymyxin B Sulphate : 5000 iu,,10 ml,9.5
+1321,Dexamethasone Sodium Phosphate : 0.05% w/v+Ofloxacin : 0.3% w/v+Phenyl Mercuric Nitrate : 0.001% w/v,,5 ml,9.4
+1322,Boric Acid : 1.2% w/v+Dexamethasone Sodium Phosphate : 0.11% w/v+Neomycin : 0.5% w/v,,10 Tablet,7.92
+1323,Rifampicin : 450 mg+Isoniazid : 300 mg+Pyridoxine : 10 mg,,1.783 gm,40.88
+1324,Rifampicin : 450 mg+Isoniazid : 225 mg+Ethambutol : 825 mg,,8 Capsule,12.55
+1325,Dextropropoxyphene : 32.5 mg+Acetaminophen : 250 mg+Diclofenac Sodium : 50 mg,,8 Capsule,6.87
+1326,Dextropropoxyphene : 65 mg+Dicyclomine (Dicycloverine) : 10 mg+Acetaminophen : 400 mg,,10 Tablet,10.12
+1327,Dextropropoxyphene : 65 mg+Dicyclomine (Dicycloverine) : 10 mg+Paracetamol : 400 mg,,10 Tablet,11.89
+1328,Dextropropoxyphene : 32.5 mg+Paracetamol : 325 mg+Diclofenac Sodium : 50 mg,,6 Capsule,5.99
+1329,Dextropropoxyphene : 33 mg+Dicyclomine Hydrochloride : 10 mg,,10 Tablet,5.09
+1330,Paracetamol : 300 mg,,1 Kit,8.7
+1331,Dextropropoxyphene : 65 mg+Dicyclomine Hydrochloride : 10 mg+Paracetamol : 500 mg,,1 Kit,6.52
+1332,Rifampicin : 450 mg+Isoniazid : 300 mg+Pyrazinamide : 750 mg,,1 Kit,8.62
+1333,Rifampicin : 450 mg+Isoniazid : 300 mg+Ethambutol : 800 mg,,10 Tablet,7.18
+1334,Rifampicin : 450 mg+Isoniazid : 300 mg+Pyrazinamide : 1500 mg,,10 Tablet,23.2
+1335,Rifampicin : 200 mg+Isoniazid : 150 mg+Pyridoxine : 5 mg,,25 ml,12.94
+1336,Doxycycline : 100 mg+Tinidazole : 600 mg+Lactic Acid Bacillus : 60 million spores,,10 Tablet,10.26
+1337,Erythromycin : 4% w/w+Tretinoin : 0.025% w/w+Absolute Alcohol : 91.5% w/w,,10 Tablet,4.26
+1338,Ephedrine : 50 mg+Theophylline : 65 mg+Phenobarbitone : 30 mg,,10 Tablet,3.08
+1339,Ephedrine : 20 mg+Theophylline : 100 mg+Phenobarbitone : 15 mg,,20 Capsule,6.2
+1340,Ephedrine : 48 mg+Theophylline : 198 mg+Phenobarbitone : 25 mg,,8 Tablet,16.26
+1341,Ephedrine : 25 mg+Theophylline : 130 mg+Hydroxyzine : 10 mg,,100 ml,4.58
+1342,Pseudoephedrine : 60 mg+Chlorpheniramine Maleate : 4 mg+Acetaminophen : 500 mg,,100 Tablet,21.51
+1343,Pseudoephedrine : 60 mg+Dextromethorphan : 10 mg+Cetirizine : 5 mg,,10 Tablet,26.12
+1344,Ephedrine : 10 mg+Theophylline : 100 mg+Phenobarbitone : 10 mg,,60 ml,2.88
+1345,Ephedrine : 15 mg+Theophylline : 100 mg+Phenobarbitone : 10 mg,,10 Tablet,10.24
+1346,Pseudoephedrine : 30 mg+Paracetamol : 125 mg+Chlorpheniramine Maleate : 2 mg,,10 Tablet,1.76
+1347,Ephedrine : 10 mg+Chlorpheniramine Maleate : 4 mg+Noscapine : 10 mg,,60 ml,4.3
+1348,Pseudoephedrine : 30 mg+Chlorpheniramine Maleate : 4 mg+Paracetamol : 500 mg,,5 Tablet,13.56
+1349,Pseudoephedrine : 15 mg+Chlorpheniramine Maleate : 1 mg+Paracetamol : 125 mg,,6 Tablet,20.24
+1350,Rifampicin : 600 mg+Isoniazid : 300 mg+Pyridoxine : 10 mg,,10 Tablet,49.14
+1351,Rifampicin : 450 mg+Isoniazid : 300 mg+Ethambutol : 800 mg,,10 Tablet,45.04
+1352,Rifampicin : 450 mg+Isoniazid : 300 mg+Pyridoxine : 10 mg,,6 Tablet,13.23
+1353,Rifampicin : 100 mg+Isoniazid : 100 mg+Vit B6 : 5 mg,,60 ml,29.88
+1354,Rifampicin : 150 mg+Isoniazid IP : 75 mg+Ethambutol Hcl IP : 275 mg,,60 ml,11.18
+1355,Pseudoephedrine : 30 mg+Chlorpheniramine Maleate : 2 mg+Menthol : 1 mg,,10 Tablet,13.56
+1356,Pseudoephedrine : 15 mg+Paracetamol : 125 mg+Cetirizine : 2 mg,,10 Tablet,43.37
+1357,Rifampicin : 225 mg+Isoniazid : 150 mg+Pyrazinamide : 750 mg,,10 Tablet,29.64
+1358,Rifampicin : 225 mg+Isoniazid : 150 mg+Pyrazinamide : 500 mg,,10 Tablet,30.66
+1359,Rifampicin : 150 mg+Isoniazid : 100 mg+Pyrazinamide : 500 mg,,50 ml,3.3
+1360,Theophylline : 125 mg+Ephedrine : 20 mg+Bromhexine : 8 mg,,100 ml,11.38
+1361,Pseudoephedrine : 15 mg+Paracetamol : 125 mg+Cetirizine : 2 mg,,10 Tablet,17.72
+1362,Pseudoephedrine : 15 mg+Paracetamol : 125 mg+Cetirizine : 2 mg,,6 Tablet,19.86
+1363,Rifampicin : 150 mg+Isoniazid : 100 mg+Pyrazinamide : 350 mg,,10 Tablet,12.7
+1364,Rifampicin : 150 mg+Isoniazid IP : 75 mg+Pyrazinamide : 400 mg,,10 Tablet,16.18
+1365,Rifampicin : 120 mg+Isoniazid : 80 mg+Pyrazinamide : 250 mg,,6 Tablet,21.16
+1366,Rifampicin : 100 mg+Isoniazid : 50 mg+Pyrazinamide : 300 mg,,4 Capsule,7.63
+1367,Rifampicin : 60 mg+Isoniazid IP : 30 mg+Pyrazinamide : 150 mg,,10 Tablet,11.1
+1368,Rifampicin : 150 mg+Isoniazid : 100 mg+Pyrazinamide : 500 mg,,10 Tablet,5.56
+1369,Ranitidine : 150 mg+Magaldrate : 200 mg+Domperidone : 10 mg,,10 Tablet,3.58
+1370,Ranitidine : 150 mg+Dicyclomine (Dicycloverine) : 10 mg+Simethicone : 25 mg,,10 Tablet,4.62
+1371,Etophylline : 200 mg+Salbutamol : 4 mg+Bromhexine : 8 mg,,100 ml,3.65
+1372,Etophylline : 100 mg+Terbutaline Sulphate : 2.5 mg+Bromhexine : 4 mg,,10 Tablet,15.1
+1373,Etophylline : 50 mg+Salbutamol : 1 mg+Bromhexine : 4 mg,,20 gm,8.49
+1374,Famotidine : 20 mg+Ibuprofen : 400 mg+Paracetamol : 325 mg,,10 Tablet,14.94
+1375,Framycetin Sulphate : 1% w/w+Methyl Paraben : 0.08% w/w+Propyl Paraben : 0.04% w/w,,10 Tablet,2.38
+1376,Frusemide (Furosemide) : 20 mg+Potassium Chloride : 300 mg,,10 Capsule,2.08
+1377,Furazolidone : 50 mg+Diphenoxylate : 2.5 mg+Atropine : 0.025 mg,,60 ml,6.66
+1378,Furazolidone : 50 mg+Metronidazole : 200 mg+Dicyclomine (Dicycloverine) : 10 mg,,10 Tablet,12.36
+1379,Furazolidone : 33 mg+Metronidazole : 100 mg+Simethicone : 25 mg,,5 ml,5.9
+1380,Ranitidine : 150 mg+Domperidone : 10 mg+Magaldrate : 400 mg,,5 ml,14.74
+1381,Prednisolone : 1% w/v+Benzalkonium ChIoride : 0.02% w/v+Methyl Cellulose : 0.2% w/v,,5 ml,10.55
+1382,Prednisolone : 1% +Ofloxacin : 0.3% +Benzalkonium ChIoride : 0.05% ,,60 ml,12.84
+1383,Prednisolone : 1% w/v+Gatifloxacin : 0.3% w/v+Benzalkonium Chloride : 0.01% w/v,,100 ml,13.56
+1384,Chlorpheniramine Maleate : 1 mg+Pseudoephedrine : 15 mg+Paracetamol : 125 mg,,400 ml,10.86
+1385,Pheniramine Maleate : 15 mg+Ammonium Chloride : 125 mg+Menthol : 1.14 mg,,30 ml,29.89
+1386,Pheniramine Maleate : 15 mg+Ammonium Chloride : 125 mg+Menthol : 1.14 mg,,10 Tablet,9.04
+1387,Norfloxacin : 100 mg+Metronidazole : 100 mg+Simethicone : 10 mg,,10 Tablet,14.32
+1388,Norfloxacin : 400 mg+Tinidazole : 600 mg+Dicyclomine (Dicycloverine) : 10 mg,,10 Tablet,4.48
+1389,Norfloxacin : 100 mg+Metronidazole : 100 mg+Lacto Bacillus Sporegens : 60 million spores,,10 Tablet,4.74
+1390,Furazolidone : 50 mg+Metronidazole : 200 mg+Dicyclomine (Dicycloverine) : 10 mg,,15 gm,8.96
+1391,Nalidixic Acid : 150 mg+Metronidazole : 100 mg,,5 gm,8.94
+1392,Gentamicin : 0.1% w/w+Clobetasol Propionate : 0.05% w/w+Zinc Sulphate : 2.5% w/w,,10 Pessary,5.12
+1393,Gentamicin Sulphate : 0.1% w/w+Clotrimazole : 1% w/w+Beclomethasone : 0.025% w/w,,15 gm,22.24
+1394,Metronidazole : 100 mg+Clotrimazole : 100 mg+Clindamycin Phosphate : 100 mg,,10 gm,9.44
+1395,Gentamicin Sulphate : 0.1% w/w+Beclomethasone : 0.025% w/w+Clotrimazole : 1% w/w,,10 gm,6.76
+1396,Gentamicin : 0.1% w/w+Betamethasone : 0.025% w/w+Econazole Nitrate : 1% w/w,,16 gm,7.71
+1397,Gentamicin Sulphate : 0.1% w/w+Beclomethasone : 0.025% w/w+Clotrimazole : 1% w/w,,10 Tablet,9.66
+1398,Gentamicin : 0.1% w/w+Betamethasone : 0.05% w/w+Clotrimazole : 1% w/w,,10 Tablet,4.48
+1399,Metronidazole : 200 mg+Furazolidone : 50 mg+Dicyclomine (Dicycloverine) : 20 mg,,10 Tablet,6.42
+1400,Metronidazole : 200 mg+Diloxanide Furoate : 250 mg+Polydimethyl Siloxane : 25 mg,,60 ml,4.74
+1401,Metronidazole : 200 mg+Furazolidone : 50 mg+Dicyclomine (Dicycloverine) : 10 mg,,10 gm,12.36
+1402,Metronidazole : 100 mg+Furazolidone : 33 mg+Simethicone : 25 mg,,5 ml,6.56
+1403,Miconazole : 2% w/w+Gentamicin : 0.2% w/w+Clobetasol : 0.05% w/w,,10 Tablet,10.91
+1404,Gentamicin : 0.3% w/w+Dexamethasone : 0.1% w/w+Benzalkonium Chloride : 0.02% w/w,,500 ml,2.98
+1405,Ibuprofen : 100 mg+Paracetamol : 125 mg,,10 Tablet,41.14
+1406,Ibuprofen : 100 mg+Paracetamol : 125 mg,,10 Tablet,7.4
+1407,Ibuprofen : 400 mg+Paracetamol : 325 mg+Chlorzoxazone : 250 mg,,10 Tablet,7.36
+1408,Ibuprofen : 400 mg+Paracetamol : 300 mg+Chlorzoxazone : 250 mg,,10 Tablet,6.12
+1409,Ibuprofen : 400 mg+Paracetamol : 325 mg+Magnesium Trisilicate : 150 mg,,15 Tablet,8.08
+1410,Metronidazole : 500 mg+Clotrimazole : 100 mg+Lactic Acid Bacillus : 150 million,,4 Tablet,16.52
+1411,Metronidazole : 400 mg+Diloxanide Furoate : 500 mg+Dimethicone : 50 mg,,10 Tablet,4.48
+1412,Metronidazole : 400 mg+Diloxanide Furoate : 500 mg+Activated Dimethyl Polysiloxane : 25 mg,,10 Capsule,11.26
+1413,Metronidazole : 400 mg+Diloxanide Furoate : 500 mg+Simethicone : 100 mg,,30 Capsule,6.66
+1414,Metronidazole : 200 mg+Dicyclomine (Dicycloverine) : 10 mg+Furazolidone : 50 mg,,10 Capsule,31.34
+1415,Vit E : 67 mg+Acetylcysteine : 100 mg,,10 Tablet,16.12
+1416,Vit E : 134 mg+Docosahexaenoic Acid : 60 mg+Eicosopentaenoic Acid (EPA) : 90 mg,,5 ml,2.54
+1417,Vit A : 10000 iu+Vit D3 : 1000 iu+Thiamine : 10 mg,,5 ml,5.9
+1418,Vit B1 : 1000 iu+Vit B6 : 50 mg+Vit B12 : 1000 mcg,,30 ml,5.9
+1419,Vit B1 : 1000 iu+Vit B6 : 50 mg+Vit B12 : 1000 mcg,,20 ml,42.14
+1420,Streptomycin Sulphate : 5 gm+Procaine Pencillin : 3000000 units+Penicillin G Sodium : 1000000 units,,10 Tablet,24.22
+1421,Streptomycin Sulphate : 2.5 gm+Procaine Pencillin : 1500000 units+Penicillin G Sodium : 500000 units,,10 Capsule,6.37
+1422,Metronidazole : 300 mg+Furazolidone : 100 mg+Simethicone : 25 mg,,10 Capsule,14.14
+1423,Vit E : 200 iu+Eicosopentaenoic Acid (EPA) : 90 mg+Docosahexaenoic Acid : 60 mg,,25 gm,17.28
+1424,Vit E : 25 mg+Vit C : 50 mg+Glucosamine Sulphate Sodium : 750 mg,,10 Tablet,11.86
+1425,Squalane : 3% w/w+Vit E : 1% w/w+Aloe Vera : 5% w/w,,10 Tablet,12.31
+1426,Vit E : 400 mg+Cod Liver Oil : 300 mg,,10 Tablet,9.63
+1427,Vit A : 50000 iu+Vit E : 25 iu+Vit C : 75 mg,,200 ml,6.12
+1428,Theophylline : 200 mg+Salbutamol : 4 mg+Ambroxol : 60 mg,,10 Tablet,27.52
+1429,Theophylline : 50 mg+Ephedrine : 15 mg+Sodium Iodide : 25 mg,,100 ml,2.88
+1430,Theophylline : 100 mg+Ephedrine Hcl : 15 mg+Phenobarbitone : 10 mg,,25 gm,26.24
+1431,Theophylline : 100 mg+Ephedrine Hcl : 10 mg+Phenobarbitone : 10 mg,,5 ml,10.42
+1432,Silver Sulphadiazine : 1% w/w+Chlorhexadine Gluconate : 1% w/w,,5 ml,6.06
+1433,Streptomycin Sulphate : 0.25 gm+Procaine Pencillin : 300000 units+Penicillin G Sodium : 100000 units,,30 ml,7.74
+1434,Streptomycin Sulphate : 0.5 gm+Procaine Pencillin : 300000 units+Penicillin G Sodium : 100000 units,,100 ml,7.4
+1435,Salbutamol : 1 mg+Ambroxol : 15 mg+Bromhexine : 2 mg,,100 ml,14.8
+1436,Salbutamol : 1 mg+Ambroxol : 30 mg+Guaiphenesin : 25 mg,,60 ml,13.1
+1437,Salbutamol : 1 mg+Etophylline : 50 mg+Guaiacolate : 50 mg,,10 Tablet,8.6
+1438,Salbutamol : 1 mg+Bromhexine : 2 mg+Guaiphenesin : 25 mg,,10 Tablet,3.26
+1439,Salbutamol : 2 mg+Guaiphenesin : 100 mg+Etophylline : 100 mg,,10 Tablet,7.06
+1440,Salbutamol : 4 mg+Ambroxol : 60 mg+Theophylline : 200 mg,,10 Tablet,2.2
+1441,Salbutamol : 4 mg+Bromhexine : 8 mg+Guaiphenesin : 30 mg,,10 Tablet,4.22
+1442,Salbutamol : 4 mg+Bromhexine : 8 mg+Etophylline : 200 mg,,10 Tablet,3.44
+1443,Salbutamol : 2 mg+Bromhexine : 8 mg+Etophylline : 200 mg,,10 Tablet,2.64
+1444,Salbutamol : 2 mg+Bromhexine : 8 mg+Etophylline : 100 mg,,1 Kit,17.88
+1445,Rifampicin : 100 mg+Isoniazid : 50 mg+Pyrazinamide : 250 mg,,10 Tablet,8.04
+1446,Rifampicin : 450 mg+Isoniazid : 300 mg+Ethambutol : 800 mg,,6 Tablet,8.3
+1447,Rifampicin : 60 mg+Isoniazid : 30 mg+Pyrazinamide : 100 mg,,10 Tablet,15.96
+1448,Rifampicin : 150 mg+Isoniazid : 100 mg+Ethambutol : 275 mg,,6 Tablet,59.29
+1449,Rifampicin : 450 mg+Isoniazid : 225 mg+Pyrazinamide : 825 mg,,10 Tablet,16.23
+1450,Rifampicin : 150 mg+Isoniazid : 150 mg+Pyrazinamide : 500 mg,,10 Tablet,17.09
+1451,Rifampicin : 100 mg+Isoniazid : 100 mg+Pyrazinamide : 300 mg,,2 ml,8.85
+1452,Rifampicin : 60 mg+Isoniazid : 30 mg+Pyrazinamide : 100 mg,,10 Tablet,3.32
+1453,Ranitidine : 25 mg+Dicyclomine (Dicycloverine) : 10 mg+Phenol : 0.50% ,,5 ml,5.32
+1454,Ranitidine : 150 mg+Dicyclomine (Dicycloverine) : 10 mg+Clidinium Bromide : 2.5 mg,,5 ml,10.55
+1455,Prednisolone : 10 mg+Ofloxacin : 3 mg+Benzalkonium Chloride : 0.01% w/v,,10 ml,13.17
+1456,Prednisolone : 10 mg+Levofloxacin : 15 mg+Benzalkonium Chloride : 0.01% w/v,,50 ml,95.18
+1457,Prednisolone : 1% +Benzalkonium Chloride : 0.01% +Edetate Disodium : 0.01% ,,50 ml,10.22
+1458,Chlorpheniramine Maleate : 1 mg+Pseudoephedrine : 30 mg+Paracetamol : 125 mg,,50 ml,12.04
+1459,Chlorpheniramine Maleate : 2 mg+Pseudoephedrine : 80 mg+Bromhexine : 4 mg,,30 ml,10.41
+1460,Chlorpheniramine Maleate : 2 mg+Pseudoephedrine : 30 mg+Menthol : 1 mg,,20 ml,34.04
+1461,Streptomycin Sulphate : 5 gm+Procaine Pencillin : 3000000 units+Penicillin G Sodium : 1000000 units,,1 Vial,20.5
+1462,Procaine Pencillin : 1500000 iu+Penicillin G Sodium : 500000 iu+Streptomycin Sulphate : 2.5 gm,,10 Tablet,10.48
+1463,Streptomycin Sulphate : 1000 mg+Procaine Pencillin : 300000 iu+Penicillin G Sodium : 100000 iu,,10 Tablet,11.86
+1464,Norfloxacin : 400 mg+Tinidazole : 200 mg+Lacto Bacillus Sporegens : 120 million spores,,10 gm,7.98
+1465,Norfloxacin : 200 mg+Tinidazole : 300 mg+Dicyclomine (Dicycloverine) : 10 mg,,10 gm,6.87
+1466,Metronidazole : 1% w/w+Silver Sulphadiazine : 1% w/w+Chlorhexadine Gluconate : 0.2% w/w,,30 ml,6.93
+1467,Metronidazole : 1% w/w+Povidone Iodine : 5% w/w+Sucralfate : 7% w/w,,10 Tablet,11.38
+1468,Metronidazole : 120 mg+Norfloxacin : 125 mg+Simethicone : 10 mg,,50 ml,66.19
+1469,Metronidazole : 300 mg+Furazolidone : 100 mg+Dicyclomine (Dicycloverine) : 10 mg,,60 ml,12.02
+1470,Metronidazole : 100 mg+Furazolidone : 30 mg+Dimethicone : 20 mg,,60 ml,10.18
+1471,Metronidazole : 100 mg+Furazolidone : 30 mg+Simethicone : 20 mg,,10 Tablet,12.6
+1472,Metronidazole : 100 mg+Diloxanide Furoate : 125 mg+Simethicone : 50 mg,,10 Tablet,14.35
+1473,Metronidazole : 400 mg+Diloxanide Furoate : 500 mg+Dicyclomine (Dicycloverine) : 10 mg,,10 Tablet,60.64
+1474,Levodopa : 150 mg+Carbidopa : 37.5 mg+Entacapone : 200 mg,,10 Tablet,53.14
+1475,Levodopa : 100 mg+Carbidopa : 25 mg+Entacapone : 200 mg,,10 gm,46.06
+1476,Levodopa : 50 mg+Carbidopa : 12.5 mg+Entacapone : 200 mg,,15 gm,9.05
+1477,Iodochlorohydroxyquinoline : 2% w/w+Betamethasone : 0.1% w/w+Gentamicin : 0.2% w/w,,10 Tablet,14.23
+1478,Iodochlorohydroxyquinoline : 3% w/w+Betamethasone : 0.12% w/w+Gentamicin : 0.1% w/w,,10 Tablet,2.34
+1479,Aspirin : 350 mg+Calcium Carbonate : 105 mg+Anhydrous Citric Acid : 35 mg,,10 Tablet,4
+1480,Aspirin : 10 mg+Frusemide (Furosemide) : 20 mg+Potassium Chloride : 250 mg,,1 Vial,4.88
+1481,Aspirin : 10 mg+Frusemide (Furosemide) : 40 mg+Potassium Chloride : 500 mg,,30 ml,35.57
+1482,Aspirin : 15 mg+Amoxycillin Sodium : 1500 mg+Dicloxacillin : 1500 mg,,60 ml,9.45
+1483,Furazolidone : 30 mg+Metronidazole : 100 mg+Dimethicone : 20 mg,,10 Tablet,13.39
+1484,Ibuprofen : 100 mg+Paracetamol : 125 mg+Promethazine : 2.5 mg,,20 Tablet,8.49
+1485,Ibuprofen : 400 mg+Ibuprofen : 325 mg+Famotidine : 20 mg,,50 ml,16
+1486,Ibuprofen : 400 mg+Paracetamol : 500 mg+Racemethionine : 50 mg,,10 Capsule,10.06
+1487,Ibuprofen : 100 mg+Acetaminophen : 162.5 mg+Simethicone : 50 mg,,10 Tablet,35.36
+1488,Ibuprofen : 400 mg+Paracetamol : 325 mg+Tizanidine : 2 mg,,10 Tablet,6.06
+1489,Ibuprofen : 400 mg+Paracetamol : 333 mg+Caffeine : 25 mg,,60 ml,25.2
+1490,Glipizide : 5 mg+Metformin : 500 mg+Pioglitazone : 15 mg,,5 ml,10.18
+1491,Furazolidone : 30 mg+Metronidazole : 100 mg+Simethicone : 20 mg,,18 gm,7.92
+1492,Betamethasone : 0.1% w/v+Gentamicin : 0.3% w/v+Benzalkonium Chloride : 2% w/v,,140 Tablet,10.42
+1493,Betamethasone : 0.064% w/w+Gentamicin : 0.1% w/w+Clotrimazole : 1% w/w,,10 gm,171.5
+1494,Famotidine : 20 mg+Magaldrate : 400 mg+Oxetacaine : 5 mg,,100 ml,10.86
+1495,Betamethasone : 0.12% w/w+Neomycin : 0.5% w/w+Miconazole : 2% w/w,,10 gm,18.85
+1496,Etophylline : 100 mg+Dextromethorphan : 10 mg+Triprolidine : 1.25 mg,,100 ml,7.89
+1497,Betamethasone : 0.064% w/w+Neomycin : 0.5% w/w+Clotrimazole : 1% w/w,,18 gm,13.1
+1498,Etophylline : 50 mg+Salbutamol : 1 mg+Glyceryl Guaiacol Ether : 50 mg,,20 gm,11.16
+1499,Betamethasone : 0.05% w/w+Gentamicin : 0.10% w/w+Clotrimazole : 1% w/w,,5 gm,10.62
+1500,Betamethasone : 0.64 mg+Gentamicin : 1 mg+Clotrimazole : 10 mg,,30 ml,5.1
+1501,Betamethasone : 0.05% w/w+Gentamicin : 0.1% w/w+Tolnaftate : 0.1% w/w,,15 gm,13.18
+1502,Betamethasone : 0.06% +Salicylic Acid : 3% ,,30 gm,8.54
+1503,Betamethasone : 0.025% w/w+Gentamicin : 0.050% w/w+Miconazole Nitrate : 1% w/w,,10 gm,24.54
+1504,Betamethasone : 0.12% w/w+Gentamicin : 0.1% w/w+Miconazole Nitrate : 2% w/w,,15 gm,7.4
+1505,Betamethasone : 0.064% w/w+Gentamicin : 0.05% w/w+Miconazole Nitrate : 1% w/w,,10 gm,9.56
+1506,Betamethasone : 0.064% w/w+Gentamicin : 0.1% w/w+Miconazole Nitrate : 2% w/w,,10 gm,8.36
+1507,Betamethasone : 0.1% w/w+Gentamicin : 0.1% w/w+Miconazole Nitrate : 2% w/w,,5 gm,6.3
+1508,Betamethasone : 0.025% w/w+Gentamicin : 0.1% w/w+Econazole Nitrate : 0.1% w/w,,20 gm,5.97
+1509,Betamethasone : 0.1% w/w+Gentamicin : 0.2% w/w+Iodochlorohydroxyquinoline : 2% w/w,,20 gm,10.97
+1510,Betamethasone : 0.064% w/w+Salicylic Acid : 3% w/w+Lactic Acid Bacillus : 3% w/w,,5 gm,11.1
+1511,Betamethasone : 0.064% w/w+Salicylic Acid : 6% w/w+Lactic Acid Bacillus : 3% w/w,,17 gm,4.44
+1512,Betamethasone : 0.0125% w/w+Chlorocresol : 0.1% w/w,,20 gm,9.06
+1513,Betamethasone : 0.05% +Neomycin : 0.50% +Chlorcresol : 0.10% ,,17 gm,10.72
+1514,Betamethasone : 0.05% w/w+Gentamicin : 0.1% w/w+Miconazole Nitrate : 2% w/w,,9 gm,9.95
+1515,Betamethasone : 0.05% +Gentamicin : 0.10% +Chlorcresol : 0.10% ,,8 gm,7.51
+1516,Betamethasone : 0.05% w/w+Clotrimazole : 1% w/w+Chlorocresol : 0.1% w/w,,5 gm,6.32
+1517,Betamethasone : 0.05% w/w+Gentamicin : 0.1% w/w+Clotrimazole : 1% w/w,,10 gm,5.02
+1518,Betamethasone : 0.05% w/w+Zinc Sulphate : 0.5% w/w+Chlorocresol : 0.1% w/w,,15 ml,23.7
+1519,Betamethasone : 0.05% w/w+Fusidic Acid : 2% w/w+Chlorocresol : 0.1% w/w,,7 gm,10.85
+1520,Betamethasone : 0.5 mg+Methyl hydroxy benzoate : 0.06% w/w+Propyl hydroxy benzoate : 0.03% w/w,,30 gm,6.4
+1521,Betamethasone : 0.05% w/v+Clotrimazole : 1% w/v+Chlorocresol : 0.10% w/v,,15 gm,27.85
+1522,Betamethasone Valerate : 0.12% +Gentamicin : 0.10% +Miconazole Nitrate : 2% ,,20 gm,14.1
+1523,Betamethasone Valerate : 0.12% w/w+Chlorocresol : 0.1% w/w+Clioquinol : 0.05% w/w,,5 gm,17.26
+1524,Betamethasone Valerate : 0.12% w/w+Chlorocresol : 0.1% w/w+Miconazole Nitrate : 2% w/w,,15 gm,5.04
+1525,Betamethasone : 0.05% w/w+Salicylic Acid : 3.5% w/w+Zinc Oxide : 0.5% w/w,,30 gm,8.94
+1526,Betamethasone : 0.064% w/w+Salicylic Acid : 3.5% w/w+Zinc Oxide : 0.5% w/w,,16 gm,14.5
+1527,Betamethasone : 0.064% w/w+Salicylic Acid : 3.5% w/w+Zinc Sulphate : 0.5% w/w,,10 gm,9.8
+1528,Betamethasone : 0.064% w/w+Gentamicin Sulphate : 0.05% w/w+Neomycin : 0.5% w/w,,50 ml,10.63
+1529,Betamethasone Valerate : 0.12% w/w+Miconazole Nitrate : 2% w/w+Neomycin : 0.5% w/w,,10 Capsule,12.04
+1530,Pseudoephedrine : 80 mg+Chlorpheniramine Maleate : 2 mg+Bromhexine : 4 mg,,10 ml,12.07
+1531,Pseudoephedrine : 120 mg+Levocetirizine : 5 mg+Propylene Glycol : 10% ,,5 gm,8.88
+1532,Ciprofloxacin : 0.3% w/v+Benzalkonium Chloride : 0.02% w/v+Methyl Cellulose : 0.25% w/v,,10 ml,5.5
+1533,Ciprofloxacin : 0.3% w/w+Dexamethasone : 0.1% w/w+Benzalkonium Chloride : 0.025% w/w,,10 Tablet,9.54
+1534,Ciprofloxacin : 0.3% w/v+Dexamethasone : 0.05% w/v+Boric Acid : 1.5% w/v,,10 Tablet,15.98
+1535,Ciprofloxacin : 400 mg+Tinidazole : 600 mg+Lactic Acid Bacillus : 60 million spores,,10 Capsule,3.3
+1536,Ephedrine : 20 mg+Theophylline : 125 mg+Bromhexine : 8 mg,,50 ml,20.36
+1537,Cloxacillin : 250 mg+Ampicillin : 250 mg+Lactic Acid Bacillus : 70 million spores,,60 ml,10.66
+1538,Ephedrine : 15 mg+Theophylline : 50 mg+Sodium Iodide : 25 mg,,50 ml,13.56
+1539,Pseudoephedrine : 15 mg+Paracetamol : 125 mg+Cetirizine : 2 mg,,10 Tablet,10.41
+1540,Pseudoephedrine : 30 mg+Chlorpheniramine Maleate : 2 mg+Menthol : 1 mg,,10 Tablet,10.1
+1541,Cloxacillin : 125 mg+Ampicillin : 125 mg+Lactic Acid Bacillus : 30 million spores,,10 Tablet,17.26
+1542,Cloxacillin : 125 mg+Ampicillin : 125 mg+Lactic Acid Bacillus : 60 million spores,,10 Tablet,64.88
+1543,Cloxacillin Sodium : 500 mg+Cefixime : 100 mg+Lactic Acid Bacillus : 45 million,,50 ml,29.8
+1544,Cloxacillin : 250 mg+Cefixime : 50 mg+Lactic Acid Bacillus : 30 million spores,,10 Capsule,11.32
+1545,Pseudoephedrine : 30 mg+Paracetamol : 125 mg+Triprolidine : 0.625 mg,,10 Capsule,17.62
+1546,Cloxacillin : 250 mg+Ampicillin : 250 mg+Lactic Acid Bacillus : 20 million spores,,50 ml,17.32
+1547,Cloxacillin : 250 mg+Ampicillin : 250 mg+Lactic Acid Bacillus : 90 million spores,,100 ml,10.22
+1548,Pseudoephedrine : 30 mg+Chlorpheniramine Maleate : 1 mg+Paracetamol : 125 mg,,10 Tablet,17.8
+1549,Pseudoephedrine : 80 mg+Bromhexine : 4 mg+Chlorpheniramine Maleate : 2 mg,,10 Tablet,139.54
+1550,Cloxacillin Sodium : 500 mg+Cefpodoxime Proxetil : 200 mg+Lactic Acid Bacillus : 90 million spores,,10 Capsule,7.41
+1551,Pseudoephedrine : 25 mg+Paracetamol : 500 mg+Levocetirizine : 10 mg,,50 ml,24.52
+1552,Cloxacillin : 250 mg+Amoxycillin : 250 mg+Serratiopeptidase : 10 mg,,50 ml,8.54
+1553,Pseudoephedrine : 15 mg+Acetaminophen : 125 mg+Chlorpheniramine Maleate : 2 mg,,10 Tablet,11.45
+1554,Pseudoephedrine : 15 mg+Chlorpheniramine Maleate : 1 mg+Acetaminophen : 125 mg,,10 Tablet,4.3
+1555,Pseudoephedrine : 30 mg+Chlorpheniramine Maleate : 4 mg+Paracetamol : 500 mg,,10 Tablet,4.28
+1556,Pseudoephedrine : 30 mg+Chlorpheniramine Maleate : 2 mg+Paracetamol : 500 mg,,10 Tablet,4.42
+1557,Pseudoephedrine : 30 mg+Acetaminophen : 500 mg+Cetirizine : 5 mg,,60 ml,1.76
+1558,Ephedrine : 10 mg+Chlorpheniramine Maleate : 4 mg+Noscapine : 10 mg,,60 ml,9.92
+1559,Pseudoephedrine : 60 mg+Bromhexine : 8 mg+Chlorpheniramine Maleate : 45 mg,,10 Tablet,10.24
+1560,Pseudoephedrine : 30 mg+Paracetamol : 125 mg+Chlorpheniramine Maleate : 2 mg,,100 Tablet,2.88
+1561,Ephedrine : 15 mg+Theophylline : 100 mg+Phenobarbitone : 10 mg,,50 ml,26.12
+1562,Ephedrine : 10 mg+Theophylline : 100 mg+Phenobarbitone : 10 mg,,30 ml,12.35
+1563,Pseudoephedrine : 60 mg+Dextromethorphan : 10 mg+Cetirizine : 5 mg,,10 Tablet,9.42
+1564,Pseudoephedrine : 60 mg+Dextromethorphan : 10 mg+Cetirizine : 5 mg,,8 Tablet,6.56
+1565,Pseudoephedrine : 60 mg+Cetirizine : 5 mg+Paracetamol : 500 mg,,20 Capsule,4.58
+1566,Pseudoephedrine : 60 mg+Acetaminophen : 500 mg+Chlorpheniramine Maleate : 4 mg,,10 Tablet,16.26
+1567,Ephedrine : 25 mg+Theophylline : 130 mg+Hydroxyzine : 10 mg,,5 ml,6.24
+1568,Pseudoephedrine : 30 mg+Acetaminophen : 500 mg+Dextromethorphan : 15 mg,,3 gm,11.42
+1569,Dexamethasone Sodium Phosphate : 4 mg+Methyl Paraben : 0.15% w/v+Propyl Paraben : 0.02% w/v,,60 ml,5.78
+1570,Dexamethasone : 1 mg+Neomycin : 3.5 mg+Polymyxin B Sulphate : 5000 iu,,10 ml,16.2
+1571,Ephedrine : 7 mg+Chlorpheniramine Maleate : 4 mg+Codeine Phosphate : 10 mg,,5 ml,9.54
+1572,Dexamethasone : 0.05% w/v+Ciprofloxacin : 0.3% w/v+Boric Acid : 1.5% w/v,,100 ml,7.92
+1573,Dexamethasone : 0.11% w/v+Neomycin : 0.5% w/v+Boric Acid : 1.2% w/v,,10 ml,26.24
+1574,Ephedrine : 10 mg+Theophylline : 100 mg+Phenobarbitone : 10 mg,,10 ml,13.72
+1575,Dexamethasone : 0.1% w/v+Tobramycin : 0.3% w/v+Benzalkonium Chloride : 0.01% w/v,,5 ml,13.42
+1576,Dexamethasone : 0.1% w/v+Tobramycin : 0.3% w/v+Benzalkonium Chloride : 0.2% w/v,,5 ml,8.82
+1577,Dexamethasone Sodium Phosphate : 1% w/v+Benzylkonium Chloride : 0.02% w/v+Ofloxacin : 3% w/v,,10 ml,7.22
+1578,Dexamethasone : 0.1% w/v+Ofloxacin : 0.3% w/v+Benzalkonium Chloride : 0.01% w/v,,10 ml,9.54
+1579,Dexamethasone Sodium Phosphate : 0.1% w/v+Chloramphenicol : 1% w/v+Phenyl Mercuric Nitrate : 0.002% w/v,,15 gm,9.42
+1580,Dexamethasone Sodium Phosphate : 0.05% w/v+Chloramphenicol : 1% w/v+Phenyl Mercuric Nitrate : 0.001% w/v,,8 Capsule,8.96
+1581,Erythromycin : 3% w/w+Aloe Vera : 1% w/w+Cholocresol : 0.1% w/w,,5 ml,14.28
+1582,Dextropropoxyphene : 100 mg+Dicyclomine (Dicycloverine) : 10 mg+Acetaminophen : 400 mg,,10 ml,9.2
+1583,Dexamethasone Sodium Phosphate : 0.055% w/v+Benzalkonium Chloride : 0.02% w/v+Boric Acid : 1.2% w/v,,6 Blister Tablet,9.7
+1584,Dexamethasone Sodium Phosphate : 0.05% w/v+Gentamicin : 0.3% w/v+Methyl Paraben : 0.1% w/v,,10 PVC Film Blister,7.37
+1585,Rifampicin : 60 mg+Isoniazid : 30 mg+Pyrazinamide : 150 mg,,10 PVC Film Blister,44.06
+1586,Rifampicin : 225 mg+Isoniazid : 150 mg+Pyrazinamide : 750 mg,,1 tablet,30.57
+1587,Rifampicin : 150 mg+Isoniazid : 75 mg+Ethambutol : 275 mg,,10 Tablet,19.05
+1588,Zidovudine : 300 mg+Lamivudine : 150 mg+Nevirapine : 200 mg,,10 gm,10.06
+1589,Adrenochrome Monosemicarbazone : 330 mcg+Menadione : 10 mg+Rutin : 50 mg+Dibasic Calcium Phosphate : 125 mg,,10 gm,8.08
+1590,Tolnaftate : 10 mg+Iodochlorohydroxyquinoline : 10 mg+Gentamicin : 1 mg+Betamethasone : 0.643 mg,,10 Tablet,8.22
+1591,Tolnaftate : 10 mg+Iodochlorohydroxyquinoline : 10 mg+Gentamicin : 1 mg+Betamethasone : 0.61 mg,,10 Tablet,5.2
+1592,Theophylline : 130 mg+Ephedrine : 48 mg+Phenobarbitone : 8 mg+Glyceryl Guaicolate : 100 mg,,5 gm,5.45
+1593,Theophylline : 65 mg+Ephedrine : 50 mg+Phenobarbitone : 30 mg,,5 gm,5.52
+1594,Betamethasone Valerate : 0.61 mg+Gentamicin : 1 mg+Tolnaftate : 10 mg+Iodochlorohydroxyquinoline : 10 mg,,10 gm,6.44
+1595,Betamethasone Valerate : 0.61 mg+Tolnaftate : 15 mg+Gentamicin Sulphate : 1 mg+Iodochlorohydroxyquinoline : 15 mg,,5 gm,8.22
+1596,Betamethasone : 0.61 mg+Tolnaftate : 10 mg+Gentamicin Sulphate : 1 mg+Iodochlorohydroxyquinoline : 10 mg,,30 gm,5.24
+1597,Betamethasone : 0.5 mg+Tolnaftate : 10 mg+Gentamicin : 1 mg+Iodochlorohydroxyquinoline : 10 mg,,10 gm,14.32
+1598,Betamethasone : 0.05% w/w+Salicylic Acid : 3% w/w+Urea : 10% w/w+Lactic Acid Bacillus : 3% w/w,,16 gm,7.76
+1599,Betamethasone : 0.6 mg+Tolnaftate : 10 mg+Gentamicin Sulphate : 1 mg+Iodochlorohydroxyquinoline : 10 mg,,20 gm,9.66
+1600,Betamethasone : 0.05% w/w+Clotrimazole : 1% w/w+Gentamicin : 0.1% w/w,,30 gm,9.48
+1601,Silver Sulphadiazine : 1% w/w+Chlorhexadine Gluconate : 0.2% w/w+Aloe : 15% w/w+Allantoin : 0.1% w/w,,20 gm,12.18
+1602,Silver Sulphadiazine : 1% w/w+Chlorhexadine Gluconate : 0.2% w/w+Metronidazole : 1% w/w+Zinc Oxide : 2.5% w/w,,5 ml,10.89
+1603,Betamethasone : 0.05% w/w+Salicylic Acid : 3% w/w+Lactic Acid Bacillus : 3% w/w+Urea : 10% w/w,,5 gm,8.71
+1604,Betamethasone : 0.025% w/v+Gentamicin Sulphate : 0.3% w/v+Clotrimazole : 1% w/v+Lignocaine : 2% w/v,,100 ml,5.73
+1605,Betamethasone : 0.5 mg+Tolnaftate : 10 mg+Neomycin : 5 mg+Iodochlorohydroxyquinoline : 10 mg,,100 ml,12.8
+1606,Salbutamol : 2 mg+Bromhexine : 4 mg+Guaiphenesin : 50 mg+Menthol : 0.5 mg,,100 ml,13.98
+1607,Salbutamol : 1 mg+Bromhexine : 2 mg+Guaiphenesin : 50 mg+Menthol : 1 mg,,100 ml,14.33
+1608,Salbutamol : 1 mg+Bromhexine : 2 mg+Guaiphenesin : 50 mg+Menthol : 0.5 mg,,5 gm,14.1
+1609,Salbutamol : 2 mg+Bromhexine : 4 mg+Guaiphenesin : 100 mg+Menthol : 1 mg,,60 ml,5.5
+1610,Dexamethasone : 0.1% w/w+Ciprofloxacin : 0.3% w/w+Benzalkonium Chloride : 0.01% w/w,,10 Tablet,8.8
+1611,Salbutamol : 1 mg+Bromhexine : 2 mg+Guaiphenesin : 50 mg,,1 Kit,19.2
+1612,Rifampicin : 100 mg+Isoniazid : 75 mg+Pyrazinamide : 250 mg+Pyridoxine : 2.5 mg,,10 Tablet,12.69
+1613,Rifampicin : 450 mg+Isoniazid : 300 mg+Pyrazinamide : 1500 mg+Ethambutol : 800 mg,,10 Tablet,7
+1614,Pseudoephedrine : 60 mg+Paracetamol : 500 mg+Caffeine : 30 mg+Cetirizine : 5 mg,,10 Tablet,5.98
+1615,Chlorpheniramine Maleate : 2 mg+Dextromethorphan : 15 mg+Paracetamol : 325 mg+Pseudoephedrine : 30 mg,,10 Tablet,5.06
+1616,Ephedrine : 48 mg+Theophylline : 130 mg+Phenobarbitone : 8 mg+Glyceryl Guaicolate : 100 mg,,100 ml,6.56
+1617,Pseudoephedrine : 60 mg+Cetirizine : 5 mg+Paracetamol : 500 mg,,60 ml,17.9
+1618,Pseudoephedrine : 30 mg+Dextromethorphan : 10 mg+Triprolidine : 1.25 mg+Menthol : 1.5 mg,,10 Tablet,13.18
+1619,Dextromethorphan : 10 mg+Pseudoephedrine : 30 mg+Menthol : 1.5 mg+Triprolidine : 1.25 mg,,10 Tablet,5.64
+1620,Pseudoephedrine : 60 mg+Chlorpheniramine Maleate : 2 mg+Paracetamol : 500 mg+Caffeine : 30 mg,,10 Tablet,15.66
+1621,Rifampicin : 100 mg+Isoniazid : 100 mg+Pyrazinamide : 300 mg+Pyridoxine : 5 mg,,60 ml,4.28
+1622,Pseudoephedrine : 30 mg+Chlorpheniramine Maleate : 2 mg+Paracetamol : 500 mg,,100 ml,10.4
+1623,Pseudoephedrine : 30 mg+Chlorpheniramine Maleate : 1 mg+Dextromethorphan : 5 mg+Bromhexine : 2.7 mg,,60 ml,14.1
+1624,Pseudoephedrine : 30 mg+Chlorpheniramine Maleate : 1 mg+Bromhexine : 2.7 mg+Dextromethorphan : 5 mg,,100 ml,13.18
+1625,Pseudoephedrine : 30 mg+Dextromethorphan Hydrobromide : 10 mg+Triprolidine : 1.25 mg+Menthol : 1.5 mg,,6 Tablet,18.74
+1626,Pseudoephedrine : 30 mg+Dextromethorphan Hydrobromide : 10 mg+Triprolidine : 1.25 mg+Menthol : 1.5 mg,,10 Tablet,37.08
+1627,Rifampicin : 225 mg+Isoniazid : 150 mg+Pyrazinamide : 750 mg+Ethambutol : 400 mg,,3 Tablet,40.89
+1628,Rifampicin : 150 mg+Isoniazid : 75 mg+Pyrazinamide : 400 mg+Ethambutol Hcl : 275 mg,,60 ml,13.34
+1629,Rifampicin : 150 mg+Isoniazid : 100 mg+Pyrazinamide : 500 mg+Ethambutol : 267 mg,,100 ml,13.74
+1630,Pseudoephedrine : 30 mg+Cetirizine : 5 mg+Dextromethorphan : 10 mg+Menthol : 1.5 mg,,50 ml,18.12
+1631,Pseudoephedrine : 30 mg+Dextromethorphan : 10 mg+Menthol : 1.5 mg+Cetirizine : 5 mg,,10 Tablet,11.58
+1632,Pseudoephedrine : 30 mg+Dextromethorphan : 10 mg+Cetirizine : 5 mg+Menthol : 1.5 mg,,10 Tablet,7
+1633,Ranitidine : 150 mg+Paracetamol : 300 mg+Dicyclomine (Dicycloverine) : 10 mg+Mefenamic Acid : 100 mg,,5 ml,5.88
+1634,Furazolidone : 100 mg+Metronidazole : 200 mg+Berberine : 20 mg+Belladonna : 125 mg,,5 gm,12.9
+1635,Prednisolone : 1% w/v+Ofloxacin : 0.3% w/v+Hydroxypropyl Methyl Cellulose : 0.25% +Benzalkonium ChIoride : 0.3% w/v,,10 gm,5.52
+1636,Gentamicin : 1 mg+Tolnaftate : 10 mg+Betamethasone Valerate : 0.61 mg+Iodochlorohydroxyquinoline : 10 mg,,5 gm,8.22
+1637,Gentamicin : 1 mg+Tolnaftate : 10 mg+Betamethasone Valerate : 0.61 mg+Iodochlorohydroxyquinoline : 10 mg,,10 gm,5.24
+1638,Gentamicin : 1 mg+Tolnaftate : 10 mg+Betamethasone Valerate : 0.5 mg+Iodochlorohydroxyquinoline : 10 mg,,10 Tablet,8.79
+1639,Gentamicin : 0.1% +Clobetasol Propionate : 0.05% +Miconazole Nitrate : 2% +Zinc Sulphate : 2.5% ,,5 ml,13.77
+1640,Metronidazole : 400 mg+Diloxanide Furoate : 500 mg+Methyl Polysiloxane : 25 mg+Dicyclomine (Dicycloverine) : 10 mg,,25 gm,8.28
+1641,Gentamicin : 0.3% w/v+Beclomethasone : 0.025% w/v+Clotrimazole : 1% w/v+Lignocaine Hydrochloride IP : 2% w/v,,30 gm,10.52
+1642,Vit E : 0.5% w/w+Gentamicin Sulphate : 0.1% w/w+Aloe : 10% w/w+Sesame Oil : 2% w/w,,10 Capsule,12.21
+1643,Vit E : 1% +Propylene Glycol : 10% +Urea : 10% +Lactobacillus Sporegens : 5% ,,10 ml,9.49
+1644,Lycopene : 2 mg+Vit E : 200 iu+Vit A : 2500 iu+Zinc Sulphate : 27.45 mg,,10 ml,12.21
+1645,Vit B1 : 33 mg+D-Panthenol : 5 mg+Vit B12 : 333 mcg+Vit B6 : 33 mg,,10 ml,9
+1646,Vit B1 : 30 mg+Vit B6 : 13.75 mg+Vit B12 : 500 mcg+Benzyl Alcohol : 2% v/v,,10 Tablet,9.1
+1647,Vit B1 : 33 mg+Vit B6 : 33 mg+Vit B12 : 500 mcg+Benzyl Alcohol : 2% v/v,,5 ml,6.66
+1648,Metronidazole : 300 mg+Furazolidone : 100 mg+Dicyclomine (Dicycloverine) : 10 mg,,10 ml,20.4
+1649,Dexamethasone Sodium Phosphate : 0.01% w/v+Ketorolac Tromethamine : 0.5% w/v+Hydroxypropyl Methyl Cellulose : 0.025% w/v+Benzalkonium Chloride : 0.02% w/v,,5 gm,92.99
+1650,Prednisolone : 1.0% +Benzalkonium Chloride : 0.006% +Edetate Disodium : 0.0127% +Polysorbate : 80 ,,200 ml,4.88
+1651,Tolnaftate : 10 mg+Gentamicin : 1 mg+Iodochlorohydroxyquinoline IP : 10 mg+Beclomethasone : 0.25 mg,,20 ml,28.49
+1652,Theophylline : 80 mg+Ephedrine : 12 mg+Guaiphenesin : 50 mg+Alcohol : 0.55 ml,,100 ml,20.34
+1653,Streptomycin Sulphate : 2.5 gm+Procaine Pencillin : 1500000 units+Penicillin G Sodium : 500000 units,,100 ml,12.04
+1654,Salbutamol : 2 mg+Bromhexine : 4 mg+Chlorpheniramine Maleate : 4 mg+Menthol : 0.5 mg,,60 ml,16.66
+1655,Salbutamol : 1 mg+Bromhexine : 15 mg+Guaiphenesin : 50 mg+Menthol : 0.5 mg,,100 ml,9.9
+1656,Salbutamol : 1 mg+Bromhexine : 15 mg+Guaiphenesin : 50 mg+Menthol : 1 mg,,50 ml,9.8
+1657,Salbutamol : 2 mg+Bromhexine : 8 mg+Guaiphenesin : 100 mg+Menthol : 0.5 mg,,30 ml,9.23
+1658,Salbutamol : 1 mg+Bromhexine : 2 mg+Guaiphenesin : 50 mg+Menthol : 0.5 mg,,100 ml,7.55
+1659,Salbutamol : 1 mg+Bromhexine : 2 mg+Guaiphenesin : 50 mg+Menthol : 1 mg,,100 ml,14.48
+1660,Salbutamol : 1 mg+Ammonium Chloride : 100 mg+Guaiphenesin : 50 mg+Menthol : 0.5 mg,,60 ml,11.7
+1661,Salbutamol : 2 mg+Bromhexine : 4 mg+Ammonium Chloride : 100 mg+Menthol : 1.5 mg,,100 ml,12.09
+1662,Salbutamol : 1 mg+Ambroxol : 15 mg+Guaiphenesin : 15 mg+Menthol : 1 mg,,60 ml,15.5
+1663,Salbutamol : 1 mg+Ambroxol : 15 mg+Guaiphenesin : 50 mg+Menthol : 0.5 mg,,100 ml,12.09
+1664,Salbutamol : 1 mg+Ambroxol : 15 mg+Guaiphenesin IP : 50 mg+Menthol : 1 mg,,60 ml,17.48
+1665,Salbutamol : 1 mg+Ambroxol : 30 mg+Guaiphenesin : 50 mg+Menthol : 0.5 mg,,100 ml,13.41
+1666,Salbutamol : 0.5 mg+Ambroxol : 15 mg+Guaiphenesin : 50 mg+Menthol : 1 mg,,6 Tablet,13.54
+1667,Salbutamol : 1 mg+Ambroxol : 15 mg+Guaiphenesin : 50 mg,,1 Kit,23.04
+1668,Rifampicin : 150 mg+Ethambutol : 275 mg+Isoniazid : 100 mg+Pyrazinamide : 500 mg,,1 Kit,5.82
+1669,Rifampicin : 150 mg+Isoniazid : 100 mg+Pyrazinamide : 500 mg+Ethambutol : 800 mg,,10 Tablet,6.64
+1670,Rifampicin : 450 mg+Isoniazid : 300 mg+Pyridoxine : 10 +Ethambutol : 800 mg,,10 Tablet,53.35
+1671,Rifampicin : 450 +Isoniazid : 225 mg+Ethambutol : 825 mg+Pyrazinamide : 400 mg,,10 Tablet,36.4
+1672,Rifampicin : 150 mg+Isoniazid : 225 mg+Pyrazinamide : 400 mg+Ethambutol : 275 mg,,10 Tablet,37.25
+1673,Rifampicin : 225 mg+Isoniazid : 150 mg+Pyrazinamide : 750 mg+Pyridoxine : 10 mg,,30 ml,17.68
+1674,Rifampicin : 120 mg+Isoniazid : 80 mg+Pyrazinamide : 250 mg+Pyridoxine : 10 mg,,100 ml,16.8
+1675,Phenylbutazone : 150 mg+Analgin : 150 mg+Lignocaine : 10 mg+Benzyl Alcohol : 2% w/w,,60 ml,15.32
+1676,Pheniramine Maleate : 1 mg+Pseudoephedrine : 30 mg+Paracetamol : 125 mg+Sodium Citrate : 60 mg,,10 gm,10
+1677,Metronidazole : 100 mg+Furazolidone : 37.5 mg+Pectin : 75 mg+Light Kaolin : 50 mg,,5 gm,6.04
+1678,Iodochlorohydroxyquinoline : 1% w/w+Beclomethasone : 0.2% w/w+Gentamicin : 0.0025% w/w+Clotrimazole : 1% w/w,,30 ml,6.44
+1679,Iodochlorohydroxyquinoline : 15 mg+Tolnaftate : 15 mg+Gentamicin : 1 mg+Betamethasone : 0.61 mg,,15 gm,16.8
+1680,Analgin : 150 mg+Phenylbutazone : 150 mg+Lignocaine : 10 mg+Benzyl Alcohol : 2% w/w,,10 gm,10.29
+1681,Iodochlorohydroxyquinoline : 10 mg+Betamethasone : 0.61 mg+Gentamicin : 1 mg+Tolnaftate : 10 mg,,5 gm,8.54
+1682,Iodochlorohydroxyquinoline : 10 mg+Betamethasone : 0.5 mg+Tolnaftate : 10 mg+Neomycin : 5 mg,,10 gm,5.52
+1683,Betamethasone : 0.61 mg+Tolnaftate : 10 mg+Gentamicin : 1 mg+Iodochlorohydroxyquinoline : 10 mg,,5 ml,6.62
+1684,Betamethasone : 0.05% +Salicylic Acid : 3% +Urea : 10% +Lactic Acid Bacillus : 5% ,,3 gm,10.76
+1685,Betamethasone : 1 mg+Neomycin : 3400 iu+Polymyxin B Sulphate : 10000 iu+Lignocaine : 20 mg,,5 gm,4
+1686,Betamethasone : 0.6 mg+Gentamicin Sulphate : 1 mg+Tolnaftate : 10 mg+Iodochlorohydroxyquinoline : 10 mg,,5 ml,6.3
+1687,Betamethasone : 0.061% w/w+Gentamicin : 0.1% w/w+Quiniodochlor : 3% w/w+Clotrimazole : 1% w/w,,15 gm,9.78
+1688,Betamethasone : 0.05% w/w+Neomycin : 3400 iu+Polymyxin B Sulphate : 10000 iu,,10 gm,9.01
+1689,Betamethasone : 0.064% w/w+Chlorocresol : 0.1% w/w+Clotrimazole : 1% w/w+Zinc Sulphate : 0.5% w/w,,50 ml,7.1
+1690,Betamethasone : 0.025% w/w+Neomycin : 0.5% w/w+Miconazole Nitrate : 2% w/w+Chlorocresol : 0.1% w/w,,8 gm,22.5
+1691,Betamethasone : 0.05% w/v+Zinc Sulphate : 0.5% w/v+Methyl Paraben : 0.18% w/v+Propyl Paraben : 0.02% w/v,,20 gm,6.82
+1692,Betamethasone : 0.05% w/w+Neomycin : 0.50% w/w+Chlorocresol : 0.10% w/w+Clotrimazole : 1% w/w,,30 gm,15.85
+1693,Betamethasone : 0.05% +Lactic Acid Bacillus : 5% +Salicylic Acid : 3% +Urea : 10% ,,5 ml,14.59
+1694,Betamethasone : 0.064% w/w+Gentamicin : 0.1% w/w+Zinc Sulphate : 0.5% w/w+Chlorocresol : 0.1% w/w,,20 gm,7.74
+1695,Betamethasone : 0.025% w/v+Gentamicin : 0.3% w/v+Clotrimazole : 1% w/v+Lignocaine : 2% w/v,,20 gm,17.46
+1696,Betamethasone Valerate : 0.12% w/w+Gentamicin Sulphate : 0.1% w/w+Chlorocresol : 0.1% w/w+Miconazole Nitrate : 2% w/w,,15 gm,17.65
+1697,Betamethasone : 0.1% w/w+Chlorocresol : 0.1% w/w+Clioquinol : 3% w/w,,50 ml,9.07
+1698,Betamethasone : 0.05% w/w+Chlorocresol : 0.1% w/w+Neomycin : 0.5% w/w+Zinc Sulphate : 0.5% w/w,,60 ml,10.83
+1699,Pseudoephedrine : 30 mg+Paracetamol : 125 mg+Sodium Citrate : 60 mg,,5 gm,12.48
+1700,Pseudoephedrine : 15 mg+Acetaminophen : 125 mg+Cetirizine : 2.5 mg+Dextromethorphan : 2.5 mg,,100 ml,5.28
+1701,Ciprofloxacin : 0.5% w/w+Chlorocresol : 0.1% w/w+Clotrimazole : 1% w/w+Fluocinolone Acetonide : 0.025% w/w,,60 ml,16.6
+1702,Pseudoephedrine : 30 mg+Ammonium Chloride : 50 mg+Dextromethorphan : 10 mg+Menthol : 2.5 mg,,10 ml,12.48
+1703,Pseudoephedrine : 15 mg+Dextromethorphan : 2.5 mg+Acetaminophen : 125 mg+Cetirizine : 2.5 mg,,50 ml,11.14
+1704,Ciprofloxacin : 0.3% w/v+Dexamethasone Sodium Phosphate : 0.1% w/v+Benzalkonium Chloride : 0.02% w/v+Hydroxypropyl Methyl Cellulose : 0.25% w/v,,60 ml,12.15
+1705,Ephedrine : 12 mg+Theophylline : 80 mg+Guaiphenesin : 50 mg+Alcohol : 0.55 ml,,60 ml,13.18
+1706,Pseudoephedrine : 30 mg+Dextromethorphan : 10 mg+Triprolidine : 1.25 mg+Menthol : 1.5 mg,,50 ml,10.4
+1707,Pseudoephedrine : 30 mg+Chlorpheniramine Maleate : 1 mg+Dextromethorphan : 5 mg+Bromhexine : 2.7 mg,,60 ml,11.58
+1708,Pseudoephedrine : 30 mg+Dextromethorphan : 10 mg+Cetirizine : 5 mg+Menthol : 1.5 mg,,10 Tablet,12.84
+1709,Pseudoephedrine : 30 mg+Paracetamol : 125 mg+Menthol : 1 mg+Sodium Citrate : 60 mg,,60 ml,5.64
+1710,Pseudoephedrine : 60 mg+Chlorpheniramine Maleate : 2 mg+Paracetamol : 500 mg+Caffeine : 30 mg,,100 ml,13.18
+1711,Pseudoephedrine : 30 mg+Dextromethorphan : 10 mg+Triprolidine : 1.25 mg+Menthol : 1.5 mg,,60 ml,17.9
+1712,Pseudoephedrine : 30 mg+Dextromethorphan : 10 mg+Triprolidine : 1.25 mg+Menthol : 1.5 mg,,60 ml,8.76
+1713,Pseudoephedrine : 10 mg+Acetaminophen : 125 mg+Dextromethorphan : 5 mg+Carbinoxamine Maleate : 1 mg,,10 Tablet,8.92
+1714,Pseudoephedrine : 10 mg+Chlorpheniramine Maleate : 1 mg+Dextromethorphan : 5 mg+Paracetamol : 125 mg,,10 Tablet,5.98
+1715,Pseudoephedrine : 30 mg+Paracetamol : 325 mg+Chlorpheniramine Maleate : 2 mg+Dextromethorphan : 15 mg,,10 Tablet,7
+1716,Pseudoephedrine : 60 mg+Caffeine : 30 mg+Paracetamol : 500 mg,,60 ml,5.88
+1717,Pseudoephedrine : 60 mg+Paracetamol : 125 mg+Chlorpheniramine Maleate : 4 mg+Caffeine : 30 mg,,10 ml,8.72
+1718,Ephedrine : 5 mg+Chlorpheniramine Maleate : 1 mg+Dextromethorphan : 5 mg+Bromhexine : 2.7 mg,,15 ml,14.55
+1719,Dexamethasone Sodium Phosphate : 0.1% w/v+Tobramycin : 0.3% w/v+Benzalkonium Chloride : 0.02% w/v+Hydroxypropyl Methyl Cellulose : 0.25% w/v,,100 ml,12.34
+1720,Dexamethasone Sodium Phosphate : 0.05% w/v+Benzalkonium Chloride : 0.02% w/v+Hydroxypropyl Methyl Cellulose : 0.25% w/v+Ofloxacin : 0.3% w/v,,5 ml,36.41
+1721,Dexamethasone Sodium Phosphate : 0.05% w/v+Benzalkonium Chloride : 0.02% w/v+Hydroxypropyl Methyl Cellulose : 0.25% w/v+Ofloxacin : 0.3% w/v,,5 ml,8.77
+1722,Dexamethasone Sodium Phosphate : 0.05% w/v+Benzalkonium Chloride : 0.02% w/v+Hydroxypropyl Methyl Cellulose : 0.25% w/v+Ofloxacin : 0.3% w/v,,10 ml,9.2
+1723,Dexamethasone : 0.05% w/v+Sodium Tetraborate : 0.06% w/v+Boric Acid : 1.20% w/v+Benzalkonium Chloride : 0.02% w/v,,10 ml,11.01
+1724,Dexamethasone Sodium Phosphate : 0.05% w/v+Hydroxypropyl Methylcellulose (HPMC) : 0.025% w/v+Chloramphenicol : 0.1% w/v+Phenyl Mercuric Nitrate : 0.001% w/v,,5 ml,12.04
+1725,Dexamethasone Sodium Phosphate : 0.1% w/v+Boric Acid : 1.5% w/v+Chloramphenicol : 1% w/v+Phenyl Mercuric Nitrate : 0.001% w/v,,10 Blister Tablet,9.8
+1726,Dexamethasone Sodium Phosphate : 1 mg+Benzalkonium Chloride : 0.02% w/v+Chloramphenicol : 4 mg+Hydroxypropyl Methylcellulose (HPMC) : 0.25% w/v,,10 Kit,30.03
+1727,Rifampicin : 150 mg+Isoniazid : 100 mg+Pyrazinamide : 500 mg,,5 gm,149.99
+1728,Rifampicin : 600 mg+Isoniazid : 300 mg+Pyrazinamide : 800 mg+Ethambutol : 1100 mg,,10 gm,6.28
+1729,Tolnaftate : 1% +Gentamicin : 0.1% +Clotrimazole : 1% +Clobetasol : 0.05% +Quiniodochlor : 1% ,,20 gm,7.34
+1730,Betamethasone : 0.05% w/w+Lactic Acid Bacillus : 3% w/w+Urea : 10% w/w+Sodium Lactate : 2% w/w+Salicylic Acid : 3% w/w,,15 gm,10.6
+1731,Betamethasone : 0.05% w/w+Lactic Acid Bacillus : 3% w/w+Urea : 10% w/w+Salicylic Acid : 3% w/w+Sodium Lactate : 2% w/w,,5 gm,7.9
+1732,Betamethasone : 0.05% w/w+Salicylic Acid : 3% w/w+Urea : 10% w/w+Lactic Acid Bacillus : 3% w/w+Sodium Lactate : 2% w/w,,1 Kit,5.86
+1733,Iodochlorohydroxyquinoline : 10 mg+Gentamicin Sulphate : 1 mg+Tolnaftate : 10 mg+Chlorocresol : 1 mg+Betamethasone : 0.643 mg,,10 ml,9.16
+1734,Rifampicin : 450 mg+Isoniazid : 300 mg+Pyrazinamide : 1500 mg+Ethambutol : 800 mg+Pyridoxine : 10 mg,,100 ml,5.46
+1735,Ephedrine : 0.75% +Menthol : 0.5% +Camphor : 0.5% +Eucalyptol : 0.5% +Castor Oil : 0.5% ,,10 Tablet,13.54
+1736,Ephedrine : 5 mg+Chlorpheniramine Maleate : 4 mg+Ammonium Chloride : 75 mg+Menthol : 1 mg+Sodium Citrate : 50 mg,,60 ml,3.8
+1737,Ephedrine : 5 mg+Chlorpheniramine Maleate : 2 mg+Guaiphenesin : 50 mg+Paracetamol : 500 mg+Bromhexine : 4 mg,,100 ml,10.6
+1738,Pseudoephedrine : 30 mg+Chlorpheniramine Maleate : 2 mg+Menthol : 1 mg+Paracetamol : 125 mg+Sodium Citrate : 60 mg,,50 ml,14.44
+1739,Pseudoephedrine : 30 mg+Chlorpheniramine Maleate : 2 mg+Paracetamol : 125 mg+Sodium Citrate : 60 mg+Menthol : 1 mg,,100 ml,10.02
+1740,Pseudoephedrine : 30 mg+Diphenhydramine : 20 mg+Ammonium Chloride : 125 mg+Menthol : 2 mg+Sodium Citrate : 55 mg,,10 Tablet,15.78
+1741,Pseudoephedrine : 30 mg+Diphenhydramine : 20 mg+Ammonium Chloride : 125 mg+Menthol : 2 mg+Sodium Citrate : 55 mg,,100 ml,4.12
+1742,Ephedrine : 5 mg+Bromhexine : 4 mg+Chlorpheniramine Maleate : 4 mg+Glyceryl Guaicolate : 50 mg+Paracetamol : 450 mg,,10 Tablet,12.3
+1743,Chlorpheniramine Maleate : 4 mg+Ephedrine : 5 mg+Ammonium Chloride : 75 mg+Menthol : 1 mg+Sodium Citrate : 50 mg,,10 Tablet,6.26
+1744,Metronidazole : 200 mg+Furazolidone : 100 mg+Berberine : 20 mg+Belladonna : 125 mg,,10 Tablet,2.54
+1745,Vit B1 : 2 mg+Vit B2 : 2.5 mg+Vit B6 : 1.5 mg+Niacinamide : 20 mg+Lactic Acid Bacillus : 40 million spores,,10 Capsule,12.64
+1746,Vit C : 150 mg+Vit E : 25 mg+Carotenoids : 100 mg+Selenium Dioxide : 45.9 mcg+Zinc Sulphate : 70 mg,,30 Capsule,3.98
+1747,Vit B1 : 3 mg+Vit B2 : 3 mg+Vit B6 : 1 mg+Nicotinamide : 25 mg+Lacto Bacillus Sporegens : 40 million spores,,10 Tablet,28.88
+1748,Vit E : 100 iu+Chromium Picolinate : 200 mcg+DHA (Decosahexanoic Acid) : 60 mg+EPA (Eicosapentaenoic Acid) : 90 mg+Polidocanol : 10 mg,,10 Tablet,1.84
+1749,Vit B1 : 2 mg+Vit B2 : 2.5 mg+Vit B6 : 1.5 mg+Nicotinamide : 20 mg+Lacto Bacillus Sporegens : 6 million spores,,10 Capsule,1.52
+1750,Thiamine : 2 mg+Riboflavin : 2.5 mg+Pyridoxine : 1.5 mg+Niacinamide : 20 mg+Lactic Acid Bacillus : 40 million spores,,15 Capsule,21.82
+1751,Vit E : 4 mg+Vit C : 25 mg+Manganese : 10 mg+Glucosamine Sulphate Sodium : 250 mg+Chondroitin Sulphate : 200 mg,,10 Capsule,8.06
+1752,Ascorbic Acid : 75 mg+Ferrous Sulphate : 60 mg+Folic Acid (Vit B9) : 1.5 mg+Cyanocobalamin : 150 mcg+Pyridoxine : 1.5 mg,,60 ml,15.74
+1753,Vit C : 75 mg+Carbonyl lron : 100 mg+Folic Acid (Vit B9) : 1.5 mg+Vit B12 : 15 mcg+Zinc Gluconate : 61.8 mg,,200 ml,8.68
+1754,Vit B1 : 2 mg+Vit B2 : 2.5 mg+Vit B6 : 1.5 mg+Nicotinamide : 20 mg+Lactobacillus Sporegens : 40 million spores,,10 Capsule,25.09
+1755,Thiamine : 10 mg+Pyridoxine : 3 mg+Cyanocobalamin : 15 mcg+D-Panthenol : 5 mg+L-Lysine : 150 mg,,10 Tablet,7.55
+1756,Beta Carotene : 20 mg+Zinc Sulphate : 27.5 mg+Copper : 1 mg+Manganese : 2 mg+Selenium : 150 mcg,,100 Tablet,2.8
+1757,Thiamine : 10 mg+Vit B6 : 3 mg+Vit B12 : 15 mcg+Niacinamide : 50 mg+L-Glutamic Acid : 100 mg,,30 ml,23.82
+1758,Thiamine : 10 mg+Pyridoxine Hydrochloride IP : 3 mg+Cyanocobalamin : 15 mcg+Calcium Pantothenate : 5 mg+Niacinamide : 45 mg,,100 ml,7.49
+1759,Pepsin : 20 mg+Thiamine : 1 +Riboflavin : 1 mg+Pyridoxine : 0.5 mg+Niacinamide : 10 mg,,30 ml,13.78
+1760,Pepsin : 20 mg+Thiamine : 1 mg+Riboflavin : 1 mg+Pyridoxine : 0.5 mg+Niacinamide : 10 mg,,100 ml,7.12
+1761,Vit B1 : 1 mg+Vit B2 : 1 mg+D-Panthenol : 1 mg+Niacinamide : 20 mg+Vit B6 : 0.5 mg,,60 ml,12.38
+1762,Vit B1 : 1 mg+Vit B2 : 1 mg+D-Panthenol : 1 mg+Niacinamide : 20 mg+Vit B6 : 0.5 mg,,2 ml,7.56
+1763,Thiamine : 1.5 mg+Riboflavin : 2 mg+Pyridoxine : 1 mg+Nicotinamide : 15 mg+Lactic Acid Bacillus : 60 million spores,,200 ml,4.86
+1764,Thiamine : 100 mg+Pyridoxine : 100 mg+Niacinamide : 100 mg+D-Panthenol : 50 mg+Cyanocobalamin : 1000 mcg,,200 ml,18.78
+1765,Thiamine : 1.5 mg+Riboflavin : 1 mg+Pyridoxine : 0.75 mg+Niacinamide : 15 mg+D-Panthenol : 1.5 mg,,200 ml,19.32
+1766,Ferrous Gluconate : 50 mg+Vit B1 : 1 mg+Vit B2 : 1 mg+Vit B6 : 0.25 mg+Niacinamide : 12.5 mg,,100 ml,21.96
+1767,Lysine : 200 mg+Thiamine : 5 mg+Riboflavin : 2.5 mg+Zinc Sulphate : 16.5 mg,,100 ml,15.2
+1768,Vit B1 : 2 mg+Vit B2 : 2.5 mg+Vit B12 : 2 mcg+Vit B6 : 75 mg+Nicotinamide : 15 mg,,10 Capsule,14.43
+1769,Thiamine : 2 mg+Riboflavin : 2 mg+Pyridoxine : 1 mg+Niacinamide : 20 mg+D-Panthenol : 4 mg,,200 ml,23.44
+1770,Vit C : 75 mg+Citrus Bioflavonoid : 150 mg+Menadione : 0.66 mg+Ferrous Gluconate : 67 mg+Tribasic Calcium Phosphate : 144.43 mg,,10 gm,24.88
+1771,Theophylline : 80 mg+Ephedrine : 12 mg+Phenobarbitone : 4 mg+Guaiphenesin : 50 mg+Alcohol : 0.55 ml,,60 ml,6.42
+1772,Silver Sulphadiazine : 1% w/w+Chlorhexadine Gluconate : 0.2% w/w+Aloe Vera : 15% w/w+Allantoin : 0.1% w/w+Chlorcresol : 0.1% w/w,,100 ml,9.94
+1773,Salbutamol : 1 mg+Bromhexine : 2 mg+Guaiphenesin : 5 mg+Menthol : 0.5 mg,,10 Tablet,13.61
+1774,Salbutamol : 1 mg+Chlorpheniramine Maleate : 1 mg+Theophylline : 30 mg+Menthol : 1 mg+Sodium Citrate : 75 mg,,4 Capsule,14.88
+1775,Rifampicin : 200 mg+Isoniazid : 75 mg+Pyrazinamide : 250 mg+Pyridoxine : 2.5 mg,,3.04 gm,10.76
+1776,Rifampicin : 450 mg+Isoniazid : 300 mg+Ethambutol : 800 mg+Pyrazinamide : 750 mg+Pyridoxine : 10 mg,,1 kit,12.55
+1777,Rifampicin : 450 mg+Isoniazid : 225 mg+Pyrazinamide : 1200 mg+Ethambutol : 825 mg+Pyridoxine : 10 mg,,1 Kit,10.26
+1778,Rifampicin : 600 mg+Isoniazid : 300 mg+Pyrazinamide : 1500 mg+Ethambutol : 800 mg+Pyridoxine : 10 mg,,100 ml,4.5
+1779,Rifampicin : 225 mg+Isoniazid : 150 mg+Pyrazinamide : 750 mg+Ethambutol : 400 mg+Pyridoxine : 10 mg,,60 ml,13.61
+1780,Chlorpheniramine Maleate : 1 mg+Salbutamol : 1 mg+Theophylline : 30 mg+Menthol : 1 mg+Sodium Citrate : 75 mg,,5 gm,12.59
+1781,Pheniramine Maleate : 1 mg+Pseudoephedrine : 15 mg+Menthol : 1 mg+Paracetamol : 125 mg+Sodium Citrate : 60 mg,,10 gm,5.86
+1782,Iodochlorohydroxyquinoline : 10 mg+Betamethasone : 0.643 mg+Gentamicin : 1 mg+Tolnaftate : 10 mg+Chlorocresol : 1 mg,,15 gm,7.25
+1783,Iodochlorohydroxyquinoline : 10 mg+Gentamicin : 1 mg+Tolnaftate : 10 mg+Chlorocresol : 0.1% w/w+Clotrimazole : 10 mg,,10 gm,11.36
+1784,Iodochlorohydroxyquinoline : 10 mg+Tolnaftate : 10 mg+Clobetasone Butyrate : 0.5 mg+Clotrimazole : 10 mg+Neomycin : 5 mg,,10 gm,8.36
+1785,Iodochlorohydroxyquinoline : 1% w/w+Beclomethasone : 0.025% w/w+Gentamicin : 0.2% w/w+Tolnaftate : 1% w/w+Chlorocresol : 0.1% w/w,,10 gm,10.48
+1786,Iodochlorohydroxyquinoline : 15 mg+Betamethasone : 0.61 mg+Gentamicin : 1 mg+Tolnaftate : 15 mg+Chlorocresol : 1 mg,,10 gm,9.61
+1787,Iodochlorohydroxyquinoline : 20 mg+Betamethasone : 0.61 mg+Gentamicin : 1 mg+Tolnaftate : 20 mg+Chlorocresol : 1 mg,,17 gm,6.96
+1788,Betamethasone : 0.05% w/w+Salicylic Acid : 3% w/w+Urea : 10% w/w+Lactic Acid Bacillus : 3% w/w+Sodium Lactate : 3% w/w,,16 gm,9.14
+1789,Betamethasone : 0.05% +Clotrimazole : 1% +Gentamicin : 0.10% +Chlorcresol : 0.10% ,,6 gm,9.42
+1790,Betamethasone : 0.05% w/w+Salicylic Acid : 3% w/w+Urea : 10% w/w+Lactic Acid Bacillus : 3% w/w+Sodium Lactate : 2% w/w,,15 gm,6.74
+1791,Betamethasone : 0.05% w/w+Neomycin : 0.5% w/w+Tolnaftate : 1% w/w+Clotrimazole : 1% w/w+Chlorocresol : 0.1% w/w,,5 ml,9.56
+1792,Betamethasone : 0.05% w/w+Gentamicin : 0.10% w/w+Zinc Sulphate : 0.5% w/w+Chlorocresol : 0.1% w/w,,10 Tablet,16.09
+1793,Betamethasone Sodium Phosphate : 2 mg+Benzyl Alcohol : 4% w/v+Chlorocresol : 0.1% w/v,,10 Tablet,7.84
+1794,Pseudoephedrine : 80 mg+Acetaminophen : 50 mg+Dextromethorphan : 10 mg+Caffeine : 30 mg+Loratadine : 5 mg,,50 ml,7.68
+1795,Pseudoephedrine : 60 mg+Acetaminophen : 500 mg+Dextromethorphan : 10 mg+Caffeine : 30 mg+Loratadine : 5 mg,,60 ml,10.19
+1796,Pseudoephedrine : 15 mg+Paracetamol : 125 mg+Chlorpheniramine Maleate : 1 mg+Sodium Citrate : 60 mg+Menthol : 1 mg,,50 ml,10.6
+1797,Pseudoephedrine : 30 mg+Chlorpheniramine Maleate : 2 mg+Paracetamol : 125 mg+Sodium Citrate : 60 mg+Menthol : 1 mg,,60 ml,10.02
+1798,Pseudoephedrine : 30 mg+Diphenhydramine : 20 mg+Ammonium Chloride : 125 mg+Menthol : 2 mg+Sodium Citrate : 55 mg,,10 Tablet,12.59
+1799,Pseudoephedrine : 15 mg+Chlorpheniramine Maleate : 1 mg+Paracetamol : 125 mg+Sodium Citrate : 60 mg+Menthol : 1 mg,,10 Tablet,3.8
+1800,Ephedrine : 5 mg+Chlorpheniramine Maleate : 2 mg+Paracetamol : 500 mg+Guaiphenesin : 50 mg+Bromhexine : 4 mg,,100 ml,4.96
+1801,Pseudoephedrine : 30 mg+Dextromethorphan : 5 mg+Phenylephrine : 5 mg+Diphenhydramine : 15 mg+Paracetamol : 500 mg,,100 ml,11
+1802,Ephedrine : 10 mg+Chlorpheniramine Maleate : 4 mg+Ammonium Chloride : 125 mg+Sodium Citrate : 62.5 mg+Menthol : 1 mg,,100 ml,13.54
+1803,Ephedrine : 5 mg+Chlorpheniramine Maleate : 4 mg+Ammonium Chloride : 75 mg+Sodium Citrate : 50 mg+Menthol : 1 mg,,100 ml,10.94
+1804,Ephedrine : 8 mg+Sodium Citrate : 50 mg+Diphenhydramine : 14 mg+Ammonium Chloride : 100 ml+Menthol : 1 mg,,200 ml,10.82
+1805,Ephedrine : 5 mg+Chlorpheniramine Maleate : 2 mg+Guaiphenesin : 5 mg+Sodium Citrate : 150 mg+Menthol : 0.1 mg,,10 ml,24.88
+1806,Ephedrine : 12 mg+Theophylline : 80 mg+Phenobarbitone : 4 mg+Guaiphenesin : 50 mg+Alcohol : 0.55 ml,,10 ml,5.46
+1807,Ephedrine : 0.75% +Menthol : 0.50% +Camphor : 0.50% +Eucalyptol : 0.50% +Castor Oil : 0.50% ,,10 Tablet,11.14
+1808,Dexamethasone Sodium Phosphate : 0.1% w/v+Ciprofloxacin : 0.3% w/v+Benzalkonium Chloride : 0.02% w/v+Hydroxypropyl Methyl Cellulose : 0.25% w/v,,100 ml,6.52
+1809,Pseudoephedrine : 60 mg+Chlorpheniramine Maleate : 2 mg+Paracetamol : 325 mg+Bromhexine : 4 mg+Guaiphenesin : 50 mg+Serratiopeptidase : 5 mg,,10 gm,15.64
+1810,Pseudoephedrine : 30 mg+Chlorpheniramine Maleate : 2 mg+Ambroxol : 15 mg+Guaiphenesin : 50 mg+Ammonium Chloride : 100 mg+Menthol : 1 mg,,10 Tablet,17.22
+1811,Framycetin Sulphate : 10 mg+Hydrocortisone Acetate : 5.58 mg+Heparin Sodium : 100 units+Esculoside : 10 mg+Ethylaminobenzoate (Benzocaine) : 10 mg+Butylamminobenzoate : 10 mg,,200 ml,11.12
+1812,Beta Carotene : 10 mg+Vit A : 5000 iu+Vit E : 25 iu+Vit C : 150 mg+Zinc Sulphate : 27.45 mg+Selenium Dioxide : 70 mcg,,10 Capsule,22.31
+1813,Aspirin : 2.5 mg+Vit B1 : 2.5 mg+Vit B2 : 2.5 mg+Lysine : 2.5 mg+Vit B12 : 5 +Vit B6 : 0.75 mg,,120 ml,18.63
+1814,Vit B1 : 15 mg+Alpha Lipoic Acid : 200 mg+Biotin : 5 mg+Folic Acid (Vit B9) : 5 mg+Mecobalamin : 1500 mcg+Vit B6 : 5 mg,,2 ml,17.03
+1815,Vit B1 : 2 mg+Vit B2 : 2.54 mg+Vit C : 75 mg+Niacinamide : 20 mg+D-Panthenol : 6 mg+Vit B6 : 2 mg,,10 Tablet,2.36
+1816,Vit B1 : 100 mg+D-Panthenol : 50 mg+Mecobalamin : 1500 mcg+Nicotinamide : 100 mg+Vit B6 : 100 mg+Benzyl Alcohol : 2% w/v,,30 ml,4.76
+1817,Vit A : 2500 iu+Vit E : 25 iu+Vit C : 100 mg+Betacarotene : 6 mg+Sodium Selenate : 55 mcg+Molybdenum : 25 mcg,,100 ml,7.33
+1818,Vit B1 : 2.25 mg+Vit B2 : 2.5 mg+D-Panthenol : 2.5 mg+Niacinamide : 30 mg+Vit B12 : 2.5 mcg+Vit B6 : 0.75 mg,,200 ml,13.25
+1819,Vit B1 : 2.25 mg+Vit B2 : 2.5 mg+D-Panthenol : 2.5 mg+Niacinamide : 30 mg+Vit B12 : 2.5 mcg+Vit B6 : 0.75 mg,,50 Capsule,29.76
+1820,Vit E : 10 iu+Carbonyl lron : 30 mg+Folic Acid (Vit B9) : 500 mcg+Selenium : 30 mcg+Vit B12 : 5 mcg+Zinc Gluconate : 6 mcg,,30 ml,25.78
+1821,Vit A : 500 iu+Vit C : 75 mg+Vit E : 25 iu+Copper : 2 mg+Sodium Selenate : 40 mg+Zinc Oxide : 40 mg,,100 ml,7.22
+1822,Vit A : 2500 iu+Vit B1 : 1 mg+Vit B2 : 1 mg+Ferric Ammonium Citrate : 45 mg+Niacinamide : 16 mg+Vit D3 : 200 iu,,100 ml,12.74
+1823,Vit A : 2500 iu+Vit B1 : 1 mg+Vit B2 : 1 mg+Ferric Ammonium Citrate : 45 mg+Niacinamide : 16 mg+Vit D3 : 200 iu,,10 Capsule,14.22
+1824,Thiamine Hydrochloride : 2.5 mg+Riboflavin : 2.5 mg+Pyridoxine Hydrochloride IP : 1 mg+Cyanocobalamin : 5 mcg+D-Panthenol : 2.5 mg+Niacinamide : 25 mg,,30 Capsule,6.32
+1825,Lycopene : 2000 mcg+Vit A : 2500 iu+Tocopheryl Acetate : 10 iu+Vit C : 50 mg+Zinc Sulphate : 27.45 mg+Selenium Dioxide : 70 mcg,,120 ml,18.72
+1826,Ferrous Fumarate : 330 mg+Folic Acid (Vit B9) : 1.5 mg+Vit C : 150 mg+Vit B6 : 3 mg+Vit B12 : 10 mcg+: 75 mg,,5 ml,22.88
+1827,Thiamine : 2 mg+Riboflavin : 2 mg+Nicotinic Acid : 5 mg+Niacinamide : 15 mg+Pyridoxine : 1.5 mg+D-Panthenol : 5 mg,,10 Capsule,9.97
+1828,Hydroxycobalamin : 1000 mcg+Thiamine : 100 mg+Pyridoxine : 50 mg+D-Panthenol : 50 mg+Methyl Paraben : 0.1% w/v+Propyl Paraben : 0.02% w/v,,10 Capsule,6.96
+1829,Lycopene : 200 mcg+Methylcobalamin : 500 mcg+L-Arginine : 50 mg+Tocopherol : 25 iu+Selenium : 50 mcg+Zinc : 50 mg,,10 Capsule,20.72
+1830,Vit A : 5000 iu+Ascorbic Acid : 75 mg+Vit E : 15 iu+Zinc : 7.5 mg+Copper : 1 mg+Beta Carotene : 10 mg,,100 ml,12.5
+1831,Lutein : 6.4 mg+L-Glutalthione : 5 mg+Vit C : 150 mg+Vit E : 25 iu+Zinc Oxide : 40 mg+Copper : 1 mg,,10 ml,13.25
+1832,Vit B1 : 2.25 mg+Vit B2 : 2.5 mg+Vit B6 : 0.75 mg+Vit B12 : 2.5 mcg+Niacinamide : 30 mg+D-Panthenol : 2.5 mg,,10 ml,7.6
+1833,Vit B1 : 10 mg+Vit B2 : 2 mg+Vit B6 : 2 mg+D-Panthenol : 5 mg+Nicotinamide : 100 mg+Benzyl Alcohol : 1.55% w/v,,100 ml,6
+1834,Vit B1 : 10 mg+Vit B2 : 5 mg+D-Panthenol : 2 mg+Niacinamide : 20 mg+Vit B6 : 1 mg+Phenol : 0.50% ,,200 ml,11.6
+1835,Vit B1 : 2 mg+Vit B2 : 2.5 mg+Vit B6 : 0.75 mg+Niacinamide : 1.5 mg+Cyanocobalamin : 1 mcg+D-Panthenol : 3 mg,,200 ml,18.64
+1836,Thiamine : 0.33 mg+Riboflavin : 0.34 mg+Pyridoxine : 0.17 mg+D-Panthenol : 0.34 mg+Ascorbic Acid : 8.33 mg+Niacinamide : 3.34 mg,,35 gm,27.06
+1837,Vit B1 : 2.5 mg+Vit B2 : 2.5 mg+Vit B6 : 0.75 mg+Niacinamide : 25 mg+Vit B12 : 3 mcg+D-Panthenol : 5 mg,,100 ml,13.8
+1838,Ciprofloxacin : 1% w/w+Metronidazole : 1% w/w+Clobetasol Propionate : 0.05% w/w+Methyl Paraben : 0.2% w/w+Propyl Paraben : 0.02% w/w+Terbinafine : 1% w/w,,10 Tablet,15.64
+1839,Pseudoephedrine : 30 mg+Chlorpheniramine Maleate : 2 mg+Ambroxol : 15 mg+Guaiphenesin : 50 mg+Ammonium Chloride : 100 mg+Menthol : 1 mg,,10 ml,6.52
+1840,Pseudoephedrine : 60 mg+Chlorpheniramine Maleate : 2 mg+Paracetamol : 325 mg+Guaiphenesin : 50 mg+Bromhexine : 4 mg+Serratiopeptidase : 5 mg,,10 Tablet,5.32
+1841,Ephedrine : 0.75% mg+Camphor : 0.50% mg+Eucalyptol : 0.50% +Castor Oil : 0.50% ,,10 Tablet,4.88
+1842,Vit A : 2500 iu+Vit E : 10 iu+Ascorbic Acid : 50 mg+Pyridoxine : 1.5 mg+Cyanocobalamin : 1 mcg+Folic Acid (Vit B9) : 300 mcg+Selenium : 100 mcg,,10 Tablet,4.86
+1843,Vit A : 2500 iu+Ascorbic Acid : 50 mg+Vit E : 10 iu+Pyridoxine : 1.5 mg+Vit B12 : 1 mcg+Folic Acid (Vit B9) : 300 mcg+Selenium : 55 mcg,,200 ml,3.54
+1844,Vit A : 2500 iu+Ascorbic Acid : 50 mg+Vit E : 10 iu+Pyridoxine : 1.5 mg+Vit B12 : 1 mcg+Folic Acid (Vit B9) : 300 mcg+Selenium : 163.3 mcg,,30 Tablet,25.78
+1845,Aspirin : 10 mg+Vit B1 : 2.5 +Vit B2 : 2.5 mg+Nicotinamide : 22.5 mg+Panthenol : 3 mg+Vit B12 : 2.5 mcg+Vit B6 : 0.75 mg,,100 ml,13.86
+1846,Iron : 50 mg+Calcium : 72 mg+Vit B2 : 2 mg+Vit B6 : 1 mg+Vit C : 35 mg+Vit B12 : 1 mcg+Folic Acid (Vit B9) : 0.3 mg,,40 Tablet,15.89
+1847,Aspirin : 10 mg+Vit B1 : 2.5 mg+Vit B2 : 3.5 mg+Lysine : 300 mg+Niacinamide : 25 mg+Vit B12 : 3 mcg+Vit B6 : 1 mg,,200 ml,16.62
+1848,Iron : 25 mg+Calcium : 36 mg+Vit B2 : 2 mg+Vit B6 : 1 mg+Vit C : 35 mg+Vit B12 : 1 mcg+Folic Acid (Vit B9) : 0.3 mg,,200 ml,22.32
+1849,Aspirin : 10 mg+Vit B1 : 2.25 mg+Vit B2 : 2.5 mg+Ferrous Gluconate : 75 mg+Niacinamide : 22.5 mg+Vit B12 : 2.5 mcg+Vit B6 : 0.75 mg,,300 Tablet,24.09
+1850,Vit B1 : 1 mg+Vit B2 : 1 mg+Diastase : 28 mg+Pepsin : 10 mg+Niacinamide : 10 mg+Vit B12 : 0.5 mcg+Vit B6 : 0.5 mg,,10 Capsule,117.39
+1851,Thiamine : 10 mg+Riboflavin : 10 mg+Dried Yeast : 50 mg+Nicotinamide : 50 mg+Cyanocobalamin : 5 mcg+Calcium Pantothenate : 10 mg+Pyridoxine : 3 mg,,30 Capsule,13
+1852,Vit A : 5000 iu+Vit C : 100 mg+Vit E : 25 iu+Betacarotene : 25 mg+Selenium : 75 mcg+Manganese : 1.5 mg+Zinc : 27.45 mg,,30 Tablet,21.04
+1853,Vit A : 2500 iu+Vit E : 25 mg+Betacarotene : 10 mg+Manganese : 2 mg+Copper Sulphate : 1 mg+Selenium : 75 mcg+Zinc Sulphate : 61.8 mg,,10 Capsule,15.38
+1854,Betacarotene : 10 mg+Vit E : 25 mg+Vit C : 100 mg+Selenium : 150 mg+Copper : 1 mg+Zinc : 7.5 mg+Manganese : 5.4 mg,,10 Tablet,5.52
+1855,Thiamine : 5 mg+Ferrous Fumarate : 200 mg+Ascorbic Acid : 75 mg+Riboflavin : 5 mg+Folic Acid (Vit B9) : 1.5 mg+Cyanocobalamin : 5 mcg+Pyridoxine : 1.5 mg,,170 ml,5.96
+1856,Thyroid : 15 mg+Tocopheryl Acetate : 10 mg+Thiamine : 2.5 mg+Riboflavin : 2.5 mg+Nicotinamide : 25 mg+Calcium Pantothenate : 5 mg+Pyridoxine : 1 mg,,200 ml,16.32
+1857,Vit B1 : 4.5 mg+Vit B2 : 3 mg+Vit B6 : 1.5 mg+D-Panthenol : 6 mg+Cyanocobalamin : 3 mcg+Nicotinamide : 45 mg+Alcohol : 1.425 ml,,100 ml,32.64
+1858,Vit A : 316.66 iu+Vit B1 : 0.26 mg+Vit C : 4.16 mg+Calcium Lactate : 2.5 mg+Lysine : 1000 mg+Vit D3 : 25 iu+Zinc Sulphate : 1.5 mg,,10 Capsule,14.23
+1859,Ferrous Gluconate : 200 mg+Vit B12 : 2.5 mcg+Vit B1 : 2.25 mg+Vit B2 : 2.5 mg+Vit B6 : 0.75 mg+D-Panthenol : 2.5 mg+Niacinamide : 22.5 mg,,10 Capsule,7.84
+1860,Beta Carotene : 10 mg+Vit E : 25 iu+Vit C : 100 mg+Copper : 1.5 mg+Manganese : 1.5 mg+Zinc : 7.5 mg+Selenium : 150 mcg,,200 ml,8.74
+1861,Beta Carotene : 10 mg+Vit E : 25 mg+Vit C : 100 mg+Copper : 1 mg+Magnesium : 1.5 mg+Zinc : 7.5 mg+Selenium : 150 mcg,,100 ml,23.52
+1862,Thiamine Hydrochloride : 2 mg+Riboflavin : 1.80 mg+Pyridoxine Hydrochloride IP : 0.75 mg+D-Panthenol : 3 mg+Niacinamide : 15 mg+Choline Dihydrogen Citrate : 87.5 mg+Lysine : 70 mg,,15 Capsule,22.52
+1863,Silymarin : 35 mg+Thiamine Hydrochloride : 1.5 mg+Pyridoxine Hydrochloride IP : 1.5 mg+Niacinamide : 20 mg+D-Panthenol : 5 mg+Vit B12 : 1 mcg+Riboflavin : 1.5 mg,,100 ml,12.2
+1864,Betacarotene : 20 mg+Lutein : 8 mg+Selenium : 100 mcg+Vit C : 75 mg+Zinc Sulphate : 10 mg+Cupric Sulphate : 2 mg+Manganese Sulphate : 2 mg,,30 ml,36.64
+1865,Levocarnitine : 50 mg+Thiamine : 1 mg+Riboflavin : 1.5 mg+Pyridoxine : 0.75 mg+Cyanocobalamin : 0.5 mcg+Niacinamide : 1.5 mg+Sorbitol : 70% ,,100 ml,15.03
+1866,Levocarnitine : 50 mg+Thiamine : 1 mg+Riboflavin : 1.5 mg+Pyridoxine : 0.75 mg+Cyanocobalamin : 0.5 mcg+Niacinamide : 1.5 mg+Sorbitol : 70% ,,30 ml,14.18
+1867,Thiamine : 2 mg+Riboflavin : 2.5 mg+Pyridoxine : 0.75 mg+Nicotinamide : 15 mg+Cyanocobalamin : 2 mcg+Panthenol : 3 mg+Sorbitol : 70% ,,10 Capsule,7.3
+1868,Thiamine : 2 mg+Riboflavin : 2.5 mg+Pyridoxine : 0.75 mg+Nicotinamide : 15 mg+Cyanocobalamin : 2 mcg+Panthenol : 3 mg+Sorbitol : 70% ,,100 ml,12.53
+1869,Glutamic Acid : 100 mg+Methylcobalamin : 1500 mcg+Vit E : 25 mg+Vit B1 : 10 mg+Vit B2 : 3 mg+Dibasic Calcium Phosphate : 50 mg+Folic Acid (Vit B9) : 1 mg,,30 ml,14
+1870,Thiamine : 2 mg+Riboflavin : 1.80 mg+Pyridoxine : 0.75 mg+D-Panthenol : 3 mg+Choline Dihydrogen Citrate : 87.5 mg+Niacinamide : 15 mg+Lysine : 70 mg,,10 ml,7.55
+1871,Thiamine : 2 mg+Riboflavin : 1.80 mg+Pyridoxine : 0.75 mg+D-Panthenol : 3 mg+Choline Dihydrogen Citrate : 87.5 mg+Niacinamide : 15 mg+Lysine : 70 mg,,15 ml,7.37
+1872,Vit B1 : 1 mg+Vit B2 : 1 mg+Fungal Diastase : 33.33 mg+Pepsin : 5 mg+Niacinamide : 10 mg+Vit B12 : 1 mcg+Vit B6 : 1 mg,,50 ml,8.28
+1873,Vit B1 : 1 mg+Vit B2 : 1 mg+Fungal Diastase : 33.33 mg+Pepsin : 5 mg+Niacinamide : 10 mg+Vit B12 : 1 mcg+Vit B6 : 1 mcg,,150 ml,9.61
+1874,Vit B1 : 2 mg+Vit B2 : 2.5 mg+Vit B6 : 0.75 mg+Niacinamide : 15 mg+Cyanocobalamin : 2 mcg+D-Panthenol : 3 mg+Lysine : 375 mg,,30 ml,18.94
+1875,Vit B1 : 2 mg+Vit B2 : 2.5 mg+Vit B6 : 0.75 mg+Niacinamide : 15 mg+Cyanocobalamin : 2 mcg+D-Panthenol : 3 mg+Lysine : 375 mg,,100 ml,7.22
+1876,Vit B1 : 2 mg+Vit B2 : 2 mg+D-Panthenol : 3 mg+L-Lysine : 25 mg+Niacinamide : 15 mg+Vit B12 : 1 mcg+Vit B6 : 1 mg,,10 Capsule,12.72
+1877,Vit B1 : 2 mg+Vit B2 : 2 mg+D-Panthenol : 3 mg+L-Lysine : 25 mg+Niacinamide : 15 mg+Vit B12 : 1 mcg+Vit B6 : 1 mg,,6 Capsule,9.9
+1878,Vit E : 200 mg+Vit C : 150 mg+EPA (Eicosapentaenoic Acid) : 90 mg+DHA (Decosahexanoic Acid) : 60 mg+Zinc : 15 mg+Chromium (Chromic) : 65 mcg+Selenium : 60 mcg,,3 ml,6.78
+1879,Beta Carotene : 6 mg+Vit C : 150 mg+Vit E : 25 mg+Zinc : 40 mg+Selenium : 40 mcg+Copper : 2 mg+Manganese : 5 mg,,11 ml,4.97
+1880,Thiamine : 100 mg+Riboflavin : 5 mg+Pyridoxine : 100 mg+Cyanocobalamin : 1000 mcg+Nicotinamide : 100 mg+D-Panthenol : 50 mg+Benzyl Alcohol : 1% w/v,,15 ml,15.94
+1881,Thiamine Hydrochloride : 50 mg+Riboflavin : 2 mg+Pyridoxine Hydrochloride IP : 2 mg+Cyanocobalamin : 50 mcg+Niacinamide : 100 mg+D-Panthenol : 5 mg+Benzyl Alcohol : 2% v/v,,200 ml,7.46
+1882,Pepsin : 5 mg+Diastase : 6 mg+Thiamine : 1 mg+Riboflavin : 1 mg+Pyridoxine : 1 mg+Cyanocobalamin : 1 mcg+Cyproheptadine : 0.5 mg,,100 ml,18.86
+1883,Vit B1 : 2 mg+Vit B2 : 2.5 mg+Vit B6 : 0.75 mg+Niacinamide : 15 mg+Cyanocobalamin : 1 mcg+D-Panthenol : 3 mg+Lysine : 375 mg,,200 ml,12.56
+1884,Thiamine : 2 mg+Riboflavin : 1 mg+Pyridoxine : 1.5 mg+D-Panthenol : 1.5 mg+Niacinamide : 15 mg+Fungal Diastase : 18.75 mg+Pepsin : 12.5 mg,,450 ml,19.26
+1885,Thiamine : 2.5 mg+Riboflavin : 2.5 mg+Vit B6 : 1 mg+Cyanocobalamin : 5 mcg+Niacinamide : 25 mg+Alcohol : 1.58 ml,,10 ml,47.4
+1886,Vit A : 1000 iu+Vit D : 75 iu+Thiamine : 0.75 mg+Riboflavin : 0.75 mg+Ferric Ammonium Citrate : 47.50 mg+Niacinamide : 10 mg,,10 Capsule,11.6
+1887,Thiamine : 10 mg+Riboflavin : 3 mg+Vit B6 : 5 +Niacinamide : 100 mg+Cyanocobalamin : 25 mcg+Liver Inj.Crude I.P : 0.66 ml+Phenol : 0.5% w/v,,10 Capsule,7.9
+1888,Vit B1 : 4.5 mg+Vit B2 : 5 mg+Vit B6 : 1.5 mg+Vit B12 : 5 mcg+Niacinamide : 45 mg+D-Panthenol : 5 mg+Folic Acid (Vit B9) : 1 mg+Vit C : 75 mg,,30 Capsule,8.58
+1889,Vit B1 : 4.5 mg+Vit B2 : 5 mg+Vit B6 : 1.5 mg+Vit B12 : 5 mcg+Niacinamide : 45 mg+Vit E : 15 mg+Vit C : 75 mg+Zinc : 22.5 mg,,100 ml,20.76
+1890,Zinc Sulphate : 25 mg+Iron : 50 mg+Calcium : 72 mg+Vit B2 : 2 mg+Vit B6 : 1 mg+Vit C : 35 mg+Vit B12 : 1 mcg+Folic Acid (Vit B9) : 0.3 mg,,10 Tablet,22.33
+1891,Aspirin : 10 mg+Vit B1 : 1.5 mg+Vit B2 : 1.5 mg+Niacinamide : 20 mg+Panthenol : 5 mg+Silymarin : 35 mg+Vit B12 : 1 mcg+Vit B6 : 1.5 mg,,10 Tablet,4.95
+1892,Vit B1 : 5 mg+Vit B2 : 5 mg+Vit B6 : 3 mg+Vit C : 40 mg+Sodium Feredetate : 231 mg+Folic Acid (Vit B9) : 0.5 mg+L-Lysine : 25 mg+Zinc Sulphate : 50 mg,,10 ml,8.75
+1893,Pepsin : 12.5 mg+Fungal Diastase : 750 mg+Thiamine : 2 mg+Riboflavin : 1 mg+Pyridoxine : 1.5 mg+Niacinamide : 15 +Calcium Pantothenate : 2.5 mg+Cyanocobalamin : 1 mcg,,30 ml,9.38
+1894,Vit A : 2500 iu+Vit B1 : 0.5 mg+Vit B2 : 0.5 mg+Vit B6 : 0.5 mg+Vit C : 25 mg+Cholecalciferol : 200 iu+Niacinamide : 5 mg+D-Pantothenate : 1.5 mg,,30 ml,15.65
+1895,Vit A : 2500 iu+Vit B1 : 0.5 mg+Vit B2 : 0.5 mg+Vit B6 : 0.5 mg+Vit C : 25 mg+Cholecalciferol : 200 iu+Niacinamide : 5 mg+D-Pantothenate : 1.5 mg,,500 ml,10.92
+1896,Vit A : 1000 iu+Vit B1 : 1 mg+Vit B2 : 0.6 mg+Ferrous Gluconate : 17.14 mg+Vit B12 : 1 mcg+Vit B6 : 0.6 mg+Vit D3 : 200 iu+Zinc Gluconate : 6.97 mg,,10 Capsule,45.2
+1897,Sodium Ascorbate : 10 mg+Vit A : 1250 iu+Vit B1 : 1 mg+Vit B2 : 1 mg+Vit C : 15 mg+Calcium Lactate : 100 mg+Niacinamide : 13 mg+Vit D3 : 100 iu,,200 ml,7.97
+1898,Vit A : 5000 iu+Vit E : 15 iu+Vit C : 75 mg+Zinc Sulphate : 7.5 mg+Copper Sulphate : 1 mg+Manganese Sulphate : 15 mg+Beta Carotene : 10 mg+Selenium : 150 mcg,,200 ml,44.78
+1899,Protein Hydrolysate : 1 gm+Vit B1 : 2 mg+Vit B2 : 1 mg+Vit B6 : 1 mg+Cyanocobalamin : 7.5 mcg+Ferric Ammonium Citrate : 200 mg+L-Lysine : 2.5 mg+Zinc Sulphate : 40 mg,,30 Tablet,25.98
+1900,Zinc Gluconate : 34.9 mg+Vit B1 : 2.5 mg+Vit B2 : 2.5 mg+Vit B6 : 1 mg+Vit B12 : 3 mcg+Vit C : 50 mg+D-Panthenol : 12.5 mg+Niacinamide : 25 mg,,100 ml,279.22
+1901,Beta Carotene : 10000 iu+Vit C : 300 mg+Vit E : 100 iu+Vit B2 : 20 mg+Selenium : 50 mcg+Zinc : 40 mg+Copper : 2 mg+Lutein : 4 mcg,,30 ml,13.75
+1902,Diastase : 20 mg+Pepsin : 20 mg+Thiamine : 1 mg+Riboflavin : 1 mg+Pyridoxine : 0.5 mg+Niacinamide : 15 mg+D-Panthenol : 2 mg+Cyanocobalamin : 0.5 mg,,30 ml,7.65
+1903,Diastase : 20 mg+Pepsin : 20 mg+Thiamine : 1 mg+Riboflavin : 1 mg+Pyridoxine : 0.5 mg+Niacinamide : 15 mg+D-Panthenol : 2 mg+Cyanocobalamin : 0.5 mg,,100 ml,7.34
+1904,Vit A : 3000 iu+Vit D3 : 400 iu+Vit B1 : 1.5 mg+Vit B2 : 1.2 mg+Vit C : 50 mg+Vit B6 : 1 mg+Vit B12 : 3 mg+Nicotinamide : 10 mg,,10 Capsule,14.3
+1905,Vit A : 3000 iu+Vit D3 : 400 iu+Vit B1 : 1.5 mg+Vit B2 : 1.2 mg+Vit C : 50 mg+Vit B6 : 1 mg+Vit B12 : 3 mg+Nicotinamide : 10 mg,,10 ml,8.63
+1906,Glutamic Acid : 100 mg+Methylcobalamin : 500 mcg+Vit E : 25 mg+Vit B1 : 10 mg+Vit B2 : 3 mg+Vit B6 : 1.5 mg+Dibasic Calcium Phosphate : 50 mg+Folic Acid (Vit B9) : 1 mg,,200 ml,5.67
+1907,Vit A : 1000 iu+Vit D3 : 100 iu+Thiamine : 5 mg+Riboflavin : 1.4 mg+Pyridoxine : 1.5 mg+Vit E : 0.5 mg+Nicotinamide : 10 mg+D-Panthenol : 2.5 mg,,200 ml,19.22
+1908,Vit B1 : 2.5 mg+Vit B2 : 2.5 mg+Vit B6 : 1 mg+D-Panthenol : 3 mg+Nicotinamide : 25 mg+Ferrous Gluconate : 0.1 gm+Cyanocobalamin : 6.75 mcg+Yeast : 25 mg,,200 ml,27.58
+1909,Iron : 20 mg+Protein : 0.33 gm+Vit B2 : 2.5 mg+Vit B1 : 2.25 mg+Vit B12 : 2.5 mcg+Folic Acid (Vit B9) : 0.5 mg+Vit B6 : 0.75 mg+Zinc Sulphate : 5 mg,,30 ml,18.62
+1910,Thiamine : 0.33 mg+Riboflavin : 0.17 mg+Ferrous Gluconate : 13.33 mg+Folic Acid (Vit B9) : 50 mcg+Niacinamide : 3.34 mg+Cyanocobalamin : 0.16 mcg+Protein Hydrolysate : 0.34 mg+Pyridoxine : 0.17 mg,,15 ml,7.64
+1911,Vit A : 750 iu+Vit D3 : 200 iu+Vit B1 : 0.5 mg+Vit B2 : 0.5 mg+Niacinamide : 5 mg+Vit B6 : 0.5 mg+Choline Chloride : 3.46 mg+Zinc Gluconate : 2.5 mg,,30 Tablet,8.8
+1912,Vit A : 8330 iu+Vit D : 667 iu+Vit B1 : 1.67 mg+Vit B2 : 1.67 mg+Vit B3 : 16.7 mg+Vit B5 : 5 mg+Vit B6 : 1.67 mg+Vit C : 83 mg,,15 ml,275.84
+1913,Vit A : 10000 iu+Vit C : 300 mg+Vit E : 100 iu+Vit B2 : 20 mg+Selenium : 50 mcg+Zinc : 40 mg+Copper : 2 mg+Lutein : 4 mcg,,10 Tablet,8.06
+1914,Aspirin : 10 mg+Vit B1 : 1 mg+Vit B2 : 2 mg+Cyproheptadine Hcl : 0.5 mg+Fungal Diastase : 6 mg+Niacinamide : 10 mg+Pepsin : 5 mg+Vit B12 : 1 mcg+Vit B6 : 1 mg,,10 Capsule,8.2
+1915,Vit B1 : 10 mg+Vit E : 25 mg+Alpha Lipoic Acid : 50 mg+Calcium Phosphate : 50 mg+Inositol : 50 mg+Light Magnesium Oxide : 10 mg+Mecobalamin : 750 mcg+Niacinamide : 50 mg+Vit B6 : 3 mg,,10 Capsule,19.24
+1916,Vit B6 : 12 mg+Vit B12 : 10 mcg+Lycopene : 3 mg+Folic Acid (Vit B9) : 375 mcg+Dl-Methionine : 25 mg+Choline : 5 mg+Vit C : 150 mg+Vit E : 9.3 mg+Selenium : 25 mcg,,100 ml,12.81
+1917,Vit C : 100 mg+Vit E : 25 iu+Chromium Picolinate : 65 mcg+Folic Acid (Vit B9) : 1.5 mg+Lycopene : 8000 mcg+Methylcobalamin : 1500 mcg+Natural Carotenoids : 2500 iu+Selenium : 60 mcg+Vit B6 : 10 mg,,100 ml,14.44
+1918,Vit A : 2000 iu+Cholecalciferol : 150 iu+Vit B1 : 1.5 mg+Vit B2 : 2 ml+Nicotinamide : 20 mg+Calcium : 85 mg+Calcium Citrate : 500 mg+Folic Acid (Vit B9) : 0.3 mg+Lysine : 200 mg,,100 ml,19.93
+1919,Vit B2 : 2.5 mg+Calcium Gluconate : 10 mg+D-Panthenol : 2.5 mg+Ferrous Gluconate : 100 mg+Folic Acid (Vit B9) : 0.5 mg+Niacinamide : 25 mg+Protein Hydrolysate : 0.5 gm+Vit B12 : 2.5 mcg+Vit B6 : 1 mg,,30 ml,16.18
+1920,Vit A : 5000 iu+Vit B1 : 3.75 mg+Vit B2 : 3.75 mg+Vit B6 : 1.25 mg+Vit B12 : 5 mcg+Vit C : 62.5 mg+Vit D3 : 400 iu+Niacinamide : 25 mg+Sodium Pantothenate : 6.25 mg,,30 ml,9.93
+1921,Vit B2 : 2.5 mg+Calcium Gluconate : 10 mg+D-Panthenol : 2.5 mg+Ferrous Gluconate : 100 mg+Folic Acid (Vit B9) : 0.5 mg+Niacinamide : 25 mg+Protein Hydrolysate : 0.5 gm+Vit B12 : 2.5 mcg+Vit B6 : 1 mg,,20 ml,8.21
+1922,Vit A : 5000 iu+Vit B1 : 3.75 mg+Vit B2 : 3.75 mg+Vit B6 : 1.25 mcg+Vit B12 : 5 mcg+Vit C : 62.5 mg+Vit D3 : 400 iu+Niacinamide : 25 mg+Sodium Pantothenate : 6.25 mg,,10 Capsule,6.96
+1923,Vit A : 750 iu+Cholecalciferol : 200 iu+Vit B1 : 0.5 mg+Vit B2 : 0.5 mg+Vit B6 : 0.5 mg+Nicotinamide : 5 mg+Calcium : 17 mg+Iron : 5 mg+Lysine : 40 mg,,10 Capsule,9.06
+1924,Vit E : 25 iu+Vit C : 150 mg+Beta Carotene : 400 iu+Chromic Chloride : 50 mcg+Copper : 2 mg+Lutein : 6 mg+Manganese : 1.5 mg+Selenium : 75 mcg+Zinc Sulphate : 15 mg,,100 ml,7.49
+1925,Vit A : 2500 iu+Vit B1 : 10 mg+Vit B2 : 10 mg+Vit C : 50 mg+Vit E : 10 iu+Methylcobalamin : 500 mcg+Sodium Selenite : 70 mcg+Vit B6 : 3 mg+Zinc : 27.45 mg,,100 ml,15.99
+1926,Vit A : 4000 iu+Vit B1 : 4 mg+Vit B2 : 4 mg+Vit C : 50 mg+Vit E : 7.5 mg+Cholecalciferol : 300 iu+Nicotinamide : 25 mg+Vit B12 : 5 mcg+Vit B6 : 1 mg,,30 Tablet,15.98
+1927,Vit A : 2500 iu+Vit B1 : 2 mg+Vit B2 : 1.5 mg+Vit C : 50 mg+Vit E : 50 mg+Lysine : 100 mg+Niacinamide : 15 mg+Vit B6 : 1 mg+Vit D3 : 200 iu,,15 ml,273.03
+1928,Vit A : 10000 iu+Vit B2 : 10 mg+Vit B6 : 10 mg+Vit C : 300 mcg+Vit E : 100 iu+Copper : 2 mg+Selenium : 500 mcg+Zexanthin : 4 mcg+Zinc Gluconate : 40 mg,,30 Capsule,10.93
+1929,Vit A : 5000 iu+Vit B1 : 1.5 mg+Vit B2 : 1.2 mg+Vit C : 50 mg+Cholecalciferol : 400 iu+Ferrous Gluconate : 2 mg+Nicotinamide : 10 mg+Vit B6 : 1 mg+Zinc Sulphate : 1.05 mg,,30 ml,44.67
+1930,Vit E : 400 iu+Vit C : 150 mg+Vit B6 : 10 mg+Folic Acid (Vit B9) : 1.5 mg+Vit B2 : 500 mcg+Chromium (Chromic) : 200 mcg+Zinc Sulphate : 20 mg+Magnesium : 50 mg+Selenium : 100 mcg,,120 ml,18.76
+1931,Protein Hydrolysate : 1 gm+Thiamine Hydrochloride : 5 mg+Riboflavin : 2.5 mg+Pyridoxine Hydrochloride IP : 1.5 mg+Niacinamide : 30 mg+Manganese Chloride : 0.1 mg+Magnesium Chloride : 10 mg+Carbohydrate : 8 gm+L-Lysine : 25 mg,,120 ml,32.17
+1932,Thiamine : 5 mg+Riboflavin : 5 mg+Nicotinic Acid : 5 mg+Niacinamide : 45 mg+Pyridoxine : 1.5 mg+D-Panthenol : 5 mg+Vit B12 : 7 mcg+Vit C : 75 mg+Lysine : 300 mg,,200 ml,26.1
+1933,Vit A : 12.7 mcg+Vit B1 : 5 mg+Vit B2 : 5 mg+Vit C : 75 mcg+Lysine : 300 mcg+Niacinamide : 45 mg+Nicotinic Acid : 5 mg+D-Panthenol : 5 mg+Vit B6 : 1.5 mg,,30 ml,37.76
+1934,Thiamine : 5 mg+Riboflavin : 5 mg+Nicotinic Acid : 5 mg+Niacinamide : 45 mg+Pyridoxine : 1.5 mg+D-Panthenol : 5 mg+Vit B12 : 7 mcg+Vit C : 75 mg+Lysine : 300 mg,,200 ml,8.16
+1935,Vit A : 750 iu+Cholecalciferol : 200 iu+Riboflavin : 0.5 mg+Thiamine : 0.5 mg+Pyridoxine : 0.5 mg+Zinc Sulphate : 11 mg+Nicotinamide : 5 mg+Inositol : 7.5 mg+Choline Chloride : 3.46 mg,,200 ml,26.77
+1936,Protein Hydrolysate : 1 mg+Ferrous Gluconate : 50 mg+Carbohydrate : 7.5 gm+Folic Acid (Vit B9) : 100 mcg+Vit B6 : 0.5 mg+Vit B1 : 1 mg+Vit B2 : 1 mg+Vit B12 : 0.5 mcg,,30 ml,26.82
+1937,Vit A : 1250 iu+Vit D3 : 125 iu+Vit B1 : 2 mg+Vit B6 : 0.5 mg+Niacinamide : 12.5 mg+Potassium Guaiacol Sulfonate : 20 mg+Creasol : 0.003 ml+Calcium Hypophosphate : 10 mg+Sodium Hydroxide : 10 mg,,30 ml,7.78
+1938,Vit A : 750 iu+Cholecalciferol : 0.5 mg+Thiamine : 0.5 mg+Riboflavin : 0.5 mg+Nicotinamide : 5 mg+Pyridoxine : 0.5 mg+Inositol : 7.5 mg+Choline Chloride : 3.46 mg+Zinc Sulphate : 11 mg,,100 ml,7.35
+1939,Vit A : 4000 iu+Vit D3 : 400 iu+Thiamine : 3 mg+Riboflavin : 1.2 mg+Nicotinamide : 25 mg+D-Panthenol : 5 mg+Pyridoxine : 1 mg+Ascorbic Acid : 50 mg+Cyanocobalamin : 3 mcg,,30 ml,13.34
+1940,Vit A : 4000 iu+Vit D3 : 400 iu+Thiamine : 3 mg+Riboflavin : 1.2 mg+Nicotinamide : 25 mg+D-Panthenol : 5 mg+Pyridoxine : 1 mg+Ascorbic Acid : 50 mg+Cyanocobalamin : 3 mcg,,200 ml,9.7
+1941,Aspirin : 10 mg+Biotin : 10 mcg+Choline Chloride : 20 mg+Folic Acid (Vit B9) : 0.1 mg+Lysine : 10 mg+Niacinamide : 10 mg+Panthenol : 1 mg+Vit B12 : 2 mcg+Vit B6 : 1 mg+Zinc Sulphate : 13.3 mg,,30 Capsule,28.41
+1942,Vit B1 : 0.84 mg+Vit B2 : 0.84 mg+Vit E : 2.5 mg+Elemental Iron : 5 mg+Niacinamide : 8.33 mg+Panthenol : 1.67 mg+Soya Protein : 2.5 gm+Vit B12 : 1.67 mcg+Vit B6 : 0.5 mg+Zinc Sulphate : 2.5 mg,,30 Capsule,15.74
+1943,Dried Ferrous Sulphate : 155 mg+Pyridoxine : 3 mg+Folic Acid (Vit B9) : 1.5 mg+Cyanocobalamin : 15 mcg+Ascorbic Acid : 7.5 mg+Zinc : 20 mg+Copper : 2.5 mg+Selenium : 65 mcg+Iodine : 150 mcg+Manganese : 2.5 mg,,200 ml,24.66
+1944,Vit A : 10000 iu+Vit D3 : 500 iu+Vit B1 : 10 mg+Vit B2 : 5 mg+Vit B6 : 3 mg+Folic Acid (Vit B9) : 1.5 mg+Calcium Pantothenate : 10 mg+Nicotinamide : 50 mg+Vit C : 150 mg+Vit E : 15 mg,,30 ml,39.34
+1945,Vit B1 : 1 mg+Vit B2 : 1.5 mg+Folic Acid (Vit B9) : 150 mcg+Iron Choline Citrate : 100 mg+Niacinamide : 15 mg+D-Panthenol : 2.5 mg+Protein Hydrolysate : 1 gm+Vit B12 : 0.5 mcg+Vit B6 : 1 mg+Zinc Sulphate : 5 mg,,100 ml,6.82
+1946,Calcium Pantothenate : 2.5 mg+Vit A : 1600 iu+Vit B1 : 1.5 mg+Vit B2 : 1.5 mg+Ferrous Gluconate : 26 mg+Nicotinamide : 10 mg+Vit B12 : 1 mcg+Vit B6 : 1 mg+Vit D3 : 200 iu+Zinc Sulphate : 44 mg,,200 ml,12.56
+1947,Calcium Pantothenate : 2.5 mg+Vit A : 1600 iu+Vit B1 : 1.5 mg+Vit B2 : 1.5 mg+Ferrous Gluconate : 26 mg+Nicotinamide : 10 mg+Vit B12 : 1 mcg+Vit B6 : 1 mg+Vit D3 : 200 iu+Zinc Sulphate : 44 mg,,15 ml,21.46
+1948,Vit A : 2500 iu+Vit B1 : 2.5 mg+Vit B2 : 2.5 mg+Vit E : 10 mg+Lysine : 10 mg+Niacinamide : 25 mg+D-Panthenol : 2.5 mg+Vit B12 : 3 mcg+Vit B6 : 1 mg+Vit D : 200 iu,,15 ml,8.4
+1949,Vit A : 3000 iu+Vit B1 : 1 mg+Vit B2 : 1 mg+Vit E : 5 mg+Vit D3 : 300 iu+Lysine : 10 mg+Niacinamide : 10 mg+D-Panthenol : 300 mg+Cyanocobalamin : 2 mcg+Vit B6 : 1.5 mg,,10 Capsule,10.44
+1950,Vit A : 5000 iu+Vit B1 : 2 mg+Vit B2 : 5 mg+Vit C : 80 mg+Vit E : 5 mg+Lysine : 100 mg+Niacinamide : 20 mg+Vit B6 : 2 mg+Vit D3 : 400 iu+Phosphate : 2 mg,,10 ml,11.71
+1951,L-Arginine : 25 mg+Vit E : 25 mg+Betacarotene : 6 mg+Lycopene : 10 mg+Zinc Oxide : 7.5 mg+Lutein : 7 mg+Copper Sulphate : 1.0 mg+Manganese Sulphate : 1.0 mg+Methylcobalamin : 500 mcg+Selenious Acid : 100 mcg,,15 ml,8.37
+1952,Vit A : 2750 iu+Cholecalciferol : 250 iu+Tocopheryl Acetate : 5 mg+Thiamine : 1 mg+Riboflavin : 1 mg+D-Panthenol : 2.5 mg+Nicotinamide : 10 mg+Ascorbic Acid : 40 mg+Zinc Sulphate : 13.3 mg+Pyridoxine : 1 mg,,2 ml,9.47
+1953,Vit A : 2750 iu+Cholecalciferol : 250 iu+Tocopheryl Acetate : 5 mg+Thiamine : 1 mg+Riboflavin : 1 mg+D-Panthenol : 2.5 mg+Nicotinamide : 10 mg+Ascorbic Acid : 40 mg+Zinc Sulphate : 13.3 mg+Pyridoxine : 1 mg,,10 ml,3.72
+1954,Vit B1 : 100 mg+Vit B2 : 5 mg+Choline Chloride : 10 mg+D-Panthenol : 10 mg+Dl-Methionine : 10 mg+Inositol : 5 mg+Niacinamide : 100 mg+Vit B12 : 100 mcg+Vit B6 : 5 mg+Benzyl Alcohol : 1% v/v,,10 ml,6.12
+1955,Vit A : 1100 iu+Cholecalciferol : 100 iu+Tocopheryl Acetate : 0.50 mg+Thiamine : 5 mg+Pyridoxine : 1.65 mg+Riboflavin : 1.40 mg+Ascorbic Acid : 50 mg+Nicotinamide : 10 mg+D-Panthenol : 2.5 mg+Benzyl Alcohol : 1% w/v,,10 ml,9.29
+1956,Vit A : 3000 iu+Vit E : 5 mg+Vit D : 400 iu+Vit B2 : 1 mg+Vit B1 : 2 mg+Vit B3 : 10 mg+Vit B5 : 5 mg+Vit B6 : 3 mg+Vit C : 40 mg,,15 ml,8.19
+1957,Vit A : 3000 iu+Vit D3 : 400 iu+Vit E : 5 iu+Vit B1 : 2 mg+Vit B2 : 1 mg+Vit B6 : 1 mg+Vit C : 40 mg+Zinc : 2.5 mg+D-Panthenol : 3 mg+Nicotinamide : 10 mg,,100 ml,9.2
+1958,Vit A : 3000 iu+Vit D3 : 400 iu+Vit E : 5 iu+Vit B1 : 2 mg+Vit B2 : 1 mg+Vit B6 : 1 mg+Vit C : 40 mg+Zinc : 2.5 mg+D-Panthenol : 3 mg+Nicotinamide : 10 mg,,10 ml,15.79
+1959,Vit A : 2500 iu+Vit D : 200 iu+Vit B1 : 2 mg+Vit B2 : 1 mg+Vit B6 : 1 mg+Niacinamide : 15 mg+Vit C : 50 mg+Vit B12 : 1 mcg+D-Panthenol : 2.5 mg+Citrus Bioflavonoid : 5 mg,,11 ml,7.97
+1960,Vit A : 2500 iu+Vit D : 200 iu+Vit E : 2.5 iu+Vit B1 : 0.5 mg+Vit B2 : 0.5 mg+Vit B6 : 0.5 mg+Vit C : 25 mg+Nicotinamide : 1.5 mg+Zinc Sulphate : 2.5 mg+Sodium Pantothenate : 1.5 mg,,2 ml,22.32
+1961,Thiamine : 100 mg+Riboflavin : 50 mg+Pyridoxine : 5 mg+Niacinamide : 100 mg+D-Panthenol : 10 mg+Choline Chloride : 10 mg+Dl-Methionine : 10 mg+Inositol : 5 mg+Chlorocresol : 0.1% w/v+Benzyl Alcohol : 3.0% v/v,,30 Tablet,4.46
+1962,Thiamine : 100 mg+Riboflavin : 5 mg+Pyridoxine : 5 mg+Niacinamide : 100 mg+D-Panthenol : 10 mg+Choline Chloride : 10 mg+Dl-Methionine : 10 mg+Inositol : 5 mg+Cyanocobalamin : 100 mcg+Benzyl Alcohol : 1.0% v/v,,200 ml,11.7
+1963,Iron : 25 mg+Calcium : 85 mg+Vit B2 : 2 mg+Vit B6 : 1 mg+Vit C : 35 mg+Vit B12 : 1 mcg+Folic Acid (Vit B9) : 0.3 mg+Calcium Carbonate : 1107 mg+Dibasic Calcium Phosphate : 200 mg+Vit D3 : 200 iu+Magnesium : 90 mg,,18 Capsule,21.06
+1964,Aspirin : 10 mg+Biotin : 30 mcg+Copper Sulphate : 100 mcg+Folic Acid (Vit B9) : 0.05 mg+Lysine : 5 mg+Niacinamide : 7.5 mg+Panthenol : 0.5 mg+Potassium Iodide : 50 mcg+Vit B12 : 0.5 mcg+Vit B6 : 0.5 mg+Zinc Sulphate : 22.2 mg,,30 Capsule,8.44
+1965,Iron : 50 mg+Folic Acid (Vit B9) : 0.53 mg+Calcium : 500 mg+Vit D3 : 225 iu+Vit E : 10 mg+Vit C : 50 mg+Vit B2 : 2 mg+Vit B6 : 1.6 mg+Vit B12 : 1 mcg+Zinc : 25 mg+Magnesium : 5 mg,,100 ml,19.49
+1966,Vit C : 75 mg+Copper Sulphate : 0.8 mg+Dried Ferrous Sulphate : 150 mg+Ferrous Fumarate : 75 mg+Folic Acid (Vit B9) : 1 mg+Glycine : 10 mg+L-Histidine : 4 mg+L-Lysine : 25 mg+Vit B12 : 6.25 mcg+Vit B6 : 1.5 mg+Zinc Sulphate : 15 mg,,200 ml,17.1
+1967,Vit B1 : 2 mg+Vit B2 : 5 mg+Vit C : 25 mg+Iron Choline Citrate : 25 mg+Niacinamide : 15 mg+D-Panthenol : 1 mg+Protein Hydrolysate : 0.5 gm+Vit B12 : 1 mcg+Vit B6 : 0.5 mg+Lysine : 25 mg+Phosphate : 1.5 mg,,15 ml,21.26
+1968,Calcium D-Pantothenate : 2 mg+Vit A : 20000 iu+Vit B1 : 1.5 mg+Vit B2 : 1 mg+Vit C : 25 mg+Vit E : 5 mg+Niacinamide : 15 mg+Vit B12 : 1 mcg+Vit B6 : 1 mg+Vit D3 : 150 iu+Zinc Sulphate : 2 mg,,100 ml,8.86
+1969,Vit A : 2500 iu+Vit E : 2.5 iu+Vit D : 200 iu+Vit C : 40 mg+Vit B1 : 1 mg+Vit B2 : 1 mg+Vit B6 : 0.5 mg+Niacinamide : 10 mg+D-Panthenol : 1 mg+Zinc Sulphate : 13.3 mg+Lysine : 10 mg,,100 ml,15.85
+1970,Vit A : 1600 iu+Cholecalciferol : 150 iu+Thiamine : 2 mg+Riboflavin : 2 mg+Pyridoxine : 1.5 mg+D-Panthenol : 5 mg+Nicotinic Acid : 5 mg+Niacinamide : 15 mg+Zinc Gluconate : 79 mg+Calcium Hypophosphate : 82 mg+Calcium Lactate : 158 mg,,5 ml,17.5
+1971,Vit A : 1250 iu+Cholecalciferol : 100 iu+Vit B1 : 0.75 mg+Vit B2 : 1.5 mg+Vit B6 : 0.5 mg+Nicotinamide : 7.5 mg+D-Panthenol : 1.25 mg+Biotin : 30 mcg+Lysine : 70 mg+Elemental Zinc : 10 mg+Elemental Selenium : 20 mcg,,15 ml,6.49
+1972,Vit A : 2500 iu+Vit E : 25 iu+Vit D : 200 iu+Vit B1 : 1 mg+Vit B2 : 1 mg+Vit B6 : 0.5 mg+Niacinamide : 10 mg+D-Panthenol : 1 mg+Vit C : 40 mg+Zinc Sulphate : 13 mg+L-Lysine : 10 mg,,30 ml,9.09
+1973,Vit A : 2500 iu+Vit E : 25 iu+Vit D : 200 iu+Vit B1 : 1 mg+Vit B2 : 1 mg+Vit B6 : 0.5 mg+Niacinamide : 10 mg+D-Panthenol : 1 mg+Vit C : 40 mg+Zinc Sulphate : 13 mg+L-Lysine : 10 mg,,100 ml,7.82
+1974,Vit A : 2500 iu+Cholecalciferol : 200 iu+Tocopheryl Acetate : 5 mg+Thiamine : 2 mg+Riboflavin : 1.2 mg+Pyridoxine : 1 mg+D-Panthenol : 2.5 mg+Cyanocobalamin : 1 mcg+Nicotinamide : 20 mg+Ascorbic Acid : 50 mg+Zinc Sulphate : 22.2 mg,,30 Capsule,14.84
+1975,Vit A : 2500 iu+Cholecalciferol : 200 iu+Tocopheryl Acetate : 5 mg+Thiamine : 2 mg+Riboflavin : 1.2 mg+Pyridoxine : 1 mg+D-Panthenol : 2.5 mg+Cyanocobalamin : 1 mcg+Nicotinamide : 20 mg+Ascorbic Acid : 50 mg+Zinc Sulphate : 22.2 mg,,10 Capsule,19.44
+1976,Ferrous Fumarate : 150 mg+Zinc Sulphate : 50 mg+L-Histidine : 4 mg+L-Lysine : 25 mg+Glycine : 10 mg+Thiamine : 5 mg+Riboflavin : 3 mg+Pyridoxine : 1.5 mg+Methylcobalamin : 500 mcg+Folic Acid (Vit B9) : 0.5 mg+Ascorbic Acid : 40 mg,,30 ml,5.08
+1977,Thiamine : 5 mg+Riboflavin : 3 mg+Pyridoxine : 1.5 mg+Cyanocobalamin : 2.5 mcg+Ascorbic Acid : 40 mg+Ferrous Fumarate : 150 mg+Glycine : 10 mg+L-Lysine : 25 mg+L-Histidine : 4 mg+Folic Acid (Vit B9) : 0.5 mg+Zinc Sulphate : 50 mg,,30 ml,8.08
+1978,Vit A : 2500 iu+Vit D : 200 iu+Vit B1 : 2 mg+Vit B2 : 1 mg+Vit B6 : 1 mg+Niacinamide : 15 mg+Vit C : 50 mg+Vit B12 : 1 mcg+D-Panthenol : 2.5 mg+Citrus Bioflavonoid : 5 mg,,100 ml,8.3
+1979,Vit A : 3000 iu+Vit D : 400 iu+Vit B1 : 1.5 mg+Vit B2 : 1.2 mg+Vit B6 : 1 mg+Vit B12 : 3 mcg+L-Lysine : 300 mg+Choline Bitartrate : 5 mg+Inositol : 5 mg+Vit C : 50 mg+Nicotinamide : 10 mg,,30 ml,16.45
+1980,Vit A : 3000 iu+Vit D : 400 iu+Vit B1 : 1.5 mg+Vit B2 : 1.2 mg+Vit B6 : 1 mg+Vit B12 : 3 mcg+Vit C : 50 mg+L-Lysine : 300 mg+Choline Bitartrate : 5 mg+Inositol : 5 mg+Nicotinamide : 10 mg,,100 ml,7.56
+1981,Vit A : 2500 iu+Vit B1 : 2 mg+Vit B2 : 3 mg+Vit C : 50 mg+Vit E : 10 iu+Copper : 500 mcg+Iodine : 100 mcg+Lycopene : 1000 mcg+Manganese Gluconate : 2 mg+Selenium : 35 mcg+Vit B6 : 1.5 mg+Zinc Gluconate : 3 mg,,10 ml,13.88
+1982,Vit A : 2500 iu+Vit B1 : 2 mg+Vit B2 : 3 mg+Vit C : 50 mg+Vit E : 10 iu+Copper : 500 mcg+Iodine : 100 mcg+Lycopene : 1000 mcg+Manganese Gluconate : 2 mg+Selenium : 35 mcg+Vit B6 : 1.5 mg+Zinc Gluconate : 3 mg,,200 ml,10.35
+1983,Vit A : 4000 iu+Vit B1 : 10 mg+Vit B2 : 2 mg+Vit E : 10 mg+Choline Chloride : 50 mg+D-Panthenol : 10 mg+Folic Acid (Vit B9) : 0.1 mg+Niacinamide : 20 mg+Taurine : 10 mg+Vit B6 : 10 mg+Vit D3 : 8000 iu+Vit K3 : 1 mg,,10 ml,25.54
+1984,Lycopene : 1000 mcg+Vit A : 2500 iu+Vit E : 10 iu+Vit C : 50 mg+Selenium : 35 mcg+Zinc : 3 mg+Manganese : 2 mg+Iodine : 100 mcg+Copper : 500 mcg+Vit B1 : 2 mg+Vit B2 : 3 mg+Vit B6 : 1.5 mg,,15 ml,8.63
+1985,Vit C : 40 mg+Niacinamide : 10 mg+D-Panthenol : 3 mg+Vit B1 : 2 mg+Vit B2 : 1 mg+Vit B6 : 1 mg+Vit E : 1.5 mg+Vit A : 1000 iu+Vit D2 : 400 iu+Biotin : 20 mcg+Carbohydrate : 957 mg+Fat : 10 mg,,10 Capsule,9.89
+1986,Vit C : 40 mg+Niacinamide : 10 mg+D-Panthenol : 3 mg+Vit B1 : 2 mg+Vit B2 : 1 mg+Vit B6 : 1 mg+Vit E : 1.5 mg+Vit A : 1000 iu+Vit D2 : 400 iu+Biotin : 20 mcg+Carbohydrate : 957 mg+Fat : 10 mg,,10 Capsule,11.32
+1987,Vit E : 200 mg+Vit C : 100 mg+EPA (Eicosapentaenoic Acid) : 90 mg+DHA (Decosahexanoic Acid) : 60 mg+Zinc Sulphate : 7.5 mg+Folic Acid (Vit B9) : 2.5 mg+Manganese : 2 mg+Vit A : 2500 iu+Chromium (Chromic) : 100 mcg+Selenium : 40 mcg+Copper : 1 mg+Vit B6 : 1 mg,,15 ml,10.18
+1988,Vit A : 2500 iu+Vit C : 50 mg+DHA (Decosahexanoic Acid) : 100 mg+EPA (Eicosapentaenoic Acid) : 150 mg+Copper : 1 mg+Chromium (Chromic) : 0.1 mg+Folic Acid (Vit B9) : 0.3 mg+Vit E : 10 mg+Pyridoxine : 1 mg+Manganese Sulphate : 2 mg+Selenium : 0.04 mg+Zinc Sulphate : 7.5 mg,,200 ml,8.96
+1989,Vit A : 1250 iu+Vit D3 : 200 iu+Vit E : 3 mg+Thiamine : 0.5 mg+Riboflavin : 0.5 mg+Niacinamide : 5 mg+Pyridoxine : 0.5 mg+Vit C : 25 mg+Zinc : 2.5 mg+Iron : 5 mg+D-Panthenol : 3 mg+Lysine : 10 mg,,150 ml,26.44
+1990,Vit A : 2500 iu+Vit B1 : 2 mg+Vit B2 : 3 mg+Vit C : 50 mg+Vit E : 10 iu+Iodine : 100 mcg+Copper : 500 mcg+Lycopene : 3000 mcg+Manganese Gluconate : 2 mg+Methylcobalamin : 250 mcg+Selenium : 35 mcg+Vit B6 : 1.5 mg+Zinc Gluconate : 3 mg,,200 ml,24.22
+1991,Vit A : 4000 iu+Vit B1 : 3 mg+Vit B2 : 2 mg+Vit C : 25 mg+Vit E : 10 iu+Copper Sulphate : 300 mcg+Ferric Ammonium Citrate : 5 mg+Manganese : 500 mcg+Niacinamide : 25 mg+Vit B12 : 3 mcg+Vit B6 : 1 mg+Vit D3 : 400 iu+Zinc Sulphate : 5 mg,,120 ml,26.74
+1992,Vit A : 1500 iu+Vit B2 : 1.5 mg+Vit C : 30 mg+Vit E : 3 mg+Cyanocobalamin : 1.5 mcg+D-Panthenol : 2.5 mg+Ferrous Gluconate : 42.85 mg+L-Lysine : 40 mg+Manganese Gluconate : 185.41 +Niacinamide : 5 mg+Vit B6 : 1 mg+Vit D3 : 100 iu+Zinc Sulphate : 34.85 mg,,30 ml,19.19
+1993,Vit A : 2500 iu+Cholecalciferol : 150 iu+Tocopheryl Acetate : 6 mg+Thiamine : 1.5 mg+Riboflavin : 1.5 mg+Pyridoxine : 1.5 mg+D-Panthenol : 2 mg+Cyanocobalamin : 0.8 mcg+Ascorbic Acid : 40 mg+Lysine : 40 mg+Choline Dihydrogen Citrate : 30 mg+Zinc Sulphate : 25 mg+Nicotinamide : 15 mg,,100 ml,7.64
+1994,Carbohydrate : 5.4 gm+Fat : 10 mg+Ascorbic Acid : 50 mg+Niacinamide : 15 mg+Zinc Gluconate : 5 mg+D-Panthenol : 2.5 mg+Thiamine : 2 mg+Riboflavin : 1 mg+Pyridoxine : 1 mg+Vit A : 1000 iu+Vit D : 200 iu+Biotin : 30 mcg+Cyanocobalamin : 1 mcg,,10 ml,14.29
+1995,Carbohydrate : 5.4 gm+Fat : 10 mg+Ascorbic Acid : 50 mg+Niacinamide : 15 mg+Zinc Gluconate : 5 mg+D-Panthenol : 2.5 mg+Thiamine : 2 mg+Riboflavin : 1 mg+Pyridoxine : 1 mg+Vit A : 1000 iu+Vit D : 200 iu+Biotin : 30 mcg+Cyanocobalamin : 1 mcg,,15 ml,8.74
+1996,Vit C : 40 mg+Niacinamide : 10 mg+D-Panthenol : 3 mg+Zinc : 2.5 mg+Vit B1 : 2 mg+Vit B2 : 1 mg+Vit B6 : 1 mg+Vit E : 1.5 mg+Vit A : 1000 iu+Vit D2 : 400 iu+Biotin : 20 mcg+Carbohydrate : 940 mg+Fat : 10 mg,,200 ml,10.04
+1997,Vit C : 40 mg+Niacinamide : 10 mg+D-Panthenol : 3 mg+Zinc : 2.5 mg+Vit B1 : 2 mg+Vit B2 : 1 mg+Vit B6 : 1 mg+Vit E : 1.5 mg+Vit A : 1000 iu+Vit D2 : 400 iu+Biotin : 20 mcg+Carbohydrate : 940 mg+Fat : 10 mg,,15 ml,18.9
+1998,Vit A : 800 iu+Cholecalciferol : 100 iu+Vit E : 2.5 iu+Thiamine : 0.75 mg+Riboflavin : 0.75 mg+Pyridoxine : 0.5 mg+Cyanocobalamin : 0.5 mcg+D-Panthenol : 0.5 mg+Nicotinamide : 7.5 mg+L-Lysine : 5 mg+Zinc Sulphate : 22.2 mg+Potassium Iodide : 50 mcg+Copper Sulphate : 100 mcg,,10 Tablet,10.36
+1999,Vit A : 1250 iu+Cholecalciferol : 330 iu+Thiamine : 1 mg+Riboflavin : 1.37 mg+Vit E : 8 mg+Biotin : 50 mcg+Choline Chloride : 50 mg+D-Panthenol : 1.5 mg+Folic Acid (Vit B9) : 100 mcg+Inositol : 15 mg+Nicotinamide : 10 mg+Pyridoxine : 1 mg+Zinc Sulphate : 11 mg,,10 Capsule,11.22
+2000,Vit A : 2500 iu+Vit D3 : 400 iu+Vit E : 15 iu+Thiamine : 10 mg+Riboflavin : 10 mg+Pyridoxine : 2 mg+Cyanocobalamin : 7.5 mcg+Niacinamide : 50 mg+Calcium Pantothenate : 10 mg+Ascorbic Acid : 75 mg+Magnesium Sulphate : 2.8 mg+Copper Sulphate : 2 mg+Zinc Sulphate : 63 mg+Selenium : 70 mcg,,10 Tablet,6.87
+2001,Calcium D-Pantothenate : 3 mg+Beta Carotene : 5 mg+Biotin : 30 mcg+Choline Bitartrate : 10 mg+Chromium (Chromic) : 65 mcg+Copper Sulphate : 2.5 mg+Folic Acid (Vit B9) : 300 mcg+Manganese : 1.4 mg+Molybdenum : 25 mcg+Niacinamide : 15 mg+Selenium : 30 mcg+Vit B12 : 0.5 mg+Vit B6 : 1.5 mg+Zinc : 7.5 mg,,120 ml,7.32
+2002,Vit A : 5000 iu+Vit D3 : 400 iu+Vit E : 15 iu+Thiamine : 10 mg+Riboflavin : 10 mg+Pyridoxine : 2 mg+Cyanocobalamin : 7.5 mcg+Niacinamide : 50 mg+Calcium Pantothenate : 10 mg+Ascorbic Acid : 75 mg+Magnesium Oxide : 30 mg+Copper : 2 mg+Zinc Sulphate : 63 mg+Selenium : 70 mcg,,10 Tablet,14.28
+2003,Vit A : 800 iu+Cholecalciferol : 50 iu+Thiamine : 0.60 mg+Riboflavin : 1 mg+Pyridoxine : 0.5 mg+Nicotinamide : 8 mg+D-Panthenol : 1.5 mg+Vit C : 15 mg+Vit E : 2.5 mg+Folic Acid (Vit B9) : 100 mcg+Zinc : 2.75 mg+Inositol : 10 mg+Biotin : 30 mcg+Choline Chloride : 30 mg,,150 ml,7.1
+2004,Vit A : 5000 iu+Vit E : 25 iu+Ascorbic Acid : 100 mg+Thiamine : 10 mg+Riboflavin : 10 mg+Pyridoxine : 3 mg+Cyanocobalamin : 5 mcg+Niacinamide : 50 mg+Folic Acid (Vit B9) : 1 mg+Calcium Pantothenate : 12.5 mg+Zinc : 15 mg+Copper : 2.5 mg+Selenium : 60 mcg+Manganese : 14 mg+Chromium Chloride : 65 mcg,,30 ml,19.84
+2005,Vit A : 2500 iu+Vit B1 : 1 mg+Vit B2 : 1 mg+Vit E : 5 iu+Cholecalciferol : 200 iu+Potassium Iodide : 50 mcg+Lysine : 30 mg+Manganese Chloride : 0.8 mg+Molybdenum : 8 mcg+Niacinamide : 15 mg+Calcium Panthenol : 2.5 mg+Selenium : 10 mcg+Vit B12 : 1 mcg+Vit B6 : 1 mg+Zinc Sulphate : 3 mg,,10 ml,8.08
+2006,Vit A : 2500 iu+Vit B1 : 1 mg+Vit B2 : 1 mg+Vit E : 5 iu+Cholecalciferol : 200 iu+Potassium Iodide : 50 mcg+Lysine : 30 mg+Manganese Chloride : 0.8 mg+Molybdenum : 8 mcg+Niacinamide : 15 mg+Calcium Panthenol : 2.5 mg+Selenium : 10 mcg+Vit B12 : 1 mcg+Vit B6 : 1 mg+Zinc Sulphate : 3 mg,,100 ml,6.3
+2007,Vit A : 2500 iu+Vit B1 : 1 mg+Vit B2 : 1 mg+Vit C : 100 mg+Vit E : 200 mg+Calcium D-Pantothenate : 2.5 mg+Chromium Picolinate : 100 mcg+DHA (Decosahexanoic Acid) : 60 mg+EPA (Eicosapentaenoic Acid) : 90 mg+Folic Acid (Vit B9) : 2.5 mg+Manganese Sulphate : 2 mg+Niacinamide : 1 mg+Selenium Dioxide : 40 mcg+Vit B12 : 3 mcg+Zinc Sulphate : 7.5 mg,,30 ml,19.52
+2008,Vit A : 3200 iu+Vit C : 50 mg+Alcohol : 1 ml+Calcium Hypophosphate : 40 mg+Creosote : 0.0208 ml+Guaiphenesin : 100 mg+Glucose : 0.4 gm+Malt : 1 gm+Manganese : 10 mg+Papain : 14 mg+Sodium Phosphate : 24 mg+Vit B12 : 4 mcg+Vit B6 : 1.4 mg+Vit D3 : 400 iu+Wild Cherry : 0.4 ml,,10 Tablet,9.26
+2009,Vit A : 3200 iu+Vit C : 50 mg+Alcohol : 1 ml+Calcium Hypophosphate : 40 mg+Creosote : 0.0208 ml+Guaiphenesin : 100 mg+Glucose : 0.4 gm+Malt : 1 gm+Manganese : 10 mg+Papain : 14 mg+Sodium Phosphate : 24 mg+Vit B12 : 4 mcg+Vit B6 : 1.4 mg+Vit D3 : 400 iu+Wild Cherry : 0.4 ml,,10 Capsule,8.15
+2010,Calcium Pantothenate : 10 mg+Vit A : 5000 iu+Vit B1 : 10 mg+Vit B2 : 10 mg+Vit C : 75 mg+Vit E : 15 iu+Copper Sulphate : 2 mg+Magnesium Oxide : 30 mg+Magnesium Sulphate : 2.8 mg+Niacinamide : 50 mg+Selenium Dioxide : 70 mcg+Vit B12 : 7.5 mcg+Vit B6 : 2 mg+Vit D3 : 400 iu+Zinc Sulphate : 63 mg,,10 Capsule,89.9
+2011,Calcium Pantothenate : 12.5 mg+Vit A : 5000 iu+Vit B1 : 10 mg+Vit B2 : 10 mg+Vit C : 125 mg+Vit E : 12.5 iu+Chromium Picolinate : 65 mcg+Copper Sulphate : 2 mg+Lycopene : 2000 mcg+Manganese Sulphate : 1.4 mg+Methylcobalamin : 250 mcg+Niacinamide : 50 mg+Sodium Selenium : 100 mcg+Vit B6 : 3 mg+Zinc Sulphate : 40 mg,,100 ml,11.89
+2012,Vit E : 200 mg+Vit C : 100 mg+EPA (Eicosapentaenoic Acid) : 90 mg+DHA (Decosahexanoic Acid) : 60 mg+Zinc Sulphate : 7.5 mg+Folic Acid (Vit B9) : 2.5 mg+Calcium D-Pantothenate : 2.5 mg+Vit A : 2500 iu+Manganese Sulphate : 2 mg+Niacinamide : 1 mg+Vit B1 : 1 mg+Vit B2 : 1 mg+Chromium (Chromic) : 100 mcg+Selenium : 40 mcg+Vit B12 : 3 mcg,,30 ml,16.5
+2013,Vit A : 3000 iu+Vit D3 : 400 iu+Vit B1 : 1.5 mg+Vit B2 : 1.2 mg+Vit B6 : 1 mg+Vit B12 : 3 mg+Vit C : 50 mg+Nicotinamide : 10 mg+D-Panthenol : 5 mg+Potassium Iodide : 98 mcg+Calcium Lactate : 158 mg+Calcium Hypophosphate : 82 mg+Calcium : 80 mg+Manganese Gluconate : 4.5 mg+Zinc Gluconate : 3.9 mg,,15 Capsule,8.47
+2014,Vit A : 3000 iu+Vit D3 : 400 iu+Vit B1 : 1.5 mg+Vit B2 : 1.2 mg+Vit B6 : 1 mg+Vit B12 : 3 mg+Vit C : 50 mg+Nicotinamide : 10 mg+D-Panthenol : 5 mg+Potassium Iodide : 98 mcg+Calcium Lactate : 158 mg+Calcium Hypophosphate : 82 mg+Calcium : 80 mg+Manganese Gluconate : 4.5 mg+Zinc Gluconate : 3.9 mg,,10 ml,14.16
+2015,Vit A : 5000 iu+Beta Carotene : 1000 mcg+Vit E : 25 iu+Pyridoxine : 3 mg+Ascorbic Acid : 75 mg+L-Cysteine : 46.37 mg+L-Glutamic Acid : 40 mg+Glycine : 25 mg+Zinc Sulphate : 27.45 mg+Manganese Sulphate : 1.12 mg+Magnesium Sulphate : 11.5 mg+Copper Sulphate : 0.8 mg+Chromium Picolinate : 0.2 mg+Sodium Selenate : 0.1 mg+Spirulina : 175 mg,,10 gm,8.01
+2016,Vit A : 1250 iu+Vit D3 : 200 iu+Vit E : 3 mg+Thiamine : 0.5 mg+Riboflavin : 0.5 mg+Niacinamide : 5 mg+Pyridoxine : 0.5 mg+Vit C : 25 mg+Zinc : 2.5 mg+Iron : 5 mg+D-Panthenol : 3 mg+L-Lysine : 10 mg,,15 Capsule,9.16
+2017,Vit B1 : 5 mg+Vit B2 : 5 mg+Vit B6 : 3 mg+Vit B12 : 15 mcg+Folic Acid (Vit B9) : 0.5 mg+L-Arginine : 20 mg+L-Glutamic Acid : 50 mg+L-Isoleucine : 50 mg+L-Leucine : 70 mg+L-Lysine : 60 mg+L-Methionine : 65 mg+L-Proline : 35 mg+L-Theronine : 35 mg+L-Tryptophan : 5 mcg+L-Phenylalamine : 70 mg+L-Valine : 50 mg,,30 ml,16.34
+2018,Vit E : 200 mg+Vit C : 100 mg+EPA (Eicosapentaenoic Acid) : 90 mg+DHA (Decosahexanoic Acid) : 60 mg+Zinc Sulphate : 7.5 mg+Folic Acid (Vit B9) : 2.5 mg+Vit B5 : 2.5 mg+Vit A : 2500 iu+Manganese Sulphate : 2 mg+Vit B3 : 1 mg+Vit B1 : 1 mg+Vit B2 : 1 mg+Chromium (Chromic) : 100 mcg+Selenium : 40 mcg+Vit B12 : 3 mcg+Vit B6 : 1 mg,,100 ml,7.55
+2019,Vit A : 2500 iu+Vit E : 5 iu+Cholecalciferol : 200 iu+Thiamine Hydrochloride : 1.5 mg+Riboflavin : 1.5 mg+Pyridoxine Hydrochloride IP : 0.5 mg+Niacinamide : 15 mg+Cyanocobalamin : 2 mcg+D-Panthenol : 2.5 mg+Zinc : 3 mg+Iodine : 50 mcg+Manganese : 0.8 mg+Molybdenum : 8 mcg+Selenium : 10 mcg+L-Lysine : 30 mg+Folic Acid (Vit B9) : 250 mg,,10 Capsule,14.03
+2020,Vit A : 2500 iu+Vit E : 5 iu+Cholecalciferol : 200 iu+Thiamine Hydrochloride : 1.5 mg+Riboflavin : 1.5 mg+Pyridoxine Hydrochloride IP : 0.5 mg+Niacinamide : 15 mg+Cyanocobalamin : 2 mcg+D-Panthenol : 2.5 mg+Zinc : 3 mg+Iodine : 50 mcg+Manganese : 0.8 mg+Molybdenum : 8 mcg+Selenium : 10 mcg+L-Lysine : 30 mg+Folic Acid (Vit B9) : 250 mg,,100 ml,7.16
+2021,Vit A : 2500 iu+Vit D3 : 200 iu+L-Leucine : 25 mg+L-Isoleucine : 8 mg+L-Lysine : 25 mg+L-Phenylalamine : 5 mg+L-Theronine : 8.3 mg+L-Valine : 9.1 mg+L-Methionine : 18.4 mg+L-Tryptophan : 10.1 mg+L-Arginine : 18.3 mg+Vit E : 7.5 iu+Selenium : 0.084 mg+Chromium (Chromic) : 0.522 mg+Folic Acid (Vit B9) : 0.5 mg+Whey Protiens : 350 mg,,30 ml,14.99
+2022,Calcium Pantothenate : 2.5 mg+Vit A : 2500 iu+Vit B1 : 2.5 mg+Vit B2 : 2.5 mg+Vit C : 40 mg+Vit E : 7.5 iu+Calcium Lactate : 1.25 mg+Cholecalciferol : 200 iu+Chromic Chloride : 8 mcg+Manganese Chloride : 0.8 mg+Niacinamide : 22.5 mg+Potassium Iodide : 50 mcg+Sodium Molybdate : 8 mcg+Sodium Selenium : 10 mcg+Vit B12 : 2.5 mcg+Vit B6 : 1 mg+Zinc Gluconate : 1 mg,,30 ml,7.14
+2023,Calcium Pantothenate : 2.5 mg+Vit A : 2500 iu+Vit B1 : 2.5 mg+Vit B2 : 2.5 mg+Vit C : 40 mg+Vit E : 7.5 iu+Calcium Lactate : 1.25 mg+Cholecalciferol : 200 iu+Chromic Chloride : 8 mcg+Manganese Chloride : 0.8 mg+Niacinamide : 22.5 mg+Potassium Iodide : 50 mcg+Sodium Molybdate : 8 mcg+Sodium Selenium : 10 mcg+Vit B12 : 2.5 mcg+Vit B6 : 1 mg+Zinc Gluconate : 1 mg,,100 ml,7.7
+2024,Vit A : 5000 iu+Vit B1 : 4.5 mg+Vit B2 : 5 mg+Vit C : 80 mg+Vit E : 20 mg+Calcium Lactate : 2.5 mg+Cholecalciferol : 400 iu+Chromic Chloride : 16 mcg+Elemental Manganese : 1.6 mg+Niacinamide : 45 mg+D-Panthenol : 5 mg+Potassium Iodide : 100 mcg+Sodium Molybdate : 16 mcg+Sodium Selenium : 20 mcg+Vit B12 : 5 mcg+Vit B6 : 2 mg+Zinc Gluconate : 2 mg,,10 Capsule,14.32
+2025,Vit A : 5000 iu+Vit B1 : 4.5 mg+Vit B2 : 5 mg+Vit C : 80 mg+Vit E : 20 mg+Calcium Lactate : 2.5 mg+Cholecalciferol : 400 iu+Chromic Chloride : 16 mcg+Elemental Manganese : 1.6 mg+Niacinamide : 45 mg+D-Panthenol : 5 mg+Potassium Iodide : 100 mcg+Sodium Molybdate : 16 mcg+Sodium Selenium : 20 mcg+Vit B12 : 5 mcg+Vit B6 : 2 mg+Zinc Gluconate : 2 mg,,10 Capsule,8.41
+2026,Vit A : 800 iu+Vit B1 : 5 mg+Vit B2 : 5 mg+Vit C : 25 mg+Vit E : 15 iu+Alpha Lipoic Acid : 50 mg+Alfacalcidol : 0.01 mcg+Copper Sulphate : 0.1 mg+Folic Acid (Vit B9) : 1 mg+Manganese Sulphate : 0.01 mg+Methylcobalamin : 50 mg+Potassium Iodide : 0.025 mg+Sodium Selenate : 40 mcg+Vit B3 : 45 mg+Vit B6 : 2 mg+Vit B5 : 5 mg+Zinc Sulphate : 50 mg,,30 ml,6.8
+2027,Calcium D-Pantothenate : 5 mg+Vit A : 500 iu+Vit B1 : 5 mg+Vit C : 75 mg+Vit E : 15 mg+Calcium Dibasic Phosphate : 75 mg+Copper Sulphate : 0.5 mg+Folic Acid (Vit B9) : 1 mg+Manganese Sulphate : 0.5 mg+Magnesium Sulphate : 3 mg+Nicotinamide : 50 mg+Potassium Iodide : 0.1 mg+Potassium Sulphate : 2 mg+Vit B12 : 5 mg+Vit B6 : 2 mg+Vit D3 : 400 iu+Zinc Sulphate : 10 mg,,100 ml,8.46
+2028,Vit A : 2500 iu+Thiamine : 1.5 mg+Riboflavin : 1.7 mg+Pyridoxine : 1.5 mg+Cyanocobalamin : 1 mcg+Ascorbic Acid : 50 mg+Cholecalciferol : 200 iu+Tocopheryl Acetate : 10 iu+Biotin : 30 mcg+Zinc : 3 mg+Iodine : 150 mcg+Manganese : 2.5 mg+Iron : 9 mg+Chromium (Chromic) : 25 mcg+Molybdenum : 25 mcg+Nicotinamide : 20 mg+D-Panthenol : 5 mg,,100 ml,15.11
+2029,Vit A : 2500 iu+Thiamine : 1.5 mg+Riboflavin : 1.7 mg+Pyridoxine : 1.5 mg+Cyanocobalamin : 1 mcg+Ascorbic Acid : 50 mg+Cholecalciferol : 200 iu+Tocopheryl Acetate : 10 iu+Biotin : 30 mcg+Zinc : 3 mg+Iodine : 150 mcg+Manganese : 2.5 mg+Iron : 9 mg+Chromium (Chromic) : 25 mcg+Molybdenum : 25 mcg+Nicotinamide : 20 mg+D-Panthenol : 5 mg,,30 ml,15.07
+2030,Vit A : 2500 iu+Vit B12 : 1 mcg+Vit D3 : 200 iu+Vit C : 50 mg+Vit E : 10 iu+Thiamine : 1.5 mg+Riboflavin : 1.7 mg+Pyridoxine : 1.5 mg+Niacinamide : 20 mg+D-Panthenol : 5 mg+Biotin : 30 mcg+Zinc : 3 mg+Iodine : 150 mcg+Iron : 9 mg+Manganese : 2.5 mg+Chromium (Chromic) : 25 mcg+Molybdenum : 25 mcg,,30 Capsule,8.04
+2031,Vit A : 2500 iu+Vit B12 : 1 mcg+Vit D3 : 200 iu+Vit C : 50 mg+Vit E : 10 iu+Thiamine : 1.5 mg+Riboflavin : 1.7 mg+Pyridoxine : 1.5 mg+Niacinamide : 20 mg+D-Panthenol : 5 mg+Biotin : 30 mcg+Zinc : 3 mg+Iodine : 150 mcg+Iron : 9 mg+Manganese : 2.5 mg+Chromium (Chromic) : 25 mcg+Molybdenum : 25 mcg,,15 Capsule,23.28
+2032,Vit A : 5000 iu+Vit D3 : 200 iu+Vit E : 7.5 mg+Vit B1 : 2.5 mg+Vit B2 : 2.5 mg+Vit B6 : 1 mg+Vit C : 40 mg+Nicotinamide : 25 mg+D-Panthenol : 2.5 mg+Folic Acid (Vit B9) : 500 mcg+Vit B12 : 2.5 mcg+Diabasic Calcium Phosphate : 35 mg+Copper Sulphate : 0.1 mg+Manganese Sulphate : 0.01 mg+Zinc Sulphate : 50 mg+Potassium Iodide : 0.025 mg+Magnesium Oxide : 0.15 mg,,10 Capsule,11.69
+2033,L-Leucine : 18 mg+L-Isoleucine : 5.9 mg+L-Theronine : 4.2 mg+L-Lysine : 25 mg+L-Phenylalamine : 5 mg+L-Valine : 6.7 mg+L-Tryptophan : 5 mg+L-Methionine : 18.4 mg+Vit D3 : 200 iu+Vit B1 : 4.5 mg+Vit B2 : 3.5 mg+Vit B6 : 1.5 mg+Nicotinamide : 25 mg+Folic Acid (Vit B9) : 0.5 mg+Vit C : 41 mg+Calcium Pantothenate : 5 mg+5-Hydroxy Anthronilic Acid : 0.2 mg+Vit E : 7.4 mg,,30 ml,14.3
+2034,Calcium Pantothenate : 5 mg+Vit B1 : 1 mg+Vit B2 : 1.5 mg+Vit C : 50 mg+Vit E : 5 mg+Calcium : 75 mg+Copper Sulphate : 0.5 mg+Ferrous Fumarate : 30 mg+Folic Acid (Vit B9) : 0.15 mg+Gingseng Extract : 42.5 mg+Magnesium Sulphate : 3 mg+Manganese Sulphate : 0.5 mg+Nicotinamide : 10 mg+Phosphorus : 58 mg+Potassium : 2 mg+Soya Protein : 75 mg+Vit B6 : 1 mg+Zinc Sulphate : 10 mg,,100 ml,8.61
+2035,Vit A : 2000 iu+Vit B1 : 1.5 mg+Vit B2 : 1 mg+Vit B6 : 1 mg+Vit B12 : 1 mcg+Vit C : 25 mg+Vit D3 : 150 iu+Vit E : 5 ml+Niacinamide : 15 mg+Zinc Sulphate : 2 mg+Calcium D-Pantothenate : 2 mg+Potassium Iodide : 25 mcg+Copper Sulphate : 100 mcg+Manganese Sulphate : 200 mcg+Selenium : 25 mcg+Chromium (Chromic) : 5 mcg+Sodium Molybdate : 10 mcg+Biotin : 10 mcg,,150 ml,15.47
+2036,Vit A : 2000 iu+Vit B1 : 1.5 mg+Vit B2 : 1 mg+Vit B6 : 1 mg+Vit B12 : 1 mcg+Vit C : 25 mg+Vit D3 : 150 iu+Vit E : 5 mg+Niacinamide : 15 mg+Zinc Sulphate : 2 mg+Calcium D-Pantothenate : 2 mg+Potassium Iodide : 25 mcg+Copper Sulphate : 100 mcg+Manganese Sulphate : 200 mcg+Selenium : 25 mcg+Chromium (Chromic) : 5 mcg+Sodium Molybdate : 10 mcg+Biotin : 10 mcg,,10 Capsule,16.94
+2037,Vit A : 2500 iu+Thiamine : 1.5 mg+Riboflavin : 1.7 mg+Pyridoxine : 1.5 mg+Vit B12 : 1 mcg+Vit E : 10 iu+Vit C : 50 mg+Vit D3 : 200 iu+Niacinamide : 20 mg+D-Panthenol : 5 mg+Biotin : 300 mcg+Zinc : 3 mg+Iodine : 150 mcg+Iron : 9 mg+Manganese : 2.5 mg+Chromium (Chromic) : 25 mcg+Molybdenum : 25 mcg+Ethanol : 5.4% w/v,,10 ml,17.92
+2038,Vit B1 : 1.5 mg+Vit B2 : 2 mg+Vit B12 : 2 mg+Vit C : 50 mg+Vit D3 : 200 iu+Spirulina : 500 mg+Folic Acid (Vit B9) : 200 mcg+Chromium Chloride : 50 mg+Iodine : 0.15 mg+Potassium : 40 mg+Molybdenum : 75 mcg+Nickel : 5 mcg+Selenium : 30 mcg+Stannous Chloride : 10 mcg+Colloidal Silicon : 2 mg+Chloride : 36.3 mg+Biotin : 30 mcg+Sodium Metavanadate : 10 mcg+Sodium Borate : 15 mcg,,10 Capsule,10.22
+2039,Vit A : 1000 iu+Cholecalciferol : 100 iu+Riboflavin : 1.4 mg+Thiamine : 5 mg+Pyridoxine : 1.5 mg+D-Panthenol : 2.5 mg+Nicotinamide : 10 mg+Ascorbic Acid : 50 mg+Tocopheryl Acetate : 0.5 mg+L-Arginine : 6.5 mg+L-Histidine : 3 mg+L-Isoleucine : 5.5 mg+L-Leucine : 12.3 mg+L-Lysine : 17 mg+L-Methionine : 6 mg+L-Phenylalamine : 8.7 mg+L-Threonine : 5.4 mg+L-Valine : 6.1 mg+Glycine : 10 mg,,10 Capsule,12.92
+2040,L-Leucine : 18 mg+L-Isoleucine : 5.9 mg+L-Threonine : 4.2 mg+L-Lysine : 25 mg+L-Phenylalamine : 5 mg+L-Valine : 6.7 mg+L-Tryptophan : 5 mg+L-Methionine : 18.4 mg+Vit A : 2500 iu+Vit D3 : 200 iu+Vit B1 : 4.5 mg+Vit B2 : 3.5 mg+Vit B6 : 1.5 mg+Vit B12 : 2.5 mcg+Nicotinamide : 25 mg+Folic Acid (Vit B9) : 0.5 mg+Vit C : 41 mg+Calcium Pantothenate : 5 mg+5-Hydroxy Anthronilic Acid : 0.2 mg+Vit E : 7.5 mg,,10 Capsule,8.37
+2041,L-Histidine : 3.71 mg+L-Arginine : 13.28 mg+L-Isoleucine : 5.9 mg+L-Theronine : 4.2 mg+L-Lysine : 25 mg+L-Phenylalamine : 5 mg+L-Valine : 6.7 mg+L-Tryptophan : 5 mg+L-Methionine : 18.4 mg+Vit A : 2500 iu+Vit D3 : 200 iu+Vit B1 : 5 mg+Zinc Sulphate : 50 mg+Vit B6 : 1.5 mg+Vit B12 : 2.6 mcg+Nicotinamide : 25 mg+Vit C : 40 mg+Calcium Pantothenate : 5 mg+5-Hydroxy Anthronilic Acid : 0.2 mg+Vit E : 7.5 mg,,10 Capsule,22.18
+2042,Calcium Pantothenate : 5 mg+Tocopheryl Acetate : 7.5 iu+Vit A : 2500 iu+Vit B1 : 5 mg+Vit B2 : 3 mg+Vit C : 40 mg+L-Arginine : 13.28 mg+Cholecalciferol : 200 iu+Folic Acid (Vit B9) : 0.75 mg+L-Histidine : 3.71 mg+L-Isoleucine : 5.9 mg+L-Leucine : 183 mg+L-Lysine : 25 mg+Dl-Methionine : 18.4 mg+Nicotinamide : 25 mg+L-Theronine : 4.2 mg+L-Tryptophan : 4.2 mg+L-Valine : 6.7 mg+Vit B12 : 5 mcg+Vit B6 : 1.5 mg+Zinc Sulphate : 50 mg,,10 Capsule,8.8
+2043,Vit A : 5000 iu+Vit B1 : 10 mg+Vit B2 : 10 mg+Vit B6 : 2 mg+Vit B12 : 7.5 mcg+Vit C : 75 mg+Vit D3 : 400 iu+Vit E : 15 iu+Calcium Pantothenate : 10 mg+Folic Acid (Vit B9) : 1 mg+Niacinamide : 50 mg+Biotin : 150 mcg+Zinc Sulphate : 63 mg+Iodine : 150 mcg+Magnesium Oxide : 30 mg+Chromium (Chromic) : 25 mcg+Copper : 2 mg+Selenium : 70 mcg+Boron : 150 mcg+Molybdenum : 25 mcg+Silicon : 1 mg+Manganese Sulphate : 2.8 mg,,10 Capsule,9.41
+2044,Calcium Pantothenate : 10 mg+Vit A : 5000 iu+Vit B1 : 10 mg+Vit B2 : 10 mg+Vit C : 75 mg+Vit E : 15 iu+Biotin : 150 mcg+Chromium Picolinate : 25 mcg+Silicon : 1 mg+Copper Sulphate : 2 mg+Folic Acid (Vit B9) : 1 mg+Magnesium Oxide : 30 mg+Magnesium Sulphate : 2.8 mg+Niacinamide : 50 mg+Potassium Iodide : 150 mcg+Selenium Dioxide : 70 mcg+Sodium Borate : 150 mcg+Sodium Molybdate : 25 mcg+Vit B12 : 7.5 mcg+Vit B6 : 2 mg+Vit D3 : 400 iu+Zinc Sulphate : 63 mg,,15 Tablet,8.06
+2045,Tocopheryl Acetate : 7.5 mg+Calcium Pantothenate : 5 mcg+Vit A : 2500 iu+Vit B1 : 1 mg+Vit B2 : 1.5 mg+Vit C : 50 mg+Biotin : 300 mcg+Chloride : 36.3 mcg+Chromic Chloride : 25 mcg+Cupric Oxide : 2 mg+Dibasic Calcium Phosphate : 162 mg+Ferrous Fumarate : 10 mg+Folic Acid (Vit B9) : 0.15 mg+Magnesium Oxide : 100 mg+Manganese Sulphate : 2.5 mg+Phosphorus : 125 mg+Potassium Chloride : 40 mg+Potassium Iodide : 0.15 mg+Sodium Molybdate : 25 mcg+Sodium Selenite : 30 mcg+Stannous Chloride : 10 mcg+Vit B12 : 1 mcg+Vit B6 : 1 mg+Vit D3 : 200 iu+Vit K : 10 mcg,,10 Tablet,12.32
+2046,Vit A : 2500 iu+Vit D3 : 200 iu+Vit E : 10 mg+Thiamine : 2 mg+Riboflavin : 3 mg+Pyridoxine : 1.5 mg+Niacinamide : 26 mg+Cyanocobalamin : 1 mcg+Calcium Pantothenate : 5 mg+Ascorbic Acid : 50 mg+Magnesium Sulphate : 100 mg+Zinc : 15 mg+Copper : 2 mg+Molybdenum : 25 mcg+Manganese : 2.5 mg+Biotin : 30 mcg+Iodine : 0.15 mcg+Iron : 9 mg+Calcium : 162 mg+Phosphorus : 125 mg+Potassium : 40 mg+Chloride : 36.3 mg+Chromium (Chromic) : 100 mcg+Selenium : 25 mcg+Nickel : 5 mcg+Silicon : 10 mcg+Vanadium : 10 mcg,,15 Tablet,9.24
+2047,Vit A : 2500 iu+Vit B1 : 1 mg+Vit B2 : 1.5 mg+Vit B6 : 1 mg+Vit B12 : 1 mcg+Vit C : 50 mg+Vit D3 : 200 iu+Vit E : 7.5 mg+Folic Acid (Vit B9) : 0.15 mg+Calcium D Pantothenate : 5 mg+Nicotinamide : 20 mg+Biotin : 30 mcg+Zinc : 15 mg+Potassium Iodide : 0.15 mg+Iron : 10 mcg+Magnesium : 100 mg+Copper : 2 mg+Calcium : 162 mg+Phosphorus : 125 mg+Potassium : 40 mg+Nickel : 5 mcg+Chromium Chloride : 25 mcg+Molybdenum : 25 mcg+Stannous Chloride : 10 mcg+Sodium Selenate : 30 mcg+Colloidal Silicon Dioxide : 2 mcg+Sodium Metavanadate : 10 mcg+Sodium Borate : 150 mcg,,10 Capsule,12.74
+2048,Vit A : 2500 iu+Vit D3 : 200 iu+Vit E : 7.5 mg+Thiamine : 1 mg+Riboflavin : 1.5 mg+Pyridoxine : 1 mg+Niacinamide : 20 mg+Cyanocobalamin : 1 mcg+Calcium Pantothenate : 5 mg+Ascorbic Acid : 50 mg+Zinc : 15 mg+Selenium Dioxide : 55 mcg+Magnesium : 100 mg+Copper : 2 mg+Molybdenum : 25 mcg+Folic Acid (Vit B9) : 0.15 mcg+Potassium : 40 mg+Biotin : 30 mcg+Iodine : 0.15 mcg+Iron : 10 mcg+Manganese : 2.5 mg+Calcium : 162 mg+Phosphorus : 125 mg+Silicon : 2 mg+Chromium (Chromic) : 25 mcg+Selenium : 30 mcg+Nickel : 5 mcg+Tin : 10 mcg+Vanadium : 10 mcg+Boron : 150 mcg+Vit K : 10 mcg,,,
+2049,Calcium Pantothenate : 5 mg+Vit A : 1600 iu+Vit B1 : 2 mg+Vit B2 : 2 mg+Vit C : 50 mg+Vit E : 7.5 mg+Biotin : 100 mcg+Chloride : 3.6 mg+Choline Bitartrate : 25 mg+Chromium Picolinate : 65 mcg+Citrus Bioflavonoid : 8 mg+Colloidal Silicon Dioxide : 2 mg+Copper Sulphate : 0.5 mg+Dibasic Calcium Phosphate : 50 mg+Elemental Phosphorus : 38.66 mg+Ferrous Fumarate : 30 mg+Lactobacillus Sporegens : 50 million+Lutein : 250 mg+Magnesium Oxide : 30 mg+Manganese Sulphate : 1.5 mg+Menadione : 10 mcg+Natural Carotenoids : 0.4 mg+Niacinamide : 20 mg+Nickel : 5 mcg+Potassium Chloride : 4 mg+Potassium Iodide : 150 mcg+Sodium Borate : 150 mcg+Sodium Metavanadate : 10 mcg+Sodium Molybdate : 25 mcg+Sodium Selenite : 20 mcg+Stannous Chloride : 10 mcg+Vit B12 : 1 mcg+Vit B6 : 1 mg+Vit D3 : 200 iu+Zinc Oxide : 15 mg+Folic Acid (Vit B9) : 150 mcg ,,,

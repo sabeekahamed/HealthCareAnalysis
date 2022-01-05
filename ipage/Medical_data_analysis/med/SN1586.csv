@@ -1,0 +1,13 @@
+S/N,Manufacturer,Name,Type,Unit(Dose),Constituents/Unit,Package unit,Price(In Rs.),Price/Unit (In Rs.)
+1,Pharma Corp Inc.,Tibirit 3 (75+150+275),Tablet    ,1 Tablet,Isoniazid-75 mg,10 Tablet,2,0.2
+,,,,,Rifampicin-150 mg,,,
+,,,,,Ethambutol-275 mg,,,
+2,Marc Laboratories Pvt. Ltd.,Exact 3 (375+150+75),Tablet    ,1 Tablet,Isoniazid-75 mg,10 Tablet,25.71,2.57
+,,,,,Rifampicin-150 mg,,,
+,,,,,Ethambutol-275 mg,,,
+3,Panacea Biotec Ltd,Xeed 3E FC (75+150+275),Tablet    ,1 Tablet,Rifampicin-150 mg,6 Tablet,15.89,2.65
+,,,,,Isoniazid-75 mg,,,
+,,,,,Ethambutol-275 mg,,,
+4,Novartis India Ltd,Rimthree FDC (75+150+275),Tablet    ,1 Tablet,Rifampicin-150 mg,6 Tablet,16.92,2.82
+,,,,,Ethambutol-275 mg,,,
+,,,,,Isoniazid-75 mg,,,

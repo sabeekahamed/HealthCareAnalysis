@@ -1,0 +1,38 @@
+S/N,Manufacturer,Name,Type,Unit(Dose),Constituents/Unit,Package unit,Price(In Rs.),Price/Unit (In Rs.)
+1,Sanofi Aventis,Hostacycline (250 mg),Tablet    ,1 Tablet,Tetracycline-250 mg,10 Tablet,7.63,0.76
+2,Pans Laboratories,Caten (250 mg),Capsule    ,1 Capsule,Tetracycline-250 mg,10 Capsule,5.18,0.52
+3,Acichem Laboratories,Tetracycline (250 mg),Capsule    ,1 Capsule,Tetracycline-250 mg,1000 Capsule,600,0.6
+4,Cyper Drugs & Pharmaceuticals (P) Ltd.,Cypacycline (250 mg),Capsule    ,1 Capsule,Tetracycline-250 mg,10 Capsule,6.5,0.65
+5,Allied Chemicals & Pharmaceuticals Pvt.Ltd.,Tetralid (250 mg),Capsule    ,1 Capsule,Tetracycline-250 mg,10 Capsule,6.5,0.65
+6,Cyper Drugs & Pharmaceuticals (P) Ltd.,Tetracycline Hydrochloride (250 mg),Capsule    ,1 Capsule,Tetracycline-250 mg,10 Capsule,6.5,0.65
+7,Jagsonpal Pharmaceuticals Ltd,Terapal (250 mg),Capsule    ,1 Capsule,Tetracycline-250 mg,10 Capsule,6.66,0.67
+8,Wings Pharmaceuticals (P) Ltd.,Tetracycline (250 mg) (Wings),Capsule    ,1 Capsule,Tetracycline-250 mg,10 Capsule,6.66,0.67
+9,Cipla Limited,Tetrabact (250 mg),Capsule    ,1 Capsule,Tetracycline-250 mg,10 Capsule,6.66,0.67
+10,Laborate Pharmaceuticals India Ltd.,Tetralab (250 mg),Capsule    ,1 Capsule,Tetracycline-250 mg,10 Capsule,6.9,0.69
+11,Agron Remedies Pvt Ltd (Agrogem),Arcycline (250 mg),Capsule    ,1 Capsule,Tetracycline-250 mg,100 Capsule,69.26,0.69
+12,Cadila Pharmaceuticals Ltd.,Tetrastar (250 mg),Capsule    ,1 Capsule,Tetracycline-250 mg,10 Capsule,7,0.7
+13,Suzikem Drugs Pvt. Ltd.,Tetlin (250 mg),Capsule    ,1 Capsule,Tetracycline-250 mg,10 Capsule,7.13,0.71
+14,Deys Medical Stores (Mfg) Ltd,Subamycin (250 mg),Capsule    ,1 Capsule,Tetracycline-250 mg,10 Capsule,7.2,0.72
+15,Orison Pharmaceuticals,Tetracycline (250 mg) (Orison),Capsule    ,1 Capsule,Tetracycline-250 mg,300 Capsule,216.6,0.72
+16,Abbott Healthcare Pvt Ltd (AHPL),Resteclin (250 mg),Capsule    ,1 Capsule,Tetracycline-250 mg,10 Capsule,7.55,0.76
+17,Reddy Pharmaceuticals Ltd.,Redicycline (250 mg),Capsule    ,1 Capsule,Tetracycline-250 mg,10 Capsule,7.92,0.79
+18,Wyeth Ltd.,Achromycin (250 mg),Capsule    ,1 Capsule,Tetracycline-250 mg,10 Capsule,7.94,0.79
+19,Neon Laboratories Ltd,Neoline (250 mg),Capsule    ,1 Capsule,Tetracycline-250 mg,10 Capsule,8,0.8
+20,Shalina Laboratories Ltd,Tetra (250 mg),Capsule    ,1 Capsule,Tetracycline-250 mg,10 Capsule,8,0.8
+21,Smith Stanistreet Pharmaceuticals Ltd.,Tetracycline (250 mg) (Smith),Capsule    ,1 Capsule,Tetracycline-250 mg,10 Capsule,8,0.8
+22,Sunways India Pvt. Ltd.,Cyclisun (250 mg),Capsule    ,1 Capsule,Tetracycline-250 mg,4 Capsule,3.55,0.89
+23,Bini Laboratories Pvt Ltd,Tetracycline (250 mg) (Bini),Capsule    ,1 Capsule,Tetracycline-250 mg,10 Capsule,9.5,0.95
+24,Zydus Cadila Healthcare Ltd,Cadicycline (250 mg),Capsule    ,1 Capsule,Tetracycline-250 mg,300 Capsule,299.2,1
+25,Aurochem Labs (India) Pvt Ltd,Quadric (250 mg),Capsule    ,1 Capsule,Tetracycline-250 mg,100 Capsule,105,1.05
+26,Tosc International Pvt Ltd.,Econocycline (250 mg),Capsule    ,1 Capsule,Tetracycline-250 mg,10 Capsule,11,1.1
+27,Indoco Pharmaceuticals,Dicicyclin (250 mg),Capsule    ,1 Capsule,Tetracycline-250 mg,4 Capsule,4.55,1.14
+28,Indian Drugs & Pharmaceuticals Ltd.,Idilin (250 mg),Capsule    ,1 Capsule,Tetracycline-250 mg,10 Capsule,12,1.2
+29,Acichem Laboratories,Tetra A (250 mg),Capsule    ,1 Capsule,Tetracycline-250 mg,100 Capsule,120,1.2
+30,Leben Laboratories Pvt Ltd,Tetret (250 mg),Capsule    ,1 Capsule,Tetracycline-250 mg,12 Capsule,15.24,1.27
+31,Acron Pharmaceuticals,Acrocycline (250 mg),Capsule    ,1 Capsule,Tetracycline-250 mg,10 Capsule,13,1.3
+32,Medoz Pharmaceuticals,Medocycline (250 mg),Capsule    ,1 Capsule,Tetracycline-250 mg,150 Capsule,200,1.33
+33,Talent Laboratories,Broclin (250 mg),Capsule    ,1 Capsule,Tetracycline-250 mg,100 Capsule,135,1.35
+34,Inga Laboratories Pvt. Ltd.,Ingacycline (250 mg),Capsule    ,1 Capsule,Tetracycline-250 mg,10 Capsule,15,1.5
+35,Modern Laboratories,M Cycline (250 mg),Capsule    ,1 Capsule,Tetracycline-250 mg,10 Capsule,15,1.5
+36,Dabur India Ltd,Tetracycline (250 mg) (Dabur),Capsule    ,1 Capsule,Tetracycline-250 mg,10 Capsule,15.72,1.57
+37,Symbiosis Healthcare (Symbiosis Pharmaceuticals Pvt Ltd),Tetrasym (250 mg),Capsule    ,1 Capsule,Tetracycline-250 mg,10 Capsule,68.6,6.86

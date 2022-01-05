@@ -1,0 +1,10 @@
+S/N,Manufacturer,Name,Type,Unit(Dose),Constituents/Unit,Package unit,Price(In Rs.),Price/Unit (In Rs.)
+1,Maneesh Healthcare (Maneesh Pharmaceuticals Ltd),SCC 3 (825+450+225),Tablet    ,1 Tablet,Isoniazid-225 mg,10 Tablet,61.72,6.17
+,,,,,Rifampicin-450 mg,,,
+,,,,,Ethambutol-825 mg,,,
+2,Shrinivas (Gujarat) Laboratories Pvt. Ltd.,Vicox 2E (450+225+825),Tablet    ,1 Tablet,Rifampicin-450 mg,60 Tablet,539,8.98
+,,,,,Isoniazid-225 mg,,,
+,,,,,Ethambutol-825 mg,,,
+3,Maneesh Healthcare (Maneesh Pharmaceuticals Ltd),SCC 3 Pouch (Kit),Kit   ,1 Kit,Isoniazid-225 mg,1 Kit,9.5,9.5
+,,,,,Rifampicin-450 mg,,,
+,,,,,Ethambutol-825 mg,,,

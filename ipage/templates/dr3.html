@@ -1,0 +1,14 @@
+{% extends "extdlogin.html" %}
+{% block c %}
+<div class="modal">
+    <div class="c-content">
+      <div class="modal-body">
+        <form method="post">{% csrf_token %}
+          <center><h1>The medicines you need to take are:</h1></center>
+            <h4 style="margin-left:5%;">{{res}} </h4>
+            <button type="submit"> Submit </button>
+        </form>
+      </div>
+    </div>
+  </div>
+{% endblock %}

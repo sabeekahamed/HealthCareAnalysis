@@ -1,0 +1,73 @@
+S/N,Manufacturer,Name,Type,Unit(Dose),Constituents/Unit,Package unit,Price(In Rs.),Price/Unit (In Rs.)
+1,Biological Evans Ltd,Binex Z (750+225+150),Tablet    ,1 Tablet,Rifampicin-225 mg,10 Tablet,10.21,1.02
+,,,,,Isoniazid-150 mg,,,
+,,,,,Pyrazinamide-750 mg,,,
+2,Lupin Laboratories Ltd.,Rcinex Z (225+150+750),Tablet    ,1 Tablet,Pyrazinamide-750 mg,10 Tablet,17,1.7
+,,,,,Isoniazid-150 mg,,,
+,,,,,Rifampicin-225 mg,,,
+3,Sanofi Aventis,Rifatar (225+150+750),Tablet    ,1 Tablet,Pyrazinamide-750 mg ,10 Tablet,17.94,1.79
+,,,,,Isoniazid-150 mg ,,,
+,,,,,Rifampicin-225 mg ,,,
+4,Macleods Pharmaceuticals Pvt Ltd.,Macox ZH (750+150+225),Tablet    ,1 Tablet,Pyrazinamide-750 mg,6 Tablet,16.45,2.74
+,,,,,Isoniazid-150 mg,,,
+,,,,,Rifampicin-225 mg,,,
+5,Overseas Health Care Pvt. Ltd.,RHZ Forte (750+150+225),Tablet    ,1 Tablet,Isoniazid-150 mg,10 Tablet,36.87,3.69
+,,,,,Pyrazinamide-750 mg,,,
+,,,,,Rifampicin-225 mg,,,
+6,Alde Medi Impex Ltd.,Denex 3 (750+225+150),Tablet    ,1 Tablet,Pyrazinamide-750 mg,10 Tablet,38,3.8
+,,,,,Isoniazid-150 mg,,,
+,,,,,Rifampicin-225 mg,,,
+7,Lupin Laboratories Ltd.,R Cinex Z (750+150+225),Tablet    ,1 Tablet,Rifampicin-225 mg,2 Tablet,7.75,3.88
+,,,,,Isoniazid-150 mg,,,
+,,,,,Pyrazinamide-750 mg,,,
+8,Osho Pharma Pvt.Ltd.,Orif 3 Forte (750+150+225),Tablet    ,1 Tablet,Pyrazinamide-750 mg,10 Tablet,39.6,3.96
+,,,,,Isoniazid-150 mg,,,
+,,,,,Rifampicin-225 mg,,,
+9,Shreya Life Sciences Pvt. Ltd,Montorip Forte (750+150+225),Tablet    ,1 Tablet,Pyrazinamide-750 mg,10 Tablet,41.33,4.13
+,,,,,Isoniazid-150 mg,,,
+,,,,,Rifampicin-225 mg,,,
+10,Sierra Pharmaceuticals Ltd.,Stanex 3 (750+225+150),Tablet    ,1 Tablet,Isoniazid-150 mg,10 Tablet,44.5,4.45
+,,,,,Rifampicin-225 mg,,,
+,,,,,Pyrazinamide-750 mg,,,
+11,Merind Ltd (Wockhardt Ltd),Caviter Forte (750+150+225),Tablet    ,1 Tablet,Pyrazinamide-750 mg,10 Tablet,45.1,4.51
+,,,,,Isoniazid-150 mg,,,
+,,,,,Rifampicin-225 mg,,,
+12,Suzikem Drugs Pvt. Ltd.,Ripcox (750+150+225),Tablet    ,1 Tablet,Pyrazinamide-750 mg,10 Tablet,46,4.6
+,,,,,Isoniazid-150 mg,,,
+,,,,,Rifampicin-225 mg,,,
+13,Novartis India Ltd,3Fd (750+150+225),Tablet    ,1 Tablet,Isoniazid-150 mg,10 Tablet,49.4,4.94
+,,,,,Pyrazinamide-750 mg,,,
+,,,,,Rifampicin-225 mg,,,
+14,Sandoz (Novartis India Ltd),3 FD (750+150+225),Tablet    ,1 Tablet,Pyrazinamide-750 mg,10 Tablet,49.4,4.94
+,,,,,Isoniazid-150 mg,,,
+,,,,,Rifampicin-225 mg,,,
+15,Novartis Pharmaceuticals Ltd.,3FD (750+150+225),Tablet    ,1 Tablet,Isoniazid-150 mg,100 Tablet,502,5.02
+,,,,,Pyrazinamide-750 mg,,,
+,,,,,Rifampicin-225 mg,,,
+16,Themis Medicare Ltd.,Tricox (750+150+225),Tablet    ,1 Tablet,Pyrazinamide-750 mg,10 Tablet,51.13,5.11
+,,,,,Isoniazid-150 mg,,,
+,,,,,Rifampicin-225 mg,,,
+17,Le Sante (Cadila Pharmaceuticals Ltd.),Mycocox Z (750+150+225),Tablet    ,1 Tablet,Rifampicin-225 mg,10 Tablet,51.76,5.18
+,,,,,Isoniazid-150 mg,,,
+,,,,,Pyrazinamide-750 mg,,,
+18,Shinto Biotec Ltd,Tumin Forte (750+150+225),Tablet    ,1 Tablet,Pyrazinamide-750 mg,10 Tablet,53,5.3
+,,,,,Isoniazid-150 mg,,,
+,,,,,Rifampicin-225 mg,,,
+19,Zee Laboratories Ltd,Tricinex PZ (750+150+225),Tablet    ,1 Tablet,Rifampicin-225 mg,10 Tablet,53,5.3
+,,,,,Isoniazid-150 mg,,,
+,,,,,Pyrazinamide-750 mg,,,
+20,IPCA Laboratories Ltd.,Gocox 3 FC (150+750+225),Tablet    ,1 Tablet,Pyrazinamide-750 mg,2 Tablet,14.79,7.4
+,,,,,Isoniazid-150 mg,,,
+,,,,,Rifampicin-225 mg,,,
+21,Medi Rose,Tibizim SF (750+150+225),Tablet    ,1 Tablet,Pyrazinamide-750 mg,100 Tablet,790,7.9
+,,,,,Isoniazid-150 mg,,,
+,,,,,Rifampicin-225 mg,,,
+22,Lancer Health Care Pvt. Ltd.,Lynacox ZH (750+150+225),Tablet    ,1 Tablet,Pyrazinamide-750 mg,10 Tablet,79,7.9
+,,,,,Isoniazid-150 mg,,,
+,,,,,Rifampicin-225 mg,,,
+23,Aan Pharma Pvt Ltd,T Kox Plus (750+150+225),Tablet    ,1 Tablet,Pyrazinamide-750 mg,10 Tablet,79,7.9
+,,,,,Isoniazid-150 mg,,,
+,,,,,Rifampicin-225 mg,,,
+24,Remed Healthcare (P) Ltd.,Remcox ZH (750+150+225),Tablet    ,1 Tablet,Pyrazinamide-750 mg,10 Tablet,79,7.9
+,,,,,Isoniazid-150 mg,,,
+,,,,,Rifampicin-225 mg,,,

@@ -1,0 +1,623 @@
+﻿S/N,Manufacturer,Name,Type,Unit(Dose),Constituents/Unit,Package unit,Price(In Rs.),Price/Unit (In Rs.)
+1,Bewell Labs Pvt Ltd,Bdom F (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,7.27,0.73
+2,Akesiss Pharma Pvt Ltd,Azista (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,59.4,1.98
+3,Effect Biotech Inc.,Azifect (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,60 Tablet,132,2.2
+4,Shreeji Healthcare Impex,Moazil (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,22,2.2
+5,Denizen Pharmaceuticals India (P) Ltd,Aziden,Tablet    ,1 Tablet,Azithromycin-500 mg ,10 Tablet,22.8,2.28
+6,Siomond Pharmaceuticals Pvt Ltd,Zyn (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,23.89,2.39
+7,A.S.V. Laboratories (India) Pvt. Ltd.,Erybact AZ (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,25,2.5
+8,Custodian Pharma Private Limited,Azalyd (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,30,3
+9,Avancer Labs (P) Ltd,Azimin 500,Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,64,6.4
+10,Zencure Organics,Bioact (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,66,6.6
+11,Kentreck Labs Pvt Ltd.,Tozec (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,67,6.7
+12,JVD Pharma Pvt. Ltd.,Azimust (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,20.9,6.97
+13,Torrent Pharmaceuticals Ltd.,Macrotor (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,72,7.2
+14,Comex Pharma,Tridoz (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,73.33,7.33
+15,VAISHNAVI PHARMACEUTICALS ( D.M PHARMA),Atizid 500,Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,24,8
+16,Rockstar Pharma (group of Athens Labs),Rockzith 500,Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,80,8
+17,VAISHNAVI PHARMACEUTICALS ( D.M PHARMA),Atizid 500,Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,24,8
+18,East African (I) Remedies Pvt Ltd,Aziriv (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,26,8.67
+19,Alpic Biotech Ltd.,Azm (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,26,8.67
+20,Neelkanth Healthcare (P) Ltd.,Dithrom (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,90,9
+21,Jan Aushadhi,Azithromycin 500 mg (Jan Aushadhi),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,91.95,9.2
+22,Euphoric Pharmaceuticals Pvt.Ltd.,Doxyric (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,102,10.2
+23,Sozin Flora Pharma,Azisoz (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,105,10.5
+24,Stanford Biotech Pvt. Ltd,Zithromax (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,48 Tablet,523,10.9
+25,Lee Pharma Ltd.,Azultac (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,116,11.6
+26,Unison Pharmaceuticals,Uthral (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,120,12
+27,Alvid Indo,Althro (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,122,12.2
+28,Sunij Pharma Pvt Ltd,Azinij (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,36.99,12.33
+29,Injecto Capta Pvt. Ltd.,Tozito (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,6 Tablet,75,12.5
+30,Bombay Tablet Mfg Co,Azinova (500 mg) (Bombay Tablet),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,38,12.67
+31,Intas Pharmaceuticals Ltd.,Zeethrom (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,38.6,12.87
+32,Nodysis Pharma Pvt. Ltd.,Nodycin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,38.88,12.96
+33,Khandelwal Laboratories Pvt Ltd.,Azinix (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,6 Tablet,78,13
+34,Sanjeevani Bio-Tech (P) Ltd,Azlo (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,6 Tablet,81,13.5
+35,Ardor Drugs Pvt. Ltd.,Azidor (500 mg) (Ardor Drugs),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,140,14
+36,Reco Drugs,Razy (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,42,14
+37,Bewell Labs Pvt Ltd,Baz (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,43.62,14.54
+38,Genx (Hetero Healthcare Ltd),Laz FC (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,43.8,14.6
+39,Elder Pharmaceuticals Ltd.,Elzee (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,43.89,14.63
+40,Redson Pharmaceuticals,Azit (500 mg) (Redson Pharma),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,45,15
+41,Yacca Pharmaceuticals Pvt Ltd.,Wyaze (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,155.4,15.54
+42,Kind Care Pharmaceuticals,Raycin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,46.8,15.6
+43,Aristo Pharmaceuticals Pvt Ltd.,Azivent (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,47.65,15.88
+44,Stanford Lab,Zithrostan (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,47.75,15.92
+45,Ravian Pharmaceuticals (P) Ltd.,Azirav (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,159.5,15.95
+46,Nex Pharma,Nezi (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,48,16
+47,Ethix Health Care,Amity (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,160,16
+48,Bestochem Formulations (India) Ltd.,Azi Big (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,160,16
+49,Symbiotic Drugs & Diabetic Care (P) Ltd.,Aziloc (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,48,16
+50,Bindlysh Biotech Ltd,Azicare (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,163,16.3
+51,Alkem Laboratories Ltd,Zithium (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,49,16.33
+52,Trends Pharma Pvt. Ltd.,Azicor (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,49,16.33
+53,Xmex (Corona Remedies Pvt Ltd),Xith (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,49,16.33
+54,Omenta Pharma Pvt Ltd,ZM (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,49.5,16.5
+55,Leben Laboratories Pvt. Ltd.,Azileb (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,6 Tablet,99,16.5
+56,Nexus (India),Bactrocin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,50,16.67
+57,Metier's Pharmaceuticals Pvt Ltd,Azisure (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,50,16.67
+58,Neiss Labs Pvt. Ltd.,Nizithro (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,168,16.8
+59,Vaishali Pharmaceuticals.,Vazit (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,170,17
+60,Navil Laboratories,Nazith (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,170,17
+61,BRD Medilabs,Azromi (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,170,17
+62,Technica Labs & Pharma Pvt Ltd,Troxin AZ (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,173,17.3
+63,Wisdom Pharma Pvt. Ltd,Aziwis (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,173,17.3
+64,Medicamen Biotech Ltd.,Antoine (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,520,17.33
+65,Taj Pharmaceuticals Ltd,Zithromin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,52.35,17.45
+66,Sehat Pharma Pvt.Ltd,Aziz (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,175,17.5
+67,Maiden Pharmaceuticals Limited,Azimaid (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,175,17.5
+68,Kaytross Healthcare Limited,Azitross (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,52.62,17.54
+69,Emcure Pharmaceuticals Ltd.,Aztus (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,53,17.67
+70,Swiss Pharma Pvt. Ltd.,Azure F/C (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,15 Tablet,265,17.67
+71,Nourish Healthcare,Azivital (500 MG),Tablet    ,1 Tablet,Azithromycin-500 mg ,3 Tablet,53,17.67
+72,Entod Pharmaceuticals Ltd,Aziforce (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,53,17.67
+73,Swiss Biolabs,Labze (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,180,18
+74,Centaur Pharmaceuticals Pvt.Ltd.,Azyxin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,54,18
+75,Trumac Healthcare,Zirom (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,60 Tablet,1 080.00,18
+76,Versatil Pharmaceuticals (P) Ltd.,Aztil (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,54,18
+77,Sanshis Pharmaceuticals,Azin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,54,18
+78,Atlas Laboratories Pvt Ltd,Azitac (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,54,18
+79,Symbiotic Drugs & Diabetic Care (P) Ltd.,Azeloc (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,54,18
+80,Swaraj Chemical & Pharmaceutical Works,Teozi 500,Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,54,18
+81,Acekinetics Healthcare Pvt Ltd,Ace AZ (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,180,18
+82,Himsagar Laboratories Ltd.,Azito (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,54,18
+83,Serve Pharmaceuticals,Art (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,180,18
+84,D.M. Care Biotech (P) Ltd.,D Zithro (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,100 Tablet,1 800.00,18
+85,Jeen Healthcare,Jethro (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,180,18
+86,Affy Pharma Pvt. Ltd.,Zeethro (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,540,18
+87,Sunrise Remedies Pvt Ltd,Ezee (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,54,18
+88,Symbiotic Drugs & Diabetic Care (P) Ltd.,Azelog (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,54,18
+89,Abbott India Ltd.,Ertycin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,54.45,18.15
+90,Piramal Healthcare,Azro (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,54.45,18.15
+91,Salvia Labs Pvt Ltd,Aziva (500 mg) (Salvia Labs),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,54.5,18.17
+92,MSN Laboratories Ltd,Macrosafe (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,55,18.33
+93,Porsche Pharmaceuticals,Zad (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,55,18.33
+94,Amra Remedies,Azamra (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,55,18.33
+95,Mankind Pharmaceuticals Pvt. Ltd.,Zady DT (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,55,18.33
+96,Gold Cross (Blue Cross Laboratories Ltd.),Azibest (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,55,18.33
+97,Ticoma Pharmacia,Azitic (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,40 Tablet,740,18.5
+98,Globus Remedies Ltd,G Thro (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,6 Tablet,111,18.5
+99,Pramukh Swami Pharma Ltd.,Eazythrot (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,185,18.5
+100,Patson Laboratories Pvt.Ltd.,An (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,56,18.67
+101,Totem Biotech Pvt. Ltd.,Azitem (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,56,18.67
+102,Seldom Pharma Pvt Limited,Azisel (500 MG),Tablet    ,1 Tablet,Azithromycin-500 mg ,3 Tablet,56,18.67
+103,Lincoln Pharmaceuticals Ltd,Azilin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,56.1,18.7
+104,Osseous Healthcare (P) L.t.d,Zalith (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg ,3 Tablet,56.1,18.7
+105,Alkem Laboratories Ltd,Azikem Novo (500 MG),Tablet    ,1 Tablet,Azithromycin-500 mg ,5 Tablet,93.61,18.72
+106,Zest Pharma,Azest (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,6 Tablet,112.5,18.75
+107,Scortis Labs (P) Ltd,Zitis (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,6 Tablet,113.7,18.95
+108,Stiefel India (Pvt) Ltd,Azerika (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,57,19
+109,Nitfit Remedies Pvt Ltd,Azix (500 mg) (Nitfit Remedies),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,570,19
+110,Magbro Healthcare Pvt Ltd,Azimor (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,6 Tablet,114,19
+111,Indus Pharma Pvt. Ltd.,Azitack (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,190,19
+112,Xieon Lifesciences Pvt. Ltd.,Fydozith (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,6 Tablet,114,19
+113,Agio Pharmaceuticals Limited,Aziagio FC (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,57,19
+114,Diamond Drugs Pvt Ltd,Azo (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,57,19
+115,Atishya Biotech,AHZ (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,57,19
+116,MRG Biotech Pvt. Ltd,Mariz,Tablet    ,1 Tablet,Azithromycin-500 mg ,3 Tablet,57,19
+117,Lancer Biomed (P) Ltd.,Azikab (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,57,19
+118,Acron Pharmaceuticals,Azicron (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,190,19
+119,Royal Sapphire Remedies,Tanzin DT (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,6 Tablet,114,19
+120,Trio Remedies Pvt.Ltd,Azitab (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,574.24,19.14
+121,Sayona (Zota Healthcare Pvt Ltd),Azina (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,6 Tablet,114.9,19.15
+122,Atoz Pharmaceuticals (Zota Healthcare Pvt Ltd),Azitoz (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,6 Tablet,114.9,19.15
+123,Marline Biocare (Zota Healthcare Pvt Ltd),Azylin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,6 Tablet,115,19.17
+124,Pharma Synth Formulations Ltd.,Azinova (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,6 Tablet,115.5,19.25
+125,Cadila Pharmaceuticals Ltd.,Zycin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,57.9,19.3
+126,Aglowmed Ltd,Azipos (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,6 Tablet,115.9,19.32
+127,Apotex Lifesciences,Apocin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,580,19.33
+128,Uniroyal Biotech,Azy (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,580,19.33
+129,Maxo Chem Ltd,Azikil FC (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,58,19.33
+130,Medi-Genix (Sterling Lab),Zithrostat (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,58,19.33
+131,Alicon Pharmaceuticals Pvt. Ltd.,Azix (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,58,19.33
+132,Indamed Pharmaceuticals Pvt. Ltd,Izicin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,58,19.33
+133,Ind-Chemie Health Specialities Pvt Ltd.,Megamac (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,58,19.33
+134,Shalaks Pharmaceuticals Pvt. Ltd.,Azcre (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,58,19.33
+135,Marc Laboratories Pvt. Ltd.,Azomarc (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,193.5,19.35
+136,Alpha Aromatic Pvt. Ltd.,Corbate (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,58.5,19.5
+137,MDC Pharmaceuticals (P) Ltd.,Azimore (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,195,19.5
+138,Rekvina Pharmaceuticals,Miomycin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,58.5,19.5
+139,AS Pharma,Asomin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,58.5,19.5
+140,Shilar Pharmaceuticals,Azil 500,Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,59,19.67
+141,Novartis India Ltd,Loromycin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,59,19.67
+142,Flamingo Pharmaceutical,Flaag (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,59,19.67
+143,Profic Organic Ltd.,Straf (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,59,19.67
+144,Albia Biocare,Azipal (500 MG),Tablet    ,1 Tablet,Azithromycin-500 mg ,3 Tablet,59.28,19.76
+145,Unichem Laboratories Ltd.,Azforin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,59.4,19.8
+146,Biocare Remedies,Azotox (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,594,19.8
+147,Gurnex Biotech,Nexzi (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,198,19.8
+148,Hi-Tech Pharmaceuticals Pvt Ltd,Azicore (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,198,19.8
+149,Overseas Health Care Pvt. Ltd.,Azysafe (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,59.45,19.82
+150,Medilente Pharma Pvt Ltd,Nidzy (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,59.5,19.83
+151,Mits Healthcare,Azimits (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,59.5,19.83
+152,Fem Care Pharma Limited,Azifem (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,59.5,19.83
+153,Neon Laboratories Ltd,Infectrien (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,198.49,19.85
+154,Darwin Formulations Pvt Ltd,Azithes (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,59.58,19.86
+155,Maxamus International,Coraz (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,59.58,19.86
+156,IntraLife,Azobat (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,59.58,19.86
+157,Welbe Life Sciences,Azel (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,597,19.9
+158,Ambic Aayurchem,Clade (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,199,19.9
+159,PLA Remedies,Azim (500 mg) (PLA Remedies),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,199,19.9
+160,Winsome Laboratories Ltd.,Azidon (500 mg) (Winsome Labs),Tablet    ,1 Tablet,Azithromycin-500 mg,6 Tablet,119.4,19.9
+161,Novazing Pharma Pvt. Ltd.,Acin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,6 Tablet,119.4,19.9
+162,Plus India,Gitro (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,59.7,19.9
+163,Aamorb Pharmaceuticals Pvt Ltd,Azauk (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,59.7,19.9
+164,Little Greave Pharmaceuticals Ltd.,Alneevo (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,59.7,19.9
+165,Genesis Remedies Pvt. Ltd.,Azigreat (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg ,3 Tablet,59.75,19.92
+166,Aknil Biotech,Anzithro (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,59.9,19.97
+167,Oreva Dermacare (Zee Laboratories Ltd),Aziva (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,199.9,19.99
+168,Bestochem Formulations (India) Ltd.,Azibig (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,59.99,20
+169,Hecure Healthcare Pvt Ltd,Heazith (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,60,20
+170,Klokter Life Sciences,Azik (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,200,20
+171,Shince Pharmaceuticals Pvt. Ltd.,Bazince (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,200,20
+172,Zee Laboratories Ltd,Azith (500 mg) (Zee Labs),Tablet    ,1 Tablet,Azithromycin-500 mg,100 Tablet,2 000.00,20
+173,Cezane Remedies Private Limited,Azizane (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,200,20
+174,Coles Pharma,Colzit (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,200,20
+175,Reliance Health Care Pvt. Ltd.,3A (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,60,20
+176,Von Remedies,Vonaze (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,200,20
+177,French Formulations,Zacne (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,200,20
+178,Ascent Remedies Pvt. Ltd.,Azicent (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,60,20
+179,Skyways Healthcare Pvt Ltd,Aziget (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,200,20
+180,Valens Biotech,ASP 500,Tablet    ,1 Tablet,Azithromycin-500 mg ,10 Tablet,200,20
+181,KCM Laboratories,Kzee (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,200,20
+182,Rhythm Medicare,Azithm 500,Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,200,20
+183,Stadia Biotech,Tozy (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,60,20
+184,Lanark Laboratories Pvt Ltd,Azil (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,200,20
+185,Rass Healthcare,Azras (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,200,20
+186,Meditek Life Sciences Pvt.Ltd,Azitek (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,60,20
+187,Fidalgo Laboratories Pvt. Ltd.,Azifid (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg ,10 Tablet,200,20
+188,Pharma-Tech India,Azard (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,60,20
+189,Hosta Labs,Aziab (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,200,20
+190,Aero-Chem Neutron Pvt Ltd,AG (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,60,20
+191,Psyco Remedies.,Azidos (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,200,20
+192,Human Antibiotic Pharmaceuticals Pvt Ltd,Azocin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,60,20
+193,Indian Drugs and Pharmaceuticals Ltd (Ind Biosciences),Azzin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,60,20
+194,Axyzen Life Sciences,Ozith (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,100 Tablet,2 000.00,20
+195,Pride Healthcare,Azipride (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,200,20
+196,Embiotic Laboratories (P) Ltd.,Servazith (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,60.3,20.1
+197,Biochem Pharmaceutical Industrial Ltd,Zithrocin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,60.38,20.13
+198,Sterkem Pharma Pvt Ltd,Azimount (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,60.5,20.17
+199,Daniel Pasteur,Danzithro (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,60.6,20.2
+200,Biotic Healthcare,Aztic (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg ,3 Tablet,61.5,20.5
+201,Dr. Kumars Pharmaceuticals,Tozik (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,6 Tablet,123,20.5
+202,Centaur Pharmaceuticals Pvt.Ltd.,Ziox Tab (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,61.7,20.57
+203,Synokem Pharmaceuticals Ltd,Azikem (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,619.5,20.65
+204,Allpa India Medicines Pvt Ltd,Alo Azi,Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,61.95,20.65
+205,Hanuchem Laboratories,Hazi (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,62,20.67
+206,Life Kyor Pharmaceuticals,Azikyor 500,Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,62,20.67
+207,Enivid Life Sciences,Azivd (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,62,20.67
+208,Sansil Formulations,Azithrosil 500,Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,206.7,20.67
+209,Sarthi Lifesciences,Azirob (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,62.4,20.8
+210,Penam Pharmaceuticals Pvt. Limited,Pezith (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,100 Tablet,2 080.00,20.8
+211,Euphoric Pharmaceuticals Pvt.Ltd.,Doxyric Tab (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,208,20.8
+212,Alkem Laboratories Ltd,Pratham (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg ,3 Tablet,62.5,20.83
+213,Hiral Labs Ltd.,Aziral (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,62.5,20.83
+214,DWD Pharmaceuticals Ltd.,Corzi (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,62.5,20.83
+215,Zodley Pharmaceuticals Pvt Ltd,Aziley (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,62.5,20.83
+216,Radicura Pharmaceutical Pvt. Ltd.,Azicure (500 mg) (Radicura),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,62.55,20.85
+217,Milieus (Glenmark Pharmaceuticals Ltd.),Azifine (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,62.55,20.85
+218,Biocin Genetics & Pharma,Riazith (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,62.55,20.85
+219,Saint laboratories,Azodin 500,Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,208.5,20.85
+220,Svizera Healthcare (Maneesh Pharmaceuticals Ltd),Zetorin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,62.67,20.89
+221,Sentonssa Wellness Pvt.Ltd,Azisen 500,Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,62.97,20.99
+222,Novagen Pharmaceuticals,Zythrol (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,63,21
+223,Cure & Care Biotec Pvt Ltd,Azithrocure (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,63,21
+224,Sarthak Biotech Pvt. Ltd.,Aziro (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,63,21
+225,Windlas Biotech Ltd.,Wiazi 500,Tablet    ,1 mg,Azithromycin-500 mg,3 mg,63,21
+226,Manserve Pharma,Broadtek (500mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,210,21
+227,Osho Pharma Pvt.Ltd.,Azithrosh-T (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,210,21
+228,NPS Pharmaceuticals,Npcin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,63,21
+229,Artel Laboratories,Aztel (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,630,21
+230,Manserve Pharma,Brodtek (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,210,21
+231,Adips Laboratories Ltd.,Azibiotic (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,210,21
+232,Corvin Pharmaceuticals,Arvin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,100 Tablet,2 100.00,21
+233,Zoic Chemicals & Pharmaceuticals Pvt. Ltd.,Hithro 500,Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,63,21
+234,N.B. Healthcare,Azone (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,100 Tablet,2 100.00,21
+235,Dr Alson Laboratories Pvt Ltd,Azison (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,6 Tablet,126,21
+236,NPS Pharmaceuticals,NP Cin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,210,21
+237,Focus Healthcare Pvt Ltd,Tazocin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,210,21
+238,Arika Healthcare,Arizith (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,210,21
+239,Gnova Biotech,Azino (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,100 Tablet,2 100.00,21
+240,Aarpik Pharmaceuticals Pvt. Ltd.,Azpik (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,63,21
+241,Bajaj Pharmaceuticals,Amithro (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,60 Tablet,1 260.00,21
+242,Bio-Swiss Pharma,Enzee (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,630,21
+243,H.L.Healthcare Pvt. Ltd.,Ino BD (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,210,21
+244,Capri Pharmaceuticals,Macromax (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,100 Tablet,2 100.00,21
+245,Keval Pharma,Jet (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,63,21
+246,Hufort (Hos & Ins),Rozil (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,63.1,21.03
+247,Azine Healthcare Pvt. Ltd.,Aziresp (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,211.5,21.15
+248,Quest Pharmaceuticals,Quiz (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,63.5,21.17
+249,Macleods Pharmaceuticals Pvt Ltd.,Zithrox (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,63.5,21.17
+250,Santo Formulations,Azito (500 mg) (Santo Formulations),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,212,21.2
+251,Hexal Pharmaceuticals,Azihex (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,640,21.33
+252,Pramukh Swami Pharma Ltd.,Azithrot (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,64,21.33
+253,Tishcon Pharmed,Suprazi (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,64.3,21.43
+254,Star Biomed (Sanify Healthcare Pvt. Ltd.),Azistar (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,215,21.5
+255,Lumina (FDC Limited),Zathrin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,64.5,21.5
+256,CE-Biotec (P) Ltd.,Zithmax (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg ,10 Tablet,215,21.5
+257,Scott-Edil Pharmacia Ltd.,Azisco (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,215,21.5
+258,Invision Medi Sciences,Azitrac (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,215,21.5
+259,Silver Biotech (Sanify Healthcare Pvt. Ltd.),Veromycin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,215,21.5
+260,Sanify Healthcare Pvt. Ltd.,Sanzify (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,215,21.5
+261,Ausler Snovy Pharma,Azaus (500 MG),Tablet    ,1 Tablet,Azithromycin-500 mg ,3 Tablet,64.5,21.5
+262,Anant Pharmaceuticals,Aady (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,645,21.5
+263,Sanative Remedies (Sanify Healthcare Pvt. Ltd.),Throazi (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,215,21.5
+264,IVA Healthcare Pvt Ltd,Orcithro (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg ,3 Tablet,64.5,21.5
+265,Cipla Limited,Azee (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,64.61,21.54
+266,Sanofi Aventis,Rulide AZ (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,64.61,21.54
+267,Cosme Healthcare (CFL Pharmaceuticals Ltd),Avindo (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,64.69,21.56
+268,Ravian Life Sciences (P) Ltd,Urti (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,65,21.67
+269,Afive (Positif Life Sciences),Avzeth (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,65,21.67
+270,Nutron (Positif Lifesciences),Azicin (500 mg) (Nutron),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,65,21.67
+271,Gujarat Terce Laboratories Ltd.,Aziter (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,65,21.67
+272,Positif Lifesciences,Zuath (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,65,21.67
+273,RPG Life Sciences Ltd,Azistart FC (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,65,21.67
+274,Novus Life Sciences Pvt Ltd,Nizith (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,650,21.67
+275,Merit Organics Ltd.,Meraz (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,650,21.67
+276,Vsaar Pharma,Azesar (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,65,21.67
+277,Safe Pharmaceuticals,Azipen (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,65,21.67
+278,Molekule (India) Pvt. Ltd.,Azipar (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,65,21.67
+279,Helios Pharmaceuticals,Ronin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,65,21.67
+280,Aden Healthcare,Azik (500 mg) (Aden),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,65,21.67
+281,Mandar Pharmaceuticals,Azimac FC (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,217,21.7
+282,D.R.John & Lab,Jocin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,218,21.8
+283,Articon Labs,Jocin (500 mg) (Articon Labs),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,218,21.8
+284,Auztus Laboratories Pvt. Ltd.,Zenthro (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,65.5,21.83
+285,Skinnova (Apex Laboratories Limited),Aziclass (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,65.6,21.87
+286,Pacific India,Azistar (500 mg) (Pacific India),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,219.5,21.95
+287,PRASHIL LIFE SCIENCES PRIVATE LIMITED,Prazi 500,Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,66,22
+288,Oyster Labs Limited,Azin (500 mg) (Oyster Labs),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,220,22
+289,Nexus Biotech,Azux (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,220,22
+290,Basil Pharma,Azisil (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,220,22
+291,Intel Pharmaceuticals,Aznosis (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,220,22
+292,Mittal Remedies,Acin 500,Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,220,22
+293,Geneka Healthcare,Arzee (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,100 Tablet,2 200.00,22
+294,Shinto Biotec Ltd,Nexia (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,220,22
+295,Coastal (Symbiosis Pharmaceuticals Pvt Ltd),Azicos (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,220,22
+296,Pharmacon Gignos,Artize (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,220,22
+297,RSR Healthcare,Azitro (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,660,22
+298,Mickle Pharma,Azimick (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,6 Tablet,132,22
+299,Biosync Pharmaceuticals Pvt Ltd,Azegud (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,220,22
+300,Total Healthcare,Azitop (500 mg) (Total HC),Tablet    ,1 Tablet,Azithromycin-500 mg,60 Tablet,1 320.00,22
+301,Biomax Laboratories,ACT (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,66,22
+302,Paragon Pharmaceuticals,Azigon (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,6 Tablet,132,22
+303,Chemo India,Azi 4U (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,100 Tablet,2 200.00,22
+304,Biomax Laboratories,Bio AZ (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,660,22
+305,Amro Pharma Pvt Ltd,Azihit (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,66,22
+306,Erma Life Sciences,Maczim (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,100 Tablet,2 200.00,22
+307,Blubell Pharma,Blazi (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,60 Tablet,1 320.00,22
+308,Acceleration Organics Pvt. Ltd.,Orgazi (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,220,22
+309,Lacqure Healthcare,Azimo (500 mg) (Lacqure HC),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,220,22
+310,Pharmatech Healthcare,Azitrin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,66,22
+311,Ankare (Anglo French Drugs & Industries Ltd),Azikare (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,220,22
+312,Talent Healthcare,Azitop (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,6 Tablet,132,22
+313,Materkin Formulation (Symbiosis Pharmaceuticals Pvt Ltd),Azitam (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,660,22
+314,Wintech Pharmaceuticals,Azza (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,66,22
+315,Sparkles Exim Pvt Ltd,Spazy (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,66,22
+316,Vilberry Healthcare,Azu (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,66,22
+317,Blaze Pharma,Aziblaze (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,66,22
+318,Elisa Biotech Pvt Ltd,A OD (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,66,22
+319,Saviour Drugs,Zither (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,66,22
+320,Eugenics Medicare Pvt. Ltd,AZ (500 mg) (Eugenics Medicare),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,220.5,22.05
+321,Candor Biotech Limited,Azla (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,220.5,22.05
+322,Willow Pharmaceuticals Pvt Ltd,Arz (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,66.4,22.13
+323,Zenacts Pharma (Kaizen Drugs (P) Ltd),Izzi (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,66.5,22.17
+324,Plasmid Health Care Pvt. Ltd.,Aziplas (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,669,22.3
+325,Ind-Swift Limited,Swithro (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,670,22.33
+326,Lok-Beta Pharmaceuticals (I) Pvt. Ltd.,Lozit (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,67,22.33
+327,FULFIL HEALTHCARE PVT. LTD,Aziful 500,Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,67,22.33
+328,Pharma Plus,U Rom (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,225,22.5
+329,Esma Formulations,Myza (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,67.5,22.5
+330,Laenor Pharmaceuticals,Zifro (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,225,22.5
+331,Esma Formulations,Ezima (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,67.5,22.5
+332,Anvik Biotech,LG Thral (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,225,22.5
+333,Cansas Lifecare,Aziczn (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,6 Tablet,135.37,22.56
+334,Cansas Lifecare,Azican (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,6 Tablet,135.37,22.56
+335,Suave Pharmaceuticals,Azifly,Tablet    ,1 Tablet,Azithromycin-500 mg ,3 Tablet,68,22.67
+336,Vencare Formulations Pvt Ltd,Venzith DT (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,68,22.67
+337,Materkin Formulation (Symbiosis Pharmaceuticals Pvt Ltd),Azitma (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,680,22.67
+338,"Ranbaxy Laboratories Ltd.,",Azax (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,68,22.67
+339,Symbiosis Healthcare (Symbiosis Pharmaceuticals Pvt Ltd),Azila 500,Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,226.7,22.67
+340,Ascent Corporations (Pvt) Ltd,Zytec AZ (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,68.4,22.8
+341,Gopal Life Sciences (Sovia Altis),Azisov (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg ,3 Tablet,68.4,22.8
+342,Sois Formulations (P) Ltd,Amirox (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,685,22.83
+343,Radhe Biotech,Zithran (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,68.5,22.83
+344,Lupin Laboratories Ltd.,Z1 (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg ,3 Tablet,68.5,22.83
+345,Sweadish Lifesciences,Azidish (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg ,3 Tablet,68.5,22.83
+346,Mercury Laboratories Ltd.,Azimer (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,68.5,22.83
+347,Wockhardt Ltd.,Aziwok (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,5 Tablet,114.25,22.85
+348,Low Cost Standard Therapeutics (LOCOST),Azithromycin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,68.65,22.88
+349,Alembic Chemical Works Co Ltd,Azithral (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,68.65,22.88
+350,True Care Pharmaceuticals,Zeecin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,100 Tablet,2 290.00,22.9
+351,Staunch Biotech,Arow (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,229.5,22.95
+352,Iscon Lifesciences,Cozith (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,229.5,22.95
+353,Aztec Life Sciences,Azicon (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,68.85,22.95
+354,Intima (IPCA Laboratories Ltd),Azifast (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,68.87,22.96
+355,IPCA Laboratories Ltd.,Azibact (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,68.87,22.96
+356,Multicure (Laborate Pharmaceuticals India Ltd.),Azimee (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,69,23
+357,Symbiosis Pharmaceuticals Pvt Ltd,Azisym (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,230,23
+358,Alna Biotech,Itha (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,690,23
+359,MBP Pharmaceuticals Private Limited,Azzotek (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,69,23
+360,Kansas Laboratories Pvt. Ltd.,Kazithro (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,69,23
+361,Biochemix Healthcare Pvt Ltd,Azithox (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,230,23
+362,Satyam Lifesciences,Azisat (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,230,23
+363,Indi Pharma Pvt Ltd,Azid (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,69,23
+364,B.L. Pharma Ltd.,Azim (500 mg) (BL Pharma),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,230,23
+365,Novamed (Biochemix Healthcare Pvt Ltd),Myzith (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,230,23
+366,Wonder Healthcare,Wonzith (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,690,23
+367,Eva Biotech Pvt Ltd,Evacin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,69,23
+368,Alpha Lab,Azila (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,230,23
+369,Cinerea Biotech,Azrea (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,230,23
+370,Pancare Pharmaceuticals,Azikap (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,230,23
+371,Daksh Pharma,Dazy (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,69,23
+372,Kelvin Pharmaceuticals Labs. Pvt. Ltd.,Kelaz (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,6 Tablet,138,23
+373,Rax Health Care Pvt. Ltd.,Azirax (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,69,23
+374,Signova Pharma Pvt Ltd,Zigaf (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,69,23
+375,Polaris (Symbiosis Pharmaceuticals Pvt Ltd),Azeris 500,Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,230,23
+376,Akesiss Pharma Pvt Ltd,Azitsa (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,69,23
+377,Mccoy Biotech,Meczon (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,230,23
+378,Digital Vision,Throcin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,100 Tablet,2 300.00,23
+379,Vensat Bio,Zinta (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,230,23
+380,Eugenics Medicare Pvt. Ltd,Euazi (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,230,23
+381,Allenge India,Alicin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,69.3,23.1
+382,Admac Pharma Ltd.,Ziethem (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,60 Tablet,1 386.00,23.1
+383,Cadma (Admac Pharma Ltd.),Cazita (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,60 Tablet,1 386.00,23.1
+384,Lee Benz (Admac Pharma Ltd.),Lazith (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,60 Tablet,1 386.00,23.1
+385,Megamed Remedies,Azipip (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,69.5,23.17
+386,Zota Healthcare Pvt. Ltd.,Azivar (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,6 Tablet,139,23.17
+387,Dorris Pharmaceuticals,Azidor (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,69.5,23.17
+388,Sehat Pharma Pvt.Ltd,Azishah (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,69.8,23.27
+389,Moraceae Pharmaceuticals (P) Ltd.,Azitive (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,699,23.3
+390,Godrams Lifeline,Kapiz (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,69.9,23.3
+391,Allien Pharmaceuticals,Azidale (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,69.95,23.32
+392,Aster Medipharma Pvt. Ltd.,Azact (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg ,6 Tablet,139.9,23.32
+393,Jagsonpal Pharmaceuticals Ltd,Rowezy FC (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,70,23.33
+394,Oirpil Biotech,Orizee (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,70,23.33
+395,Oasis Remedies,AY (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,60 Tablet,1 400.00,23.33
+396,Ester Formulations,Eszit (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,700,23.33
+397,Maxter (Lupin Laboratories Ltd.),Aziswift (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,70.26,23.42
+398,Mefro Pharmaceuticals Pvt Ltd,Azipro (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,71,23.67
+399,Cipla Limited,Azipro (500 mg) (Cipla),Tablet    ,1 Tablet,Azithromycin-500 mg ,3 Tablet,71,23.67
+400,Cipla Limited,Azimax (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,71,23.67
+401,Innovative Pharmaceuticals,Megathral (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg ,3 Tablet,71.34,23.78
+402,Aaron Healthcare & Export Pvt.Ltd,Alzenth (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,71.5,23.83
+403,Euro Biotech (Solitaire Pharmacia Pvt Ltd),Welthrox (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,239,23.9
+404,Genetic Pharma,Aziz (500 mg) (Genetic Pharma),Tablet    ,1 Tablet,Azithromycin-500 mg,50 Tablet,1 200.00,24
+405,Mentis Pharma Ltd.,Azidon (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,240,24
+406,Grampus Laboratories,Azirol (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,72,24
+407,F.C. Remedies,F Zit (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,240,24
+408,Bayberry Pharmaceuticals Pvt. Ltd.,Azi 3 (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,72,24
+409,Multilax Pharmaceuticals Pvt Ltd,Azifort (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,72,24
+410,Acela Healthcare Pvt. Ltd.,Acil OD (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,240,24
+411,Sonika Life Sciences,Semycin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,72,24
+412,Akpash Pharmaceuticals Pvt Ltd,Azidine (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,6 Tablet,144,24
+413,Health Biomed Pharma,Azromed (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,72,24
+414,Baropharn Formulations,Azeba (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,15 Tablet,360,24
+415,Axis Life Science Pvt Ltd,Axithro (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,720,24
+416,Ankom Laboratories,Azirock (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,240,24
+417,Linnet Life Sciences,Lazit (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,720,24
+418,Excare Laboratories,Azitex (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,240,24
+419,American Biocare,Arozy (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,72,24
+420,Stellar Bio Labs,Stazar (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,72,24
+421,Marc Healthcare,Abira (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,25 Tablet,600,24
+422,Intra Labs India Pvt Ltd,Azintra (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,50 Tablet,1 200.00,24
+423,Convoy Remedies,Azicon (500 mg) (Convoy Remedies),Tablet    ,1 Tablet,Azithromycin-500 mg,9 Tablet,216,24
+424,Lactonova India,Xinnova (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,720,24
+425,United Lifecare Pvt Ltd,Azigram (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,72,24
+426,Moreish Pharmaceuticals Pvt. Ltd.,Azirom (500 mg) (Moreish Pharma),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,72,24
+427,Q Check Speciality Care,Azidraw (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,240,24
+428,Torrent Pharmaceuticals Ltd.,Macrotar (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,72,24
+429,Rezichem Healthcare Pvt. Ltd.,Azimuth (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,72,24
+430,Race Pharmaceuticals Pvt Ltd,Azirace (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,6 Tablet,144,24
+431,Lexicon Biotech (India) Ltd,Lazocin (500 mg) (Lexicon India),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,72,24
+432,Baltic Pharmaceuticals,Bactoking AZ (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,72,24
+433,Greenray Pharmaceuticals (P) Ltd,Azigreen (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,72,24
+434,Biovista Lifesciences,Azicin 500 (Biovista LS),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,720,24
+435,Elkos Healthcare,Azikos (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,720,24
+436,Invomed Cotab Pvt Ltd,Azivo (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,72,24
+437,Sanko Biotech,Azimin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,240,24
+438,Biovista Lifesciences,AZR (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,720,24
+439,Anikem Laboratories,Maczi (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,241.6,24.16
+440,Klintoz Pharmaceuticals Pvt Ltd,Azimo (500 mg) (Klintoz Pharma),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,72.9,24.3
+441,Rowan Bioceuticals (P) Ltd.,Avitla (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,72.9,24.3
+442,Curex Pharmaceuticals Pvt. Ltd.,Cumycin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,245,24.5
+443,Panm Labs (India),Anuf (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,60 Tablet,1 470.00,24.5
+444,Auspi Medicaments,Superazi (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,6 Tablet,147,24.5
+445,Avalanche Pharmaceuticals,Azirich (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,245,24.5
+446,Pacific Biotech,Azifar (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,73.9,24.63
+447,Animate Pharma (Abyss Pharma Pvt Ltd),Azulike (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,74,24.67
+448,Cartel Laboratories,Azicar (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,6 Tablet,148,24.67
+449,Bal Pharma Limited,Aziwin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,74,24.67
+450,Hinglaj Laboratories of India,Azilox (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,74,24.67
+451,Healthkind Labs Pvt Ltd (Zenacts Pharma),Gayle (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,74,24.67
+452,Captab Biotec,Elgram (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,249,24.9
+453,UniOrange Life Care Pvt Ltd,Azisafe (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,249,24.9
+454,A.N. Pharmaceuticals Pvt. Ltd.,Anz (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg ,10 Tablet,249,24.9
+455,Forgo Pharmaceuticals (P) Ltd.,Lethro (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,60 Tablet,1 494.00,24.9
+456,Elfin Drugs Pvt. Ltd. (Elfin Pharma Pvt Ltd),Azitrop (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,249,24.9
+457,Orochem (Rishab Healthcare Pvt Ltd),Rizcin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,74.7,24.9
+458,Emar Healthcare,Azmic (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,74.79,24.93
+459,Alka Pharmaceuticals,Azadi (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,748,24.93
+460,Sain Medicaments Pvt. Ltd.,Sazith (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,74.85,24.95
+461,GR Healthcare Laboratories,Gith (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,748.5,24.95
+462,Jarson Pharmaceuticals,Azital (500 mg) (Jarson Pharma),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,74.88,24.96
+463,Hamax Pharmaceuticals,Azim (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,74.88,24.96
+464,Cure Quick Remedies,Throcure DS (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,74.9,24.97
+465,USV Limited.,Doxy 1 Up (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,75,25
+466,Active Healthcare,Aziset (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,75,25
+467,Plethico Drugs (Plethico Pharmaceuticals),Azitech (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,75,25
+468,Zeal Laboratories Pvt Ltd.,Zaz (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,75,25
+469,Apple Biotech,Azet (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,75,25
+470,Sungrace Pharma Pvt. Ltd.,Azisun (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,75,25
+471,Biocare Remedies,Bazi (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,250,25
+472,Allied Chemicals & Pharmaceuticals Pvt.Ltd.,Azilid (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,75,25
+473,Dutech Remedies (I) Pvt. Ltd.,V ZI (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,20 Tablet,500,25
+474,Mancare Laboratories,Aziman (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,250,25
+475,Medico Health Care,Zift (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,75,25
+476,Jpee Drugs,Zicin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,75,25
+477,Eclipser Pharmaceuticals,Edzy (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,6 Tablet,150,25
+478,Haledew Remedies,Azystate (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,75,25
+479,Mac Organics,AZ (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,750,25
+480,Adbio Organics Pvt Ltd,Azbci (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,750,25
+481,Espira Life Science,Azistar (500 mg) (Espira Life Scs),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,75,25
+482,Allentis Pharmaceuticals (P) Ltd,Azotis (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,75,25
+483,Serve Healthcare Pvt Ltd,Azifix (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,75,25
+484,Tyrant Pharma Pvt. Ltd.,Tyzit (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,75,25
+485,Jayson Pharmaceuticals,Azrocin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,75,25
+486,Qualitron (Neiss Labs Pvt Ltd),Aziprime (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,6 Tablet,150,25
+487,Ritz Pharma,Zithro (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,75,25
+488,Novogen Captab Biotec (Novo Nordisk Pharma India Ltd),X Gram (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,50 Tablet,1 250.00,25
+489,Spa Biological Labs,Azispa (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,75,25
+490,Mediwin Laboratories,Winzee (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,75,25
+491,SAS Healthcare (A Division of Smaco Biocon),Azisma (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,250,25
+492,The Pharmed Research Lab Pvt Ltd,Azimycin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,75,25
+493,Avron Pharma,Aziron (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg ,3 Tablet,75,25
+494,Snells Therapetics,Snelzine (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,6 Tablet,150,25
+495,Sykocure Lifesciences,Aicin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,250,25
+496,N.S Pharmaceuticals,Nzid (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,75,25
+497,Health Care Formulations Pvt. Ltd.,Forit (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,75,25
+498,Elder Pharmaceuticals Pvt Ltd,Elderaze (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,75,25
+499,N.B. Pharma,Azirid (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,6 Tablet,150,25
+500,Frank Medilink,Azifran (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,250,25
+501,Nucleo Remedies,Nuthro (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,750,25
+502,Total Healthcare,Azimo (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,6 Tablet,150,25
+503,Talson Pharmaceuticals,Azital (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,75,25
+504,Assure Lifescience Pvt Ltd,Azathine (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg ,3 Tablet,75,25
+505,Silicon Pharma (Rhombus Pharma Pvt Ltd),Azisil (500 mg) (Silicon Pharma),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,75,25
+506,Rhombus Pharma Private Limited,Azirom (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,750,25
+507,Zota Pharmaceuticals (Zota Healthcare Pvt Ltd),Azita (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,250,25
+508,Albion Life Care,Hazy (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,75,25
+509,Arvincare,Zisan (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,750,25
+510,Cosma Biotech,Cosazi (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,75,25
+511,Santiago Life Sciences (BMW Pharmaco India Pvt Ltd),Virazi (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,75,25
+512,Royal Labs,Rithral (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,75.6,25.2
+513,Alwin Wilcare Pharmaceuticals,Heethro (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,76.5,25.5
+514,A.N. Pharmaceuticals Pvt. Ltd.,Aziresp (500 mg) (A.N. Pharma),Tablet    ,1 Tablet,Azithromycin-500 mg ,10 Tablet,255,25.5
+515,Magnus Biotech Pvt. Ltd.,Azmag (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,40 Tablet,1 020.00,25.5
+516,Adley Formulation,Ziticin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,77.2,25.73
+517,Spade (Indoco Remedies Ltd),ATM (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,77.22,25.74
+518,Savoy Biotech,Somycin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,77.25,25.75
+519,Worth Medicines (I) Pvt. Ltd.,Auricin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,258,25.8
+520,Vertex India Healthcare,Vetaz (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,258,25.8
+521,D.R. Johns Labs,Argex (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg ,3 Tablet,77.5,25.83
+522,Saga Laboratories,Zimycin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,259.5,25.95
+523,Adisan Healthcare Pvt. ltd.,Rolaz (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,78,26
+524,Zenon Healthcare,Aziom (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,78,26
+525,Welkind Pharma,Welzi (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,78,26
+526,Nuclear Pharmaceuticals,Nuzith (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,260,26
+527,Kurit Pharma,Azrit (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,78,26
+528,Gravion Life Sciences,Azigro (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,78,26
+529,BMW Pharmaco India Pvt Ltd,Sweazi (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,78,26
+530,Agron Remedies Pvt Ltd (Agrogem),Aziviz (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,100 Tablet,2 600.00,26
+531,Aronex Life Sciences Pvt. Ltd.,Azinex (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,78,26
+532,Laksun Lifesciences,Aztin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,260,26
+533,Teblik Drugs Ltd.,Azim (500 mg) (Teblik Drugs),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,260,26
+534,Agron Remedies Pvt Ltd (Agrogem),Azag (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,260,26
+535,Aqualife Pharmaceuticals,Azilife (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,78,26
+536,Stallion Laboratories Pvt Ltd,Azal (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,78,26
+537,Agron Remedies Pvt Ltd (Agrogem),Agthro (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,6 Tablet,156,26
+538,Madhav Biotech Pvt. Ltd.,Azvig (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,50 Tablet,1 300.00,26
+539,Jantec Pharma,Hatch (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,60 Tablet,1 560.00,26
+540,Orion Biotech Pvt. Ltd.,Acex (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,78,26
+541,De Wallace Pharmaceuticals,Azwel (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,78,26
+542,Syskem Pharmocrats.,Syzil (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,260,26
+543,Tavis Lifecare,Tazi (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,78,26
+544,Anze Biotech,Zexid,Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,78,26
+545,Om Biotec,Azithom (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,780,26
+546,Welkin Boon Pharmaceuticals Co.,Aziwel (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,78,26
+547,Valcret Lifesciences Pvt Ltd,Azicern (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,78,26
+548,Medis Lab (Pragati Biocare Pvt Ltd),Azodis (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,79,26.33
+549,Radico Remedies,Radithro (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,79.13,26.38
+550,USV Limited.,Azotik (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,79.73,26.58
+551,Om Biomedic Pvt Ltd,Moraxe (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,800,26.67
+552,Thiest Biotec,Azist (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,800,26.67
+553,Quality Pharmaceuticals Industries,Zoom (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,80.08,26.69
+554,Health Guard (India) Pvt. Ltd.,HGA 500,Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,80.7,26.9
+555,Vanran Healthcare Pvt Ltd,Azibrite (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,81,27
+556,Woodrock Healthcare Pvt. Ltd.,Azinit (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,270,27
+557,Manum Healthcare Pvt. Ltd.,Azigrip (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,270,27
+558,Fourrts (India) Laboratories Pvt. Ltd.,Rtlide (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,81,27
+559,Epitome Life Sciences,Azitome (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,270,27
+560,Ortin Laboratories Ltd,Azitin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,1 Tablet,27,27
+561,Meridian Medicare Ltd.,Zohri (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,270,27
+562,Quadriga Biotech Pvt Ltd,Aziga (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,819,27.3
+563,Goldline Pharmaceuticals,Azithree (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,82.5,27.5
+564,Fulford (India) Ltd.,Azuma (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,82.6,27.53
+565,Orley Laboratories Pvt Ltd.,Azith (500 mg) (Orley Labs),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,83,27.67
+566,Micro Labs Ltd (India) (Micro Labs Ltd),Azilide (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,83,27.67
+567,Gladcare,Azigla (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,280,28
+568,Plenteous Pharmaceuticals Ltd.,Dare (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,840,28
+569,Arlak Biotech Pvt Ltd,Vizit (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,6 Tablet,168,28
+570,Midas Biotek Pvt.Ltd.,Azimid (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,280,28
+571,Sac Pharmaceuticals,Sachtro (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,84.4,28.13
+572,Om Hare Ram Healthcare Pvt. Ltd.,Aziram (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,6 Tablet,169.99,28.33
+573,Intas Pharmaceuticals Ltd.,Azitas (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,85,28.33
+574,Alembic Chemical Works Co Ltd,Gerimac (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,85,28.33
+575,Intas Laboratories Pvt Ltd,Azintas (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,85,28.33
+576,Dr Reddy Laboratories Ltd,Azorta (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg ,3 Tablet,85,28.33
+577,Pfizer Limited (Pharmacia India Pvt Ltd),Trulimax (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,85,28.33
+578,Nectar Lifesciences Ltd (Neccare),Azinetra (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,85,28.33
+579,Altar Life Sciences (Altar Healthcare),Azitar (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,290,29
+580,Antigen Healthcare P. Ltd.,Alight (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,87,29
+581,Renvic Lifesciences Pvt Ltd,Rizithro (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,87,29
+582,Sunwin Healthcare,Azibet 500,Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,87,29
+583,Vista Healthcare,Azopet (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,88,29.33
+584,Maan Pharmaceutical Ltd.,Maazi (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,89,29.67
+585,UCB India Ltd.,Maxithral (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,89.5,29.83
+586,Shalman Pharmaceuticals Pvt. Ltd.,Azicin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,299,29.9
+587,SJK Pharmaceuticals Pvt. Ltd.,Setrocin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,899,29.97
+588,Hauz Pharma Pvt Ltd,Azeewah (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,900,30
+589,Merril Pharma Pvt. Ltd.,Azme (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,300,30
+590,Indo-Reh Pharmaceuticals,AZM (500 mg) (Indo-Reh),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,300,30
+591,La Med India,AMC (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,90,30
+592,Nexgen Pharma Pvt. Ltd.,Genzithro (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,900,30
+593,Orange Healthcare Pvt. Ltd.,Azikey (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,92,30.67
+594,Athens Labs Ltd.,Suprozith (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,93,31
+595,Elikem Pharmaceuticals Pvt. Ltd.,Ezil (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,320,32
+596,Innovative Remedies,Azithrin (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,99,33
+597,Merion Care,Merizithro (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,332.5,33.25
+598,Allure Remedies Pvt Ltd,Azure (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,100,33.33
+599,K.C. Laboratories Pvt. Ltd.,Atryn (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,101.21,33.74
+600,East West Pharma,Azith (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,349,34.9
+601,Radico Remedies,Azit (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,105,35
+602,Jaywin Remedies Pvt. Ltd.,Zec (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,350,35
+603,Devi Formulations Pvt Ltd.,Dezithro (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,370,37
+604,Zenlabs India,Zenali (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,30 Tablet,1 200.00,40
+605,Cipla Limited,Azicip (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,144,48
+606,Ion Heathcare Pvt. Ltd.,Azicure (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,148.5,49.5
+607,Que Pharma Pvt.Ltd,Aziq (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,498,49.8
+608,Suzikem Drugs Pvt. Ltd.,Azil (500 mg) (Suzikem Drugs),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,520,52
+609,UPS Healthcare,Zimy (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,10 Tablet,606,60.6
+610,Shadye-Lynn Remedies,Azilynn,Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,215.4,71.8
+611,Pfizer Limited (Pharmacia India Pvt Ltd),Vicon (500 mg),Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,234.89,78.3
+612,Azillian Healthcare Pvt Ltd,Azi OD 500,Tablet    ,1 Tablet,Azithromycin-500 mg,3 Tablet,240,80
+613,Unilite Medicare Pvt Ltd,Uzee (500 mg),Capsule    ,1 Capsule,Azithromycin-500 mg,3 Capsule,57,19
+614,Piramal Healthcare,Azisara (500 mg),Capsule    ,1 Capsule,Azithromycin-500 mg,3 Capsule,146.08,48.69
+615,J.K. Drugs & Pharmaceutical Pvt. Ltd.,Azolide RD (500 mg),Capsule    ,1 Capsule,Azithromycin-500 mg,10 Capsule,500,50
+616,Innovative Pharmaceuticals,Megathral (500 mg),Injection    ,1 ml,Azithromycin-500 mg ,10 ml,216.82,21.68
+617,Godrams Lifeline,Kapiz 500,Injection    ,1 Vial,Azithromycin-500 mg,1 Vial,140,140
+618,Cipla Limited,Azee Inj (500 mg),Injection    ,1 Vial,Azithromycin-500 mg,1 Vial,185.5,185.5
+619,Zyphars Pharmaceuticals Pvt Ltd,Vazir (500 mg),Injection    ,1 Vial,Azithromycin-500 mg,1 Vial,196,196
+620,Alembic Chemical Works Co Ltd,Azithral Inj (500 mg),Injection    ,1 Vial,Azithromycin-500 mg,1 Vial,199,199
+621,Nexus Biotech,Azux Inj (500 mg),Injection    ,1 Vial,Azithromycin-500 mg,1 Vial,199,199
+622,Venus Remedies,Actimycin (500 mg),Injection    ,1 Vial,Azithromycin-500 mg,1 Vial,205,205

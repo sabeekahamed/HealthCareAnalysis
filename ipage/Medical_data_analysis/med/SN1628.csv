@@ -1,0 +1,9 @@
+S/N,Manufacturer,Name,Type,Unit(Dose),Constituents/Unit,Package unit,Price(In Rs.),Price/Unit (In Rs.)
+1,Lupin Laboratories Ltd.,Akt FD,Tablet    ,1 Tablet,Isoniazid-100 mg,3 Tablet,13.93,4.64
+,,,,,Pyrazinamide-500 mg,,,
+,,,,,Ethambutol-267 mg,,,
+,,,,,Rifampicin-150 mg,,,
+2,Alkem Laboratories Ltd,Coxter 4FD,Tablet    ,1 Tablet,Pyrazinamide-500 mg,10 Tablet,57,5.7
+,,,,,Isoniazid-100 mg,,,
+,,,,,Rifampicin-150 mg,,,
+,,,,,Ethambutol-267 mg,,,

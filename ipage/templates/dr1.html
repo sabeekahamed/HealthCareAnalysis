@@ -1,0 +1,43 @@
+{% extends "extdlogin.html" %}
+{% block c %}{% load static %}
+<div class="modal">
+    <div class="questions-content">
+      <div class="modal-body">
+        <!--<img src="{% static "ipage/files/bb.png" %}" style="height:20px;margin-left:20px; margin-top:20px; position:fixed; cursor:pointer;" id="b">-->
+        <form method="post">{% csrf_token %}
+        <center><strong style="font-size:18pt;"> Queries </strong><br></center><br>
+        <p style="margin-left:50px;"> Weight: {{ form2.weight }}<p>
+            <div id="line"></div><br>
+        <p style="margin-left:50px;">Does the patient have cough : {{ form2.c_duration }}<p>
+          <div id="line"></div><br>
+        <p style="margin-left:50px;">Does the patient have fever : {{ form2.f_temp }}<p>
+          <div id="line"></div><br>
+        <p style="margin-left:50px;">Does the patient have chestpain : {{ form2.chest }}  <!--<span style="margin-left:50px;"> Since When : {{ form.fd }} </span>--> <p>
+          <div id="line"></div><br>
+        <p style="margin-left:50px;">Does the patient have breathing problems : {{ form2.breathing }} <!--<span style="margin-left:50px;"> Since When : {{ form.fd }} </span>--> <p>
+          <div id="line"></div><br>
+        <p style="margin-left:50px;">Does the patient have Wheezing : {{ form2.vsing }} <p>
+          <div id="line"></div><br>
+        <p style="margin-left:50px;">Does the patient have night sweats : {{ form2.sweats }} <!--<span style="margin-left:50px;"> Since When : {{ form.fd }} </span>--> <p>
+          <div id="line"></div><br>
+        <p style="margin-left:50px;">Does the patient feel Sleeplessness : {{ form2.sleep }}<!--<span style="margin-left:50px;"> Since When : {{ form.fd }} </span>--> <p>
+          <div id="line"></div><br>
+        <p style="margin-left:50px;">Does the patient have weight-loss : {{ form2.weightl }}<p>
+          <div id="line"></div><br>
+        <p style="margin-left:50px;">Does the patient have throat irritation : {{ form2.throat }}<p>
+          <div id="line"></div><br>
+        <p style="margin-left:50px;">Does the patient feel nasal pain : {{ form2.nose }}<!--<span style="margin-left:50px;"> Since When : {{ form.fd }} </span>--> <p>
+          <div id="line"></div><br>
+        <p style="margin-left:50px;">Does the patient have skin rashes : {{ form2.skin }} <!--<span style="margin-left:50px;"> Since When : {{ form.fd }} </span>--> <p>
+          <div id="line"></div><br>
+        <p style="margin-left:50px;">Does the patient have any of these habits : {{ form2.habits }}<p>
+          <div id="line"></div><br>
+        <p style="margin-left:50px;">if any other kind of infections if the patient has means share in the text box :<p>
+        <p style="margin-left:20%;">{{ form2.textbox}}</p>
+        <button type="submit" style="margin-left:45%;" >Submit</button>
+        <button type="reset" >Clear</button>
+        </form>
+      </div>
+    </div>
+  </div>
+{% endblock %}

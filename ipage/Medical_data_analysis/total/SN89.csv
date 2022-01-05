@@ -1,0 +1,31 @@
+S/N,Manufacturer,Name,Type,Unit(Dose),Constituents/Unit,Package unit,Price(In Rs.),Price/Unit (In Rs.)
+1,Marc Laboratories Pvt. Ltd.,Fobigone (400 mg),Tablet    ,1 Tablet,Carbamazepine-400 mg,10 Tablet,19.2,1.92
+2,Abbott Healthcare Pvt Ltd (AHPL),Mazetol (400 mg),Tablet    ,1 Tablet,Carbamazepine-400 mg,10 Tablet,24.24,2.42
+3,Sun Pharmaceutical Industries Ltd.,Zeptol (400 mg),Tablet    ,1 Tablet,Carbamazepine-400 mg,10 Tablet,24.77,2.48
+4,Mind (Torrent Pharmaceuticals Ltd.),Carbatol CR (400 mg),Tablet    ,1 Tablet,Carbamazepine-400 mg,10 Tablet,25.44,2.54
+5,Intas Laboratories Pvt Ltd,Zen Retard (400 mg),Tablet    ,1 Tablet,Carbamazepine-400 mg,10 Tablet,26.08,2.61
+6,Synapse (Micro Labs Ltd),Versitol RTD (400 mg),Tablet    ,1 Tablet,Carbamazepine-400 mg,10 Tablet,26.17,2.62
+7,Abbott Healthcare Pvt Ltd (AHPL),Mazetol SR (400 mg),Tablet    ,1 Tablet,Carbamazepine-400 mg,10 Tablet,26.35,2.64
+8,Psyco Remedies.,Antilep CR (400 mg),Tablet    ,1 Tablet,Carbamazepine-400 mg,10 Tablet,27,2.7
+9,Cinerea Biotech,Cincar (400 mg),Tablet    ,1 Tablet,Carbamazepine-400 mg,10 Tablet,27,2.7
+10,Sun Pharmaceutical Industries Ltd.,Zeptol CR (400 mg),Tablet    ,1 Tablet,Carbamazepine-400 mg,10 Tablet,27.21,2.72
+11,Crescent Formulations Pvt Ltd (Crescent Therapeutics Ltd. ),Zigma CR (400 mg),Tablet    ,1 Tablet,Carbamazepine-400 mg,10 Tablet,28.15,2.82
+12,Novartis Pharmaceuticals Ltd.,Tegrital (400 mg),Tablet    ,1 Tablet,Carbamazepine-400 mg,10 Tablet,34.5,3.45
+13,Novartis India Limited,Tegretol (400 mg),Tablet    ,1 Tablet,Carbamazepine-400 mg,10 Tablet,34.54,3.45
+14,La Pharmaceuticals,Mezapin Ext (400 mg),Tablet    ,1 Tablet,Carbamazepine-400 mg,10 Tablet,35,3.5
+15,Elikem Pharmaceuticals Pvt. Ltd.,Evic (400 mg),Tablet    ,1 Tablet,Carbamazepine-400 mg,10 Tablet,35,3.5
+16,Reliance Formulation Pvt Ltd,Mezaril SR (400 mg),Tablet    ,1 Tablet,Carbamazepine-400 mg,10 Tablet,36.72,3.67
+17,Modi Mundi Pharma Ltd.,Carbacontin (400 mg),Tablet    ,1 Tablet,Carbamazepine-400 mg,10 Tablet,36.84,3.68
+18,Elikem Pharmaceuticals Pvt. Ltd.,Evic SR (400 mg),Tablet    ,1 Tablet,Carbamazepine-400 mg,10 Tablet,37,3.7
+19,Pharmacia India Ltd,Acetol CR (400 mg),Tablet    ,1 Tablet,Carbamazepine-400 mg,10 Tablet,37,3.7
+20,Pharmacia India Ltd,Acetol (400 mg),Tablet    ,1 Tablet,Carbamazepine-400 mg,10 Tablet,37,3.7
+21,LifeCare Labs Pvt. Ltd.,Zep CR (400 mg),Tablet    ,1 Tablet,Carbamazepine-400 mg,10 Tablet,37,3.7
+22,Pifer Pharmaceuticals Pvt Ltd,C Lep SR (400 mg),Tablet    ,1 Tablet,Carbamazepine-400 mg,10 Tablet,37,3.7
+23,Orchid Chemicals & Pharmaceuticals Ltd.,Salicarb SR (400 mg),Tablet    ,1 Tablet,Carbamazepine-400 mg,10 Tablet,37.13,3.71
+24,Intas Laboratories Pvt Ltd,Zen (400 mg),Tablet    ,1 Tablet,Carbamazepine-400 mg,10 Tablet,37.3,3.73
+25,Pentacare (Alkem Laboratories Ltd),Zepcar CR (400 mg),Tablet    ,1 Tablet,Carbamazepine-400 mg,10 Tablet,37.71,3.77
+26,Cyril Pharmaceuticals,Tegtol CR (400 mg),Tablet    ,1 Tablet,Carbamazepine-400 mg,10 Tablet,39,3.9
+27,Zeus Pharmaceuticals,Tegril CR (400 mg),Tablet    ,1 Tablet,Carbamazepine-400 mg,10 Tablet,40,4
+28,Talent Laboratories,Carbizen-SR (400 mg),Tablet    ,1 Tablet,Carbamazepine-400 mg,100 Tablet,400,4
+29,Talent Healthcare,Epilent SR (400 mg),Tablet    ,1 Tablet,Carbamazepine-400 mg,100 Tablet,401,4.01
+30,Novartis Pharmaceuticals Ltd.,Tegrital CR (400 mg),Tablet    ,1 Tablet,Carbamazepine-400 mg,10 Tablet,41.7,4.17

@@ -1,0 +1,102 @@
+{% extends "home.html" %}
+{% block content %}{% load static %}
+<style>
+.t {
+  position: relative;
+  display: block;
+  width: 150px;
+  //border-bottom: 1px dotted black;
+}
+
+.t .tt {
+  visibility: hidden;
+  width: 150px;
+  background-color: black;
+  color: white;
+  //text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  top: -5px;
+  right: 100%;
+}
+
+.t .tt::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 100%;
+  margin-top: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: transparent transparent transparent black;
+}
+.t:hover .tt {
+  visibility: visible;
+}
+</style>
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+  <div class="container">
+    <a class="navbar-brand" href="">Health Care</a><span style="color:white;margin-left:30%;">{{w}}</span>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item active">
+          <a class="nav-link" style="outline:none; cursor:pointer;" id="doc">Doctor login</a>
+        </li>
+        <li class="nav-item active">
+          <a class="nav-link" style="outline:none; cursor:pointer;" id="pat">Patient login</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<div id="dlogin" class="modal">
+    <div class="modal-content">
+      <div class="modal-body">
+        <form method = "post">{% csrf_token %}
+          <center><h5 style="line-height:200%;">Doctor login</h5></center>
+          <h6><p style="margin-left:20px;">Doctor id : {{ form1.did }}</p>
+              <p style="margin-left:20px;">Password : {{ form1.dpwd }}</p></h6>
+              <button style="margin-left:225px;border:none;background-color:whitesmoke;"type = "submit"  > Submit </button><br>
+                <p class="t" style="margin-top:-7%;margin-left:6%;">Forgot Password..?<span class="tt">...Contact Admin...</span></p>
+        </form>
+      </div>
+    </div>
+  </div>
+  <div id="plogin" class="modal">
+      <div class="modal-content">
+        <div class="modal-body">
+          <form method = "post">{% csrf_token %}
+            <center><h5 style="line-height:200%;">Patient login</h5></center>
+            <h6>
+              <p style="margin-left:20px;">Patient id : {{ form2.pid }}</p>
+              <p style="margin-left:20px;"> Password : {{ form2.ppwd }}</p>
+            </h6>
+                <button style="margin-left:225px;border:none;background-color:whitesmoke;" type = "submit"> Submit </button>
+                <p class="t" style="margin-top:-7%;margin-left:6%;" id="r">Forgot Password..?<span class="tt">...Contact Admin...</span></p>
+          </form>
+        </div>
+      </div>
+    </div>
+    <div id="register" class="reg">
+        <div class="reg-content">
+            <form method="post">{% csrf_token %}
+              <br><br><h2 style="margin-left: 10%;"> Registration form</h2>
+              <div style="margin-top:25px;">
+                <h6 style="text-indent:13%;">Firstname :<p style="margin-top:-4%; margin-left:18%;">  {{ form3.f_name }} </p></h6>
+                <h6 style="text-indent:13.3%;">Lastname :<p style="margin-top:-4%; margin-left:18%;">  {{ form3.l_name }} </p></h6>
+                <h6 style="text-indent:9%;">Date of birth :<p style="margin-top:-4%; margin-left:22.3%;">  {{ form3.age }} </p></h6>
+                <h6 style="text-indent:15.8%;">Gender : </h6>
+                <h6 style="margin-left:19%; margin-top:-5%;">{{ form3.gender }} </h6>
+              </div>
+              <button style="margin-left:200px;" type="submit">Register</button>
+              <button type="reset">Clear</button><br>
+            </form>
+        </div>
+      </div>
+{% endblock %}

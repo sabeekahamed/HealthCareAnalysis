@@ -1,0 +1,16 @@
+S/N,Manufacturer,Name,Type,Unit(Dose),Constituents/Unit,Package unit,Price(In Rs.),Price/Unit (In Rs.)
+1,Unichem Laboratories Ltd.,Antoicox-Z (750+450+300),Tablet    ,1 Tablet,Pyrazinamide-750 mg,3 Tablet,11.68,3.89
+,,,,,Isoniazid-300 mg,,,
+,,,,,Rifampicin-450 mg,,,
+2,Alkem Laboratories Ltd,Coxter 3 (450+300+750),Tablet    ,1 Tablet,Isoniazid-300 mg,3 Tablet,11.78,3.93
+,,,,,Pyrazinamide-750 mg,,,
+,,,,,Rifampicin-450 mg,,,
+3,Medispan Limited.,Triantibin (Kit),Kit   ,1 Kit,Pyrazinamide-750 mg,1 Kit,7.6,7.6
+,,,,,Isoniazid-300 mg,,,
+,,,,,Rifampicin-450 mg,,,
+4,Sandoz (Novartis India Ltd),Rimactazid +Z (750+300+450),Kit   ,1 Kit,Rifampicin-450 mg,1 Kit,11.34,11.34
+,,,,,Isoniazid-300 mg,,,
+,,,,,Pyrazinamide-750 mg,,,
+5,Glaxo Smithkline Pharmaceuticals Ltd.,Zucox (Kit),Kit   ,1 Kit,Pyrazinamide-750 mg,1 Kit,16.27,16.27
+,,,,,Isoniazid-300 mg,,,
+,,,,,Rifampicin-450 mg,,,

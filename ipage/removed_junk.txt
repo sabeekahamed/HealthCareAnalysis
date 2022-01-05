@@ -1,0 +1,111 @@
+<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+  <span class="sr-only">Previous</span>
+</a>
+<a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+  <span class="sr-only">Next</span>
+</a>
+
+<form method = "post"><br>{% csrf_token %}
+  <h2><p>Doctor login </p>
+  <p >Patient login</p></h2>
+  <h4><p>Doctor id : {{ form1.did }}</p>
+      <p>Password : {{ form1.dpwd }}</p></h4>
+      <button type = "submit" > Submit </button>{{o}}
+</form>
+<form method="post">{% csrf_token %}
+  <h4><p>Patient id : {{ form2.pid }}</p>
+      <p>Password : {{ form2.ppwd }}</p></h4>
+      <button type = "submit" > Submit </button>{{p}}
+</form>
+
+<!-- Page Content -->
+<section class="py-5">
+  <div class="container">
+    <h1>Full Slider by Start Bootstrap</h1>
+    <p>The background images for the slider are set directly in the HTML using inline CSS. The rest of the styles for this template are contained within the
+      <code>full-slider.css</code>file.</p>
+  </div>
+</section>
+
+<!-- Footer -->
+<footer class="py-5 bg-dark">
+  <div class="container">
+    <p class="m-0 text-center text-white">Copyright &copy; Your Website 2018</p>
+  </div>
+  <!-- /.container -->
+</footer>
+
+
+style="z-index:-1;"
+
+
+
+<form style = "filter: none; "method="post">{% csrf_token %}
+  <br><h4><a href="/" style="margin-left:90em; color:white;text-decoration: none" >Logout</a></h4>
+  <br><br><br>
+  <h4><p style="text-indent:130px;" >Patient id : {{ form.patient_id }}</p>
+      <p style="text-indent:112px;" >Disease type : {{ form.disease }}</p></h4>
+  <button style="margin-left:15em;" type="submit" onclick="ClearFields();">Search medicine</button>
+  <button style="margin-left:1em;" type="reset" onclick="ClearFields();">Clear</button>
+</form>
+<table>
+  <tr>
+    <th>Disease</th> <th>Medicine</th> <th>Dosage</th> <th>Time</th> <th>Price</th>
+  </tr>
+  <tr>
+    <td>{{d}}<td> {{m}} </td> <td> {{do}} </td> <td> {{t}} </td><td> {{p}} </td>
+  </tr>
+</table>
+
+
+
+onclick="ClearFields();
+
+
+
+
+
+      {% for po in po %}
+      {{ po.f_name }}
+      {{ po.l_name}}
+      {{ po.age }}
+      {{ po.gender }}
+      {{ po.date }}
+      {{ po.id }}<br>
+      {% endfor %}
+
+
+      <!--<img src="{% static "ipage/arrow.png" %}" style="height:30px; margin-top:20px; position:fixed;" onclick="f()">-->
+      <form method="post"><center style="margin-top:20px;"><strong style="font-size:18pt;"> Queries </strong><br></center><br>
+      <p style="margin-left:50px;">Do you have cough : {{ form2.c_duration }}<p>
+      <p style="margin-left:50px;">Do you have fever : {{ form2.fever }} {{ form2.f_temp }}<p>
+      <p style="margin-left:50px;">Do you have chestpain : {{ form2.chest }}<p>
+      <p style="margin-left:50px;">Do you have breathing problems : {{ form2.breathing }}<p>
+      <p style="margin-left:50px;">Wheezing : {{ form2.vsing }}<p>
+      <p style="margin-left:50px;">Do you have night sweats : {{ form2.sweats }}<p>
+      <p style="margin-left:50px;">Sleeplessness : {{ form2.sleep }}<p>
+      <p style="margin-left:50px;">Do you have weight-loss : {{ form2.weight }}<p>
+      <p style="margin-left:50px;">Do you have throat irritation : {{ form2.throat }}<p>
+      <p style="margin-left:50px;">Do you feel nozzile inflammation or narrowed : {{ form2.nose }}<p>
+      <p style="margin-left:50px;">Do you have skin rashes : {{ form2.skin }}<p>
+      <p style="margin-left:50px;">Do you have any of these habits : {{ form2.habits }}<p>
+      <p style="margin-left:50px;">if any other kind of infections you have means share in the text box :<p>
+      <p style="margin-left:50px;">{{ form2.textbox}}</p>
+      <button style="margin-left:260px;" type="submit">Submit</button>
+      <button type="reset" id="q" >Clear</button>
+      </form>
+
+      <style>
+        @media (max-width: 600px) {
+          .carousel-caption {
+            display: none; /* Hide the carousel text when the screen is less than 600 pixels wide */
+          }
+        }
+      </style>
+
+l = len(os.listdir("ipage\patient_details"))
+      data = {'fname': fn, 'lname':ln, 'Dob':dob, 'Gender':g}
+        with open('ipage\patient_details\{}.json'.format(filename), 'w') as f:
+                 json.dump(data, f)

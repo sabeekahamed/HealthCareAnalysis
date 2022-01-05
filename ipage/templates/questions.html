@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link href="{% static "ipage/css/modal_search.css" %}" rel="stylesheet">
+  </head>
+  <body>
+    <div id="Quest" class="modal">
+        <div class="questions-content">
+          <div class="modal-body">
+            <img src="{% static "ipage/files/bb.png" %}" style="height:20px;margin-left:20px; margin-top:20px; position:fixed; cursor:pointer;" id="b">
+            <form method="post"><center style="margin-top:20px;"><strong style="font-size:18pt;"> Queries </strong><br></center><br>
+            <p style="margin-left:50px;"> Weight: {{ form2.weight }}<p>
+                <div id="line"></div><br>
+            <p style="margin-left:50px;">Do you have cough : {{ form2.c_duration }}<p>
+              <div id="line"></div><br>
+            <p style="margin-left:50px;">Do you have fever : {{ form2.f_temp }}<p>
+              <div id="line"></div><br>
+            <p style="margin-left:50px;">Do you have chestpain : {{ form2.chest }}<p>
+              <div id="line"></div><br>
+            <p style="margin-left:50px;">Do you have breathing problems : {{ form2.breathing }}<p>
+              <div id="line"></div><br>
+            <p style="margin-left:50px;">Wheezing : {{ form2.vsing }}<p>
+              <div id="line"></div><br>
+            <p style="margin-left:50px;">Do you have night sweats : {{ form2.sweats }}<p>
+              <div id="line"></div><br>
+            <p style="margin-left:50px;">Sleeplessness : {{ form2.sleep }}<p>
+              <div id="line"></div><br>
+            <p style="margin-left:50px;">Do you have weight-loss : {{ form2.weightl }}<p>
+              <div id="line"></div><br>
+            <p style="margin-left:50px;">Do you have throat irritation : {{ form2.throat }}<p>
+              <div id="line"></div><br>
+            <p style="margin-left:50px;">Do you feel nozzile inflammation or narrowed : {{ form2.nose }}<p>
+              <div id="line"></div><br>
+            <p style="margin-left:50px;">Do you have skin rashes : {{ form2.skin }}<p>
+              <div id="line"></div><br>
+            <p style="margin-left:50px;">Do you have any of these habits : {{ form2.habits }}<p>
+              <div id="line"></div><br>
+            <p style="margin-left:50px;">if any other kind of infections you have means share in the text box :<p>
+            <p style="margin-left:20%; overflow:auto;">{{ form2.textbox}}</p>
+            <button style="margin-left:45%;" type="submit">Submit</button>
+            <button type="reset" id="c">Clear</button>
+            </form>
+          </div>
+        </div>
+      </div>
+    <script src="{% static "ipage/script/modal_search.js" %}"></script>
+
+  </body>
+</html>

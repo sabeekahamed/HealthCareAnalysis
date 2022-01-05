@@ -1,0 +1,86 @@
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 0; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgba(0,0,0,0.3); /* Black w/ opacity */
+  color:white;
+}
+
+/* Modal Content */
+.modal-content {
+  position: relative;
+  left:38%;
+  top:25%;
+  background-color:rgba(0, 0, 0,0.5);
+  text-indent: 10px;
+  border: none;
+  width: 360px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+  -webkit-animation-name: animatetop;
+  -webkit-animation-duration: 0.4s;
+  animation-name: animatetop;
+  animation-duration: 0.9s
+}
+
+.reg {
+  display: block; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 0; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  background-color: rgba(0,0,0,0); /* Black w/ opacity */
+  color:white;
+}
+
+
+/* Modal Content */
+.reg-content {
+  display: block;
+  border-radius: 5px;
+  border: none;
+  position: fixed;
+  top:20%;
+  right:3%;
+  background-color:rgba(0, 0, 0,0.5);
+  text-indent: 10px;
+  border: 1px solid #888;
+  width: 500px;
+  height:50%;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+  -webkit-animation-name: aright;
+  -webkit-animation-duration: 0.9s;
+  animation-name: aright;
+  animation-duration: 0.9s
+}
+
+/* Add Animation */
+@-webkit-keyframes aright {
+  from {right:-300px; opacity:0}
+  to {right: 3%; opacity:1}
+}
+
+@keyframes aright {
+  from {right:-300px; opacity:0}
+  to {right:3%; opacity:1}
+}
+
+
+/* Add Animation */
+@-webkit-keyframes animatetop {
+  from {top:-300px; opacity:0}
+  to {top:25%; opacity:1}
+}
+
+@keyframes animatetop {
+  from {top:-300px; opacity:0}
+  to {top:25%; opacity:1}
+}

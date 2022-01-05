@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>{% load static %}
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title> Doctor page </title><link rel = "icon" type="image/png" href = "{% static "ipage/files/m.png" %}" />
+    <link href="{% static "ipage/css/bootstrap.css" %}" rel="stylesheet">
+    <link href="{% static "ipage/css/full-slider.css" %}" rel="stylesheet">
+    <link href="{% static "ipage/css/modal_search.css" %}" rel="stylesheet">
+    <link href="{% static "ipage/css/footer.css" %}" rel="stylesheet">
+  </head>
+
+  <body>
+
+    <header>
+      <div id="carouselExampleIndicators" class="carousel slide carousel-fade" data-ride="carousel">
+        <ol class="carousel-indicators" style="display:none;">
+          <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+        </ol>
+        <div class="carousel-inner" role="listbox">
+          <!-- Slide One - Set the background image for this slide in the line below -->
+          <div class="carousel-item active" style="background-image: url('{% static "ipage/files/doctors.jpg" %}')">
+            <div class="carousel-caption d-none d-md-block">
+              <h3>We need a change</h3>
+              <!--<p>This is a description for the first slide.</p>-->
+            </div>
+          </div>
+          <!-- Slide Two - Set the background image for this slide in the line below -->
+          <div class="carousel-item" style="background-image: url('{% static "ipage/files/facebook-doctor.jpg" %}')">
+            <div class="carousel-caption d-none d-md-block">
+              <h3>We're gonna change</h3>
+              <!--<p>This is a description for the second slide.</p>-->
+            </div>
+          </div>
+          <!-- Slide Three - Set the background image for this slide in the line below -->
+          <div class="carousel-item" style="background-image: url('{% static "ipage/files/facebook-1_edited.jpg" %}')">
+            <div class="carousel-caption d-none d-md-block">
+              <h3>We are the change</h3>
+              <!--<p>This is a description for the third slide.</p>-->
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+
+
+
+        <!-- Footer -->
+        <footer class="footer">
+          <div class="container">
+            <p>Copyright &copy; My Website 2018</p>
+          </div>
+        </footer>
+
+
+      <script src="{% static "ipage/script/jquery.min.js" %}"></script>
+      <script src="{% static "ipage/script/jquery.js" %}"></script>
+
+      <script src="{% static "ipage/script/bootstrap.bundle.min.js" %}"></script>
+
+
+  </body>
+
+</html>

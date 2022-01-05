@@ -1,0 +1,16 @@
+S/N,Manufacturer,Name,Type,Unit(Dose),Constituents/Unit,Package unit,Price(In Rs.),Price/Unit (In Rs.)
+1,Cipla Limited,Dexacip (Eye),Drop    ,1 ml,Dexamethasone-0.1%,5 ml,10,2
+2,Biomedica International,Dexapar (Eye),Drop    ,1 ml,Dexamethasone-0.1%,5 ml,12.6,2.52
+3,J.B. Chemicals & Pharmaceuticals Ltd.,Dispred (Eye),Drop    ,1 ml,Prednisolone-0.1%,5 ml,30,6
+4,Calibre Pharmaceutical Pvt. Ltd.,Betasone (3 ml),Drop    ,3 ml,Betamethasone Sodium Phosphate-0.1%,3 ml,6,6
+5,Parenteral Drugs (India) Ltd.,Ocusone (E/E) (0.3 ml),Drop    ,0.3 ml,Betamethasone-0.1%,0.3 ml,12,12
+6,Sun Pharmaceutical Industries Ltd.,Milbeta (Eye) (5 ml),Drop    ,5 ml,Betamethasone-0.1%,5 ml,13.2,13.2
+7,Cadila Pharmaceuticals Ltd.,Sanbeta (E/E) (5 ml),Drop    ,5 ml,Betamethasone-0.1%,5 ml,14.1,14.1
+8,Ind-Swift Limited,Predyl (Eye) (5 ml),Drop    ,5 ml,Prednisolone-0.1%,5 ml,24,24
+9,Cipla Limited,Predone (Eye) (5 ml),Drop    ,5 ml,Prednisolone-0.1%,5 ml,27.8,27.8
+10,Elder Pharmaceuticals Pvt Ltd,Locoid Lipocrm (Skin) (10 gm),Cream   ,10 gm,Hydrocortisone-0.1%,10 gm,32,32
+11,Macleods Pharmaceuticals Pvt Ltd.,Omnacortil (Skin) (10 gm),Cream   ,10 gm,Methylprednisolone-0.1%,10 gm,71.12,71.12
+12,Wyeth (I) Limited,Ledercort (Skin) (15 gm),Ointment   ,15 gm,Triamcinolone-0.1%,15 gm,39.89,39.89
+13,Glaxo Smithkline Pharmaceuticals Ltd.,Betnovate Scalp (Skin) (20 ml),Lotion    ,20 ml,Betamethasone-0.1%,20 ml,14.75,14.75
+14,Elder Pharmaceuticals Pvt Ltd,Locoid (Skin) (15 ml),Lotion    ,15 ml,Hydrocortisone-0.1%,15 ml,31.5,31.5
+15,Troikaa Pharmaceuticals Ltd.,Tess (Mouth/Throat) (5 gm),Tooth Paste   ,5 gm,Triamcinolone-0.1%,5 gm,49.5,49.5

@@ -1,0 +1,10 @@
+S/N,Manufacturer,Name,Type,Unit(Dose),Constituents/Unit,Package unit,Price(In Rs.),Price/Unit (In Rs.)
+1,Sanofi Aventis,Rifater (250+80+120),Tablet    ,1 Tablet,Pyrazinamide-250 mg,10 Tablet,17.94,1.79
+,,,,,Isoniazid-80 mg,,,
+,,,,,Rifampicin-120 mg,,,
+2,Sunij Pharma Pvt Ltd,RIP (250+80+120),Tablet    ,1 Tablet,Isoniazid-80 mg,10 Tablet,18.1,1.81
+,,,,,Pyrazinamide-250 mg,,,
+,,,,,Rifampicin-120 mg,,,
+3,Merind Ltd (Wockhardt Ltd),Caviter (250+120+80),Tablet    ,1 Tablet,Pyrazinamide-250 mg,10 Tablet,30,3
+,,,,,Isoniazid-80 mg,,,
+,,,,,Rifampicin-120 mg,,,

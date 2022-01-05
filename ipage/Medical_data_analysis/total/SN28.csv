@@ -1,0 +1,87 @@
+S/N,Manufacturer,Name,Type,Unit(Dose),Constituents/Unit,Package unit,Price(In Rs.),Price/Unit (In Rs.)
+1,Acichem Laboratories,Dexamethasone (0.5 mg) (Acichem Labs),Tablet    ,1 Tablet,Dexamethasone-0.5 mg,1000 Tablet,100,0.1
+2,Generic (Cadila Pharmaceuticals Ltd.),Dexamethasone (0.5 mg) (Generic),Tablet    ,1 Tablet,Dexamethasone-0.5 mg,200 Tablet,30.58,0.15
+3,Sanjivani Parenteral Ltd,Dexamethasone (0.5 mg) (Sanjivani Parenteral),Tablet    ,1 Tablet,Dexamethasone-0.5 mg,1000 Tablet,153.84,0.15
+4,Kentreck Labs Pvt Ltd.,Dexaken (0.5 mg),Tablet    ,1 Tablet,Dexamethasone-0.5 mg,10 Tablet,1.7,0.17
+5,Jan Aushadhi,Dexamethasone 0.5 mg (Jan Aushadhi),Tablet    ,1 Tablet,Dexamethasone-0.5 mg,10 Tablet,1.86,0.19
+6,Allied Chemicals & Pharmaceuticals Pvt.Ltd.,Dexalide (0.5 mg),Tablet    ,1 Tablet,Dexamethasone-0.5 mg,10 Tablet,1.94,0.19
+7,Bini Laboratories Pvt Ltd,Dexamethasone (0.5 mg) (Bini Laboratories),Tablet    ,1 Tablet,Dexamethasone-0.5 mg,10 Tablet,2,0.2
+8,Cipla Limited,Dexacip (0.5 mg),Tablet    ,1 Tablet,Dexamethasone-0.5 mg,100 Tablet,20.78,0.21
+9,Merind Ltd (Wockhardt Ltd),Decdan (0.5 mg),Tablet    ,1 Tablet,Dexamethasone-0.5 mg,10 Tablet,2.08,0.21
+10,Cadila Healthcare Ltd (Zydus Cadila Healthcare Ltd),Dexona (0.5 mg),Tablet    ,1 Tablet,Dexamethasone-0.5 mg,10 Tablet,2.14,0.21
+11,Cadila Pharmaceuticals Ltd.,Dexasone (0.5 mg),Tablet    ,1 Tablet,Dexamethasone-0.5 mg,10 Tablet,2.15,0.22
+12,Genvista (Cadila Pharmaceuticals Ltd.),Demisone (0.5 mg),Tablet    ,1 Tablet,Dexamethasone-0.5 mg,10 Tablet,2.15,0.22
+13,Wyeth Ltd.,Wymesone (0.5 mg),Tablet    ,1 Tablet,Dexamethasone-0.5 mg,10 Tablet,2.18,0.22
+14,Kentreck Labs Pvt Ltd.,Betaken (0.5 mg),Tablet    ,1 Tablet,Betamethasone-0.5 mg,10 Tablet,2.2,0.22
+15,Baroda Pharma Pvt Ltd,Dexamine (0.5 mg),Tablet    ,1 Tablet,Dexamethasone-0.5 mg,200 Tablet,44.6,0.22
+16,Indian Drugs & Pharmaceuticals Ltd.,Idizone (0.5 mg),Tablet    ,1 Tablet,Dexamethasone-0.5 mg,10 Tablet,2.39,0.24
+17,Merind Ltd (Wockhardt Ltd),Decdakst (0.5 mg),Tablet    ,1 Tablet,Dexamethasone-0.5 mg,10 Tablet,2.82,0.28
+18,Galpha Laboratories Ltd.,Decicort (0.5 mg),Tablet    ,1 Tablet,Dexamethasone Phosphate-0.5 mg,10 Tablet,3,0.3
+19,Shalaks Pharmaceuticals Pvt. Ltd.,Dexamag (0.5 mg),Tablet    ,1 Tablet,Dexamethasone-0.5 mg,10 Tablet,3,0.3
+20,East African (I) Remedies Pvt Ltd,Dexariv (0.5 mg),Tablet    ,1 Tablet,Dexamethasone-0.5 mg,100 Tablet,30,0.3
+21,Merind Ltd (Wockhardt Ltd),Decdak ST (0.5 mg),Tablet    ,1 Tablet,Dexamethasone-0.5 mg,10 Tablet,3.15,0.32
+22,Acron Pharmaceuticals,Dexacron (0.5 mg),Tablet    ,1 Tablet,Dexamethasone-0.5 mg,200 Tablet,65,0.33
+23,Fulford (India) Ltd.,Celestone (0.5 mg),Tablet    ,1 Tablet,Betamethasone-0.5 mg,10 Tablet,3.27,0.33
+24,Glaxo Smithkline Pharmaceuticals Ltd.,Betnesol (0.5 mg),Tablet    ,1 Tablet,Betamethasone-0.5 mg,20 Tablet,6.68,0.33
+25,Cipla Limited,Betnecip (0.5 mg) (Oval Tab),Tablet    ,1 Tablet,Betamethasone-0.5 mg,10 Tablet,3.4,0.34
+26,Cipla Limited,Betnecip (0.5 mg) (Round Tab),Tablet    ,1 Tablet,Betamethasone-0.5 mg,10 Tablet,3.4,0.34
+27,Raddison Health Care Pvt Ltd,Catrisol (0.5 mg),Tablet    ,1 Tablet,Betamethasone-0.5 mg,1000 Tablet,350,0.35
+28,Wallace Pharmaceuticals Ltd.,Walacort (0.5 mg),Tablet    ,1 Tablet,Betamethasone-0.5 mg,10 Tablet,3.55,0.36
+29,Aronex Life Sciences Pvt. Ltd.,Betnecip (0.5 mg) (Aronex Life Science),Tablet    ,1 Tablet,Betamethasone-0.5 mg,10 Tablet,3.57,0.36
+30,Ind-Swift Limited,Stemin (0.5 mg),Tablet    ,1 Tablet,Betamethasone-0.5 mg,10 Tablet,3.57,0.36
+31,Cipla Limited,Betnecip (0.5 mg),Tablet    ,1 Tablet,Betamethasone-0.5 mg,10 Tablet,3.59,0.36
+32,Medopharm,Betsone (0.5 mg),Tablet    ,1 Tablet,Betamethasone-0.5 mg,20 Tablet,7.18,0.36
+33,Rax Health Care Pvt. Ltd.,Betarax (0.5 mg),Tablet    ,1 Tablet,Betamethasone-0.5 mg,10 Tablet,3.6,0.36
+34,Innovative Pharmaceuticals,Betnedac (0.5 mg),Tablet    ,1 Tablet,Betamethasone Sodium Phosphate-0.5 mg ,10 Tablet,3.6,0.36
+35,Sunij Pharma Pvt Ltd,Betanij (0.5 mg),Tablet    ,1 Tablet,Betamethasone-0.5 mg,10 Tablet,3.63,0.36
+36,Bestochem Formulations (India) Ltd.,Betawin Forte (0.5 mg),Tablet    ,1 Tablet,Betamethasone-0.5 mg,10 Tablet,3.7,0.37
+37,Cyper Pharma,Cypasol (0.5 mg),Tablet    ,1 Tablet,Betamethasone-0.5 mg,500 Tablet,190,0.38
+38,Kentreck Labs Pvt Ltd.,Betastek (0.5 mg),Tablet    ,1 Tablet,Betamethasone-0.5 mg,10 Tablet,3.82,0.38
+39,Zydus Cadila Healthcare Ltd,Dexona Forte (0.5 mg),Tablet    ,1 Tablet,Dexamethasone-0.5 mg,10 Tablet,3.82,0.38
+40,Lupin Laboratories Ltd.,Solubet (0.5 mg),Tablet    ,1 Tablet,Betamethasone-0.5 mg,10 Tablet,3.88,0.39
+41,Allied Chemicals & Pharmaceuticals Pvt.Ltd.,Betalide (0.5 mg),Tablet    ,1 Tablet,Betamethasone Sodium Phosphate-0.5 mg,10 Tablet,3.88,0.39
+42,Cipla Limited,Betnecort (0.5 mg),Tablet    ,1 Tablet,Betamethasone-0.5 mg,10 Tablet,3.93,0.39
+43,Glaxo Smithkline Pharmaceuticals Ltd.,Betnelan (0.5 mg),Tablet    ,1 Tablet,Betamethasone-0.5 mg,10 Tablet,3.96,0.4
+44,Comed Chemicals Pvt Ltd,Belar (0.5 mg),Tablet    ,1 Tablet,Betamethasone-0.5 mg,10 Tablet,3.96,0.4
+45,Casca Remedies Pvt Ltd.,Ascort (0.5 mg),Tablet    ,1 Tablet,Betamethasone-0.5 mg,10 Tablet,4,0.4
+46,Healing Touch Pharmaceuticals,Hiclor (0.5 mg),Tablet    ,1 Tablet,Betamethasone-0.5 mg,10 Tablet,4,0.4
+47,South India Research Institute Pvt Ltd,Histacort B (0.5 mg),Tablet    ,1 Tablet,Betamethasone-0.5 mg,10 Tablet,4,0.4
+48,Overseas Health Care Pvt. Ltd.,Betacort (0.5 mg),Tablet    ,1 Tablet,Betamethasone-0.5 mg,10 Tablet,4,0.4
+49,Pharma Synth Formulations Ltd.,Betaphos (0.5 mg),Tablet    ,1 Tablet,Betamethasone Sodium Phosphate-0.5 mg,10 Tablet,4,0.4
+50,Franklin Laboratories (P) Ltd.,Betachlor (0.5 mg),Tablet    ,1 Tablet,Betamethasone-0.5 mg,10 Tablet,4,0.4
+51,Lark Laboratories (India) Ltd.,Betlar S (0.5 mg),Tablet    ,1 Tablet,Betamethasone-0.5 mg,10 Tablet,4,0.4
+52,Suzikem Drugs Pvt. Ltd.,Betastamine (0.5 mg),Tablet    ,1 Tablet,Betamethasone-0.5 mg,10 Tablet,4,0.4
+53,Lark Laboratories (India) Ltd.,Betalar (0.5 mg),Tablet    ,1 Tablet,Betamethasone-0.5 mg,100 Tablet,40.35,0.4
+54,Bestochem Formulations (India) Ltd.,Betawin S (0.5 mg),Tablet    ,1 Tablet,Betamethasone Sodium-0.5 mg,10 Tablet,4.05,0.41
+55,Eden Healthcare,Densol (0.5 mg),Tablet    ,1 Tablet,Betamethasone-0.5 mg,250 Tablet,102,0.41
+56,Elikem Pharmaceuticals Pvt. Ltd.,Aller B (0.5 mg),Tablet    ,1 Tablet,Betamethasone-0.5 mg,10 Tablet,4.3,0.43
+57,Unimarck Pharma (India) Limited,Betamine (0.5 mg),Tablet    ,1 Tablet,Betamethasone-0.5 mg,10 Tablet,4.5,0.45
+58,Kim Laboratories Pvt Ltd.,Alerkim (0.5 mg),Tablet    ,1 Tablet,Betamethasone-0.5 mg,20 Tablet,9,0.45
+59,Alicon Pharmaceuticals Pvt. Ltd.,Betacon (0.5 mg),Tablet    ,1 Tablet,Betamethasone-0.5 mg,10 Tablet,4.5,0.45
+60,Pfizer Limited (Pharmacia India Pvt Ltd),Betacortril (0.5 mg),Tablet    ,1 Tablet,Betamethasone-0.5 mg,10 Tablet,4.64,0.46
+61,Active Healthcare,Acticard (0.5 mg),Tablet    ,1 Tablet,Betamethasone-0.5 mg,10 Tablet,4.9,0.49
+62,East African (I) Remedies Pvt Ltd,Betariv (0.5 mg),Tablet    ,1 Tablet,Betamethasone-0.5 mg,10 Tablet,4.9,0.49
+63,Synokem Pharmaceuticals Ltd,Syncort (0.5 mg),Tablet    ,1 Tablet,Betamethasone-0.5 mg,10 Tablet,4.95,0.5
+64,Talent Laboratories,Sterodin B (0.5 mg),Tablet    ,1 Tablet,Betamethasone-0.5 mg,200 Tablet,100,0.5
+65,Acron Pharmaceuticals,A Cort (0.5 mg),Tablet    ,1 Tablet,Betamethasone-0.5 mg,10 Tablet,5,0.5
+66,Mefro Pharmaceuticals Pvt Ltd,Beta (0.5 mg),Tablet    ,1 Tablet,Betamethasone-0.5 mg,10 Tablet,6,0.6
+67,Vishnu Natural Herbs (P) Ltd,D Cort (0.5 mg),Tablet    ,1 Tablet,Dexamethasone-0.5 mg,300 Tablet,180,0.6
+68,Aan Pharma Pvt Ltd,Steroin (0.5 mg),Tablet    ,1 Tablet,Betamethasone-0.5 mg,10 Tablet,6,0.6
+69,Perk Pharmaceuticals Ltd.,Solubin (0.5 mg),Tablet    ,1 Tablet,Betamethasone-0.5 mg,10 Tablet,6.2,0.62
+70,Rhombus Pharma Private Limited,Zobet (0.5 mg),Tablet    ,1 Tablet,Betamethasone-0.5 mg,100 Tablet,62,0.62
+71,Medicot Plus,Karbet (0.5 mg),Tablet    ,1 Tablet,Betamethasone-0.5 mg,30 Tablet,21,0.7
+72,Micro Labs Ltd,Cortil (0.5 mg),Tablet    ,1 Tablet,Betamethasone-0.5 mg,10 Tablet,7.09,0.71
+73,Pramukh Swami Pharma Ltd.,Betasole (0.5 mg),Tablet    ,1 Tablet,Betamethasone-0.5 mg,10 Tablet,8,0.8
+74,Agron Remedies Pvt Ltd (Agrogem),Betaron (0.5 mg),Tablet    ,1 Tablet,Betamethasone-0.5 mg,100 Tablet,312,3.12
+75,Lupin Laboratories Ltd.,Solubet (Eye) (10 ml),Drop    ,1 ml,Betamethasone-0.5 mg,10 ml,4.99,0.5
+76,Zydus Alidac (Zydus Cadila Healthcare Ltd),Dexona Drops (Eye),Drop    ,1 ml,Dexamethasone-0.5 mg,10 ml,6.92,0.69
+77,Glaxo Smithkline Pharmaceuticals Ltd.,Betnesol (E/E) (15 ml),Drop    ,1 ml,Betamethasone-0.5 mg,15 ml,11,0.73
+78,Eden Healthcare,Densol Oral (10 ml),Drop    ,1 ml,Betamethasone-0.5 mg,10 ml,9,0.9
+79,Acron Pharmaceuticals,Dexacron Oral (Eye),Drop    ,1 ml,Dexamethasone-0.5 mg,10 ml,10,1
+80,Fulford (India) Ltd.,Celestone (10 ml),Drop    ,1 ml,Betamethasone-0.5 mg,10 ml,15.72,1.57
+81,Lark Laboratories (India) Ltd.,Betalar (15 ml),Drop    ,5 ml,Betamethasone-0.5 mg,15 ml,10.3,3.43
+82,Densa Pharmaceuticals Pvt.Ltd.,Becort (15 ml),Drop    ,15 ml,Betamethasone-0.5 mg,15 ml,8.34,8.34
+83,Glaxo Smithkline Pharmaceuticals Ltd.,Betnelan (15 ml),Drop    ,15 ml,Betamethasone-0.5 mg,15 ml,10,10
+84,Ind-Swift Limited,Stemin (15 ml),Drop    ,15 ml,Betamethasone-0.5 mg,15 ml,10.28,10.28
+85,Ceza Formulations Pvt.Ltd,Betalon (15 ml),Drop    ,15 ml,Betamethasone-0.5 mg,15 ml,15.2,15.2
+86,Rax Health Care Pvt. Ltd.,Betarax Inj (0.5 mg),Injection    ,1 ml,Betamethasone-0.5 mg,1 ml,4.73,4.73

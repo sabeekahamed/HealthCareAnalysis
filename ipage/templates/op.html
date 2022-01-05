@@ -1,0 +1,18 @@
+
+<title> Doctor page </title><link rel = "icon" type="image/png" href = "{% static "ipage/files/m.png" %}" />
+<link href="{% static "ipage/css/bootstrap.css" %}" rel="stylesheet">
+<link href="{% static "ipage/css/full-slider.css" %}" rel="stylesheet">
+<link href="{% static "ipage/css/modal_search.css" %}" rel="stylesheet">
+<link href="{% static "ipage/css/footer.css" %}" rel="stylesheet"><div id="r" class="modal">
+    <div class="result-content">
+      <div class="modal-body">
+        <form method="get">{% csrf_token %}
+          <button type="button" id="x" >Close</button>
+        </form>
+      </div>
+    </div>
+  </div>
+  <script src="{% static "ipage/script/jquery.min.js" %}"></script>
+  <script src="{% static "ipage/script/jquery.js" %}"></script>
+  <script src="{% static "ipage/script/modal_search.js" %}"></script>
+  <script src="{% static "ipage/script/bootstrap.bundle.min.js" %}"></script>
